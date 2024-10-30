@@ -1,0 +1,32 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Households by Household Size,H016001,Tenure by Household Size,Decennial,dec/sf1,H016001,2010,2010,block group
+Total Owner Occupied Housholds,H016002,Tenure by Household Size,Decennial,dec/sf1,H016002,2010,2010,block group
+Owner Occupied 1 person household,H016003,Tenure by Household Size,Decennial,dec/sf1,H016003,2010,2010,block group
+Owner Occupied 2 person household,H016004,Tenure by Household Size,Decennial,dec/sf1,H016004,2010,2010,block group
+Owner Occupied 3 person household,H016005,Tenure by Household Size,Decennial,dec/sf1,H016005,2010,2010,block group
+Owner Occupied 4 person household,H016006,Tenure by Household Size,Decennial,dec/sf1,H016006,2010,2010,block group
+Owner Occupied 5 person household,H016007,Tenure by Household Size,Decennial,dec/sf1,H016007,2010,2010,block group
+Owner Occupied 6 person household,H016008,Tenure by Household Size,Decennial,dec/sf1,H016008,2010,2010,block group
+Owner Occupied 7 person household,H016009,Tenure by Household Size,Decennial,dec/sf1,H016009,2010,2010,block group
+Total Renter Occupied Housholds,H016010,Tenure by Household Size,Decennial,dec/sf1,H016010,2010,2010,block group
+Renter Occupied 1 person household,H016011,Tenure by Household Size,Decennial,dec/sf1,H016011,2010,2010,block group
+Renter Occupied 2 person household,H016012,Tenure by Household Size,Decennial,dec/sf1,H016012,2010,2010,block group
+Renter Occupied 3 person household,H016013,Tenure by Household Size,Decennial,dec/sf1,H016013,2010,2010,block group
+Renter Occupied 4 person household,H016014,Tenure by Household Size,Decennial,dec/sf1,H016014,2010,2010,block group
+Renter Occupied 5 person household,H016015,Tenure by Household Size,Decennial,dec/sf1,H016015,2010,2010,block group
+Renter Occupied 6 person household,H016016,Tenure by Household Size,Decennial,dec/sf1,H016016,2010,2010,block group
+Renter Occupied 7 person household,H016017,Tenure by Household Size,Decennial,dec/sf1,H016017,2010,2010,block group
+Group Quarters Population,P029026,Group Quarters,Decennial,dec/sf1,P029026,2010,2010,block group
+Total Households by Presence of Children,HCT010001,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010001,2010,2010,tract
+Total Owner Occupied Housholds by Presence of Children,HCT010002,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010002,2010,2010,tract
+Owner Occupied Households With Own Children under 18,HCT010003,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010003,2010,2010,tract
+Owner Occupied Households With Own Children under 6 years only,HCT010004,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010004,2010,2010,tract
+Owner Occupied Households With Own Children under 6 years and 6 to 17 years,HCT010005,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010005,2010,2010,tract
+Owner Occupied Households With Own Children 6 to 17 years,HCT010006,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010006,2010,2010,tract
+Owner Occupied Households No Own Children under 18,HCT010007,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010007,2010,2010,tract
+Total Renter Occupied Housholds by Presence of Children,HCT010008,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010008,2010,2010,tract
+Renter Occupied Households With Own Children under 18,HCT010009,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010009,2010,2010,tract
+Renter Occupied Households With Own Children under 6 years only,HCT010010,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010010,2010,2010,tract
+Renter Occupied Households With Own Children under 6 years and 6 to 17 years,HCT010011,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010011,2010,2010,tract
+Renter Occupied Households With Own Children 6 to 17 years,HCT010012,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010012,2010,2010,tract
+Renter Occupied Households No Own Children under 18,HCT010013,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010013,2010,2010,tract

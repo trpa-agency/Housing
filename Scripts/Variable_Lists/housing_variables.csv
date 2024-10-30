@@ -1,0 +1,128 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied Households With Own Children under 6 years and 6 to 17 years,B25012_6,Tenure by Prescence of Children,American Community Survey,acs/acs10,B25012_6,2022,2020,block group
+Owner Occupied Households With Own Children 6 to 17 years,B25012_7,Tenure by Prescence of Children,American Community Survey,acs/acs11,B25012_7,2022,2020,block group
+Owner Occupied Households No Own Children under 18,B25012_8,Tenure by Prescence of Children,American Community Survey,acs/acs12,B25012_8,2022,2020,block group
+Owner Occupied Households No Related Children under 18,B25012_9,Tenure by Prescence of Children,American Community Survey,acs/acs13,B25012_9,2022,2020,block group
+Total Renter Occupied Housholds by Presence of Children,B25012_10,Tenure by Prescence of Children,American Community Survey,acs/acs14,B25012_10,2022,2020,block group
+Renter Occupied Households With Related Children under 18,B25012_11,Tenure by Prescence of Children,American Community Survey,acs/acs15,B25012_11,2022,2020,block group
+Renter Occupied Households With Own Children under 18,B25012_12,Tenure by Prescence of Children,American Community Survey,acs/acs16,B25012_12,2022,2020,block group
+Renter Occupied Households With Own Children under 6 years only,B25012_13,Tenure by Prescence of Children,American Community Survey,acs/acs17,B25012_13,2022,2020,block group
+Renter Occupied Households With Own Children under 6 years and 6 to 17 years,B25012_14,Tenure by Prescence of Children,American Community Survey,acs/acs18,B25012_14,2022,2020,block group
+Renter Occupied Households With Own Children 6 to 17 years,B25012_15,Tenure by Prescence of Children,American Community Survey,acs/acs19,B25012_15,2022,2020,block group
+Renter Occupied Households No Own Children under 18,B25012_16,Tenure by Prescence of Children,American Community Survey,acs/acs20,B25012_16,2022,2020,block group
+Renter Occupied Households No Related Children under 18,B25012_17,Tenure by Prescence of Children,American Community Survey,acs/acs21,B25012_17,2022,2020,block group
+Group Quarters Population,B26001,Group Quarters,American Community Survey,acs/acs5,B26001,2022,2020,block group
+Median Age Female,B01002,Age,American Community Survey,acs/acs5,B01002,2022,2020,block group
+Median Age Male,B01002,Age,American Community Survey,acs/acs5,B01002,2022,2020,block group
+Total Households by Household Size,B25009_001,Tenure by Household Size,American Community Survey,acs/acs5,B25009_001,2022,2020,block group
+Total Owner Occupied Housholds,B25009_002,Tenure by Household Size,American Community Survey,acs/acs5,B25009_002,2022,2020,block group
+Owner Occupied 1 person household,B25009_003,Tenure by Household Size,American Community Survey,acs/acs5,B25009_003,2022,2020,block group
+Owner Occupied 2 person household,B25009_004,Tenure by Household Size,American Community Survey,acs/acs5,B25009_004,2022,2020,block group
+Owner Occupied 3 person household,B25009_005,Tenure by Household Size,American Community Survey,acs/acs5,B25009_005,2022,2020,block group
+Owner Occupied 4 person household,B25009_006,Tenure by Household Size,American Community Survey,acs/acs5,B25009_006,2022,2020,block group
+Owner Occupied 5 person household,B25009_007,Tenure by Household Size,American Community Survey,acs/acs5,B25009_007,2022,2020,block group
+Owner Occupied 6 person household,B25009_008,Tenure by Household Size,American Community Survey,acs/acs5,B25009_008,2022,2020,block group
+Owner Occupied 7 person or more household,B25009_009,Tenure by Household Size,American Community Survey,acs/acs5,B25009_009,2022,2020,block group
+Total Renter Occupied Housholds,B25009_0010,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0010,2022,2020,block group
+Renter Occupied 1 person household,B25009_0011,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0011,2022,2020,block group
+Renter Occupied 2 person household,B25009_0012,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0012,2022,2020,block group
+Renter Occupied 3 person household,B25009_0013,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0013,2022,2020,block group
+Renter Occupied 4 person household,B25009_0014,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0014,2022,2020,block group
+Renter Occupied 5 person household,B25009_0015,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0015,2022,2020,block group
+Renter Occupied 6 person household,B25009_0016,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0016,2022,2020,block group
+Renter Occupied 7 person or more household,B25009_0017,Tenure by Household Size,American Community Survey,acs/acs5,B25009_0017,2022,2020,block group
+Total Households by Presence of Children,B25012_1,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_1,2022,2020,block group
+Educational Attainment: Population 18 to 24: Total,S1501_C01_001,Education,American Community Survey,acs/acs5/subject,S1501_C01_001,2010,2010,block group
+Educational Attainment: Population 18 to 24 Less than high school graduate,S1501_C01_002,Education,American Community Survey,acs/acs5/subject,S1501_C01_002,2010,2010,block group
+Educational Attainment: Population 18 to 24: High school graduate,S1501_C01_003,Education,American Community Survey,acs/acs5/subject,S1501_C01_003,2010,2010,block group
+Educational Attainment: Population 18 to 24: Some college or associates degree,S1501_C01_004,Education,American Community Survey,acs/acs5/subject,S1501_C01_004,2010,2010,block group
+Educational Attainment: Population 18 to 24: Bachelor degree or higher ,S1501_C01_005,Education,American Community Survey,acs/acs5/subject,S1501_C01_005,2010,2010,block group
+Educational Attainment: Population 25 years and over: Total,S1501_C01_006,Education,American Community Survey,acs/acs5/subject,S1501_C01_006,2010,2010,block group
+Educational Attainment: Population 25 years and over: Less than 9th grade,S1501_C01_007,Education,American Community Survey,acs/acs5/subject,S1501_C01_007,2010,2010,block group
+Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,S1501_C01_008,Education,American Community Survey,acs/acs5/subject,S1501_C01_008,2010,2010,block group
+Educational Attainment: Population 25 years and over: High school graduate,S1501_C01_009,Education,American Community Survey,acs/acs5/subject,S1501_C01_009,2010,2010,block group
+Educational Attainment: Population 25 years and over: Some college no degree,S1501_C01_0010,Education,American Community Survey,acs/acs5/subject,S1501_C01_0010,2010,2010,block group
+Educational Attainment: Population 25 years and over: Associates degree,S1501_C01_0011,Education,American Community Survey,acs/acs5/subject,S1501_C01_0011,2010,2010,block group
+Educational Attainment: Population 25 years and over: Bachelors degree,S1501_C01_0012,Education,American Community Survey,acs/acs5/subject,S1501_C01_0012,2010,2010,block group
+Educational Attainment: Population 25 years and over: Graduate or professional degree,S1501_C01_0013,Education,American Community Survey,acs/acs5/subject,S1501_C01_0013,2010,2010,block group
+Educational Attainment: Population 18 to 24: Total,S1501_C01_001,Education,American Community Survey,acs/acs5/subject,S1501_C01_001,2022,2020,block group
+Educational Attainment: Population 18 to 24 Less than high school graduate,S1501_C01_002,Education,American Community Survey,acs/acs5/subject,S1501_C01_002,2022,2020,block group
+Educational Attainment: Population 18 to 24: High school graduate,S1501_C01_003,Education,American Community Survey,acs/acs5/subject,S1501_C01_003,2022,2020,block group
+Educational Attainment: Population 18 to 24: Some college or associates degree,S1501_C01_004,Education,American Community Survey,acs/acs5/subject,S1501_C01_004,2022,2020,block group
+Educational Attainment: Population 18 to 24: Bachelor degree or higher ,S1501_C01_005,Education,American Community Survey,acs/acs5/subject,S1501_C01_005,2022,2020,block group
+Educational Attainment: Population 25 years and over: Total,S1501_C01_006,Education,American Community Survey,acs/acs5/subject,S1501_C01_006,2022,2020,block group
+Educational Attainment: Population 25 years and over: Less than 9th grade,S1501_C01_007,Education,American Community Survey,acs/acs5/subject,S1501_C01_007,2022,2020,block group
+Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,S1501_C01_008,Education,American Community Survey,acs/acs5/subject,S1501_C01_008,2022,2020,block group
+Educational Attainment: Population 25 years and over: High school graduate,S1501_C01_009,Education,American Community Survey,acs/acs5/subject,S1501_C01_009,2022,2020,block group
+Educational Attainment: Population 25 years and over: Some college no degree,S1501_C01_0010,Education,American Community Survey,acs/acs5/subject,S1501_C01_0010,2022,2020,block group
+Educational Attainment: Population 25 years and over: Associates degree,S1501_C01_0011,Education,American Community Survey,acs/acs5/subject,S1501_C01_0011,2022,2020,block group
+Educational Attainment: Population 25 years and over: Bachelors degree,S1501_C01_0012,Education,American Community Survey,acs/acs5/subject,S1501_C01_0012,2022,2020,block group
+Educational Attainment: Population 25 years and over: Graduate or professional degree,S1501_C01_0013,Education,American Community Survey,acs/acs5/subject,S1501_C01_0013,2022,2020,block group
+Total Owner Occupied Housholds by Presence of Children,B25012_2,Tenure by Prescence of Children,American Community Survey,acs/acs6,B25012_2,2022,2020,block group
+Owner Occupied Households With Related Children under 18,B25012_3,Tenure by Prescence of Children,American Community Survey,acs/acs7,B25012_3,2022,2020,block group
+Owner Occupied Households With Own Children under 18,B25012_4,Tenure by Prescence of Children,American Community Survey,acs/acs8,B25012_4,2022,2020,block group
+Owner Occupied Households With Own Children under 6 years only,B25012_5,Tenure by Prescence of Children,American Community Survey,acs/acs9,B25012_5,2022,2020,block group
+Total Households by Household Size,H12_001,Tenure by Household Size,Decennial,dec/dhc,H12_001,2020,2020,block group
+Total Owner Occupied Housholds,H12_002,Tenure by Household Size,Decennial,dec/dhc,H12_002,2020,2020,block group
+Owner Occupied 1 person household,H12_003,Tenure by Household Size,Decennial,dec/dhc,H12_003,2020,2020,block group
+Owner Occupied 2 person household,H12_004,Tenure by Household Size,Decennial,dec/dhc,H12_004,2020,2020,block group
+Owner Occupied 3 person household,H12_005,Tenure by Household Size,Decennial,dec/dhc,H12_005,2020,2020,block group
+Owner Occupied 4 person household,H12_006,Tenure by Household Size,Decennial,dec/dhc,H12_006,2020,2020,block group
+Owner Occupied 5 person household,H12_007,Tenure by Household Size,Decennial,dec/dhc,H12_007,2020,2020,block group
+Owner Occupied 6 person household,H12_008,Tenure by Household Size,Decennial,dec/dhc,H12_008,2020,2020,block group
+Owner Occupied 7 person household,H12_009,Tenure by Household Size,Decennial,dec/dhc,H12_009,2020,2020,block group
+Total Renter Occupied Housholds,H12_010,Tenure by Household Size,Decennial,dec/dhc,H12_010,2020,2020,block group
+Renter Occupied 1 person household,H12_011,Tenure by Household Size,Decennial,dec/dhc,H12_011,2020,2020,block group
+Renter Occupied 2 person household,H12_012,Tenure by Household Size,Decennial,dec/dhc,H12_012,2020,2020,block group
+Renter Occupied 3 person household,H12_013,Tenure by Household Size,Decennial,dec/dhc,H12_013,2020,2020,block group
+Renter Occupied 4 person household,H12_014,Tenure by Household Size,Decennial,dec/dhc,H12_014,2020,2020,block group
+Renter Occupied 5 person household,H12_015,Tenure by Household Size,Decennial,dec/dhc,H12_015,2020,2020,block group
+Renter Occupied 6 person household,H12_016,Tenure by Household Size,Decennial,dec/dhc,H12_016,2020,2020,block group
+Renter Occupied 7 person household,H12_017,Tenure by Household Size,Decennial,dec/dhc,H12_017,2020,2020,block group
+Total Households by Household Size,H016001,Tenure by Household Size,Decennial,dec/sf1,H016001,2010,2010,block group
+Total Owner Occupied Housholds,H016002,Tenure by Household Size,Decennial,dec/sf1,H016002,2010,2010,block group
+Owner Occupied 1 person household,H016003,Tenure by Household Size,Decennial,dec/sf1,H016003,2010,2010,block group
+Owner Occupied 2 person household,H016004,Tenure by Household Size,Decennial,dec/sf1,H016004,2010,2010,block group
+Owner Occupied 3 person household,H016005,Tenure by Household Size,Decennial,dec/sf1,H016005,2010,2010,block group
+Owner Occupied 4 person household,H016006,Tenure by Household Size,Decennial,dec/sf1,H016006,2010,2010,block group
+Owner Occupied 5 person household,H016007,Tenure by Household Size,Decennial,dec/sf1,H016007,2010,2010,block group
+Owner Occupied 6 person household,H016008,Tenure by Household Size,Decennial,dec/sf1,H016008,2010,2010,block group
+Owner Occupied 7 person household,H016009,Tenure by Household Size,Decennial,dec/sf1,H016009,2010,2010,block group
+Total Renter Occupied Housholds,H016010,Tenure by Household Size,Decennial,dec/sf1,H016010,2010,2010,block group
+Renter Occupied 1 person household,H016011,Tenure by Household Size,Decennial,dec/sf1,H016011,2010,2010,block group
+Renter Occupied 2 person household,H016012,Tenure by Household Size,Decennial,dec/sf1,H016012,2010,2010,block group
+Renter Occupied 3 person household,H016013,Tenure by Household Size,Decennial,dec/sf1,H016013,2010,2010,block group
+Renter Occupied 4 person household,H016014,Tenure by Household Size,Decennial,dec/sf1,H016014,2010,2010,block group
+Renter Occupied 5 person household,H016015,Tenure by Household Size,Decennial,dec/sf1,H016015,2010,2010,block group
+Renter Occupied 6 person household,H016016,Tenure by Household Size,Decennial,dec/sf1,H016016,2010,2010,block group
+Renter Occupied 7 person household,H016017,Tenure by Household Size,Decennial,dec/sf1,H016017,2010,2010,block group
+Group Quarters Population,PC01_001,Group Quarters,Decennial,dec/dhc,PC01_001,2020,2020,block group
+Median Age Female,P13_003,Age,Decennial,dec/dhc,P13_003,2020,2020,block group
+Median Age Male,P13_002,Age,Decennial,dec/dhc,P13_002,2020,2020,block group
+Total Households by Presence of Children,HCT2_001,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_001,2020,2020,block group
+Total Owner Occupied Housholds by Presence of Children,HCT2_002,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_002,2020,2020,block group
+Owner Occupied Households With Own Children under 18,HCT2_003,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_003,2020,2020,block group
+Owner Occupied Households With Own Children under 6 years only,HCT2_004,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_004,2020,2020,block group
+Owner Occupied Households With Own Children under 6 years and 6 to 17 years,HCT2_005,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_005,2020,2020,block group
+Owner Occupied Households With Own Children 6 to 17 years,HCT2_006,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_006,2020,2020,block group
+Owner Occupied Households No Own Children under 18,HCT2_007,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_007,2020,2020,block group
+Total Renter Occupied Housholds by Presence of Children,HCT2_008,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_008,2020,2020,block group
+Renter Occupied Households With Own Children under 18,HCT2_009,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_009,2020,2020,block group
+Renter Occupied Households With Own Children under 6 years only,HCT2_010,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_010,2020,2020,block group
+Renter Occupied Households With Own Children under 6 years and 6 to 17 years,HCT2_011,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_011,2020,2020,block group
+Renter Occupied Households With Own Children 6 to 17 years,HCT2_012,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_012,2020,2020,block group
+Renter Occupied Households No Own Children under 18,HCT2_013,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_013,2020,2020,block group
+Group Quarters Population,P029026,Group Quarters,Decennial,dec/sf1,P029026,2010,2010,block group
+Total Households by Presence of Children,HCT010001,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010001,2010,2010,tract
+Total Owner Occupied Housholds by Presence of Children,HCT010002,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010002,2010,2010,tract
+Owner Occupied Households With Own Children under 18,HCT010003,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010003,2010,2010,tract
+Owner Occupied Households With Own Children under 6 years only,HCT010004,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010004,2010,2010,tract
+Owner Occupied Households With Own Children under 6 years and 6 to 17 years,HCT010005,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010005,2010,2010,tract
+Owner Occupied Households With Own Children 6 to 17 years,HCT010006,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010006,2010,2010,tract
+Owner Occupied Households No Own Children under 18,HCT010007,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010007,2010,2010,tract
+Total Renter Occupied Housholds by Presence of Children,HCT010008,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010008,2010,2010,tract
+Renter Occupied Households With Own Children under 18,HCT010009,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010009,2010,2010,tract
+Renter Occupied Households With Own Children under 6 years only,HCT010010,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010010,2010,2010,tract
+Renter Occupied Households With Own Children under 6 years and 6 to 17 years,HCT010011,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010011,2010,2010,tract
+Renter Occupied Households With Own Children 6 to 17 years,HCT010012,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010012,2010,2010,tract
+Renter Occupied Households No Own Children under 18,HCT010013,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010013,2010,2010,tract

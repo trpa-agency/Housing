@@ -1,0 +1,34 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Households by Household Size,H12_001,Tenure by Household Size,Decennial,dec/dhc,H12_001,2020,2020,block group
+Total Owner Occupied Housholds,H12_002,Tenure by Household Size,Decennial,dec/dhc,H12_002,2020,2020,block group
+Owner Occupied 1 person household,H12_003,Tenure by Household Size,Decennial,dec/dhc,H12_003,2020,2020,block group
+Owner Occupied 2 person household,H12_004,Tenure by Household Size,Decennial,dec/dhc,H12_004,2020,2020,block group
+Owner Occupied 3 person household,H12_005,Tenure by Household Size,Decennial,dec/dhc,H12_005,2020,2020,block group
+Owner Occupied 4 person household,H12_006,Tenure by Household Size,Decennial,dec/dhc,H12_006,2020,2020,block group
+Owner Occupied 5 person household,H12_007,Tenure by Household Size,Decennial,dec/dhc,H12_007,2020,2020,block group
+Owner Occupied 6 person household,H12_008,Tenure by Household Size,Decennial,dec/dhc,H12_008,2020,2020,block group
+Owner Occupied 7 person household,H12_009,Tenure by Household Size,Decennial,dec/dhc,H12_009,2020,2020,block group
+Total Renter Occupied Housholds,H12_010,Tenure by Household Size,Decennial,dec/dhc,H12_010,2020,2020,block group
+Renter Occupied 1 person household,H12_011,Tenure by Household Size,Decennial,dec/dhc,H12_011,2020,2020,block group
+Renter Occupied 2 person household,H12_012,Tenure by Household Size,Decennial,dec/dhc,H12_012,2020,2020,block group
+Renter Occupied 3 person household,H12_013,Tenure by Household Size,Decennial,dec/dhc,H12_013,2020,2020,block group
+Renter Occupied 4 person household,H12_014,Tenure by Household Size,Decennial,dec/dhc,H12_014,2020,2020,block group
+Renter Occupied 5 person household,H12_015,Tenure by Household Size,Decennial,dec/dhc,H12_015,2020,2020,block group
+Renter Occupied 6 person household,H12_016,Tenure by Household Size,Decennial,dec/dhc,H12_016,2020,2020,block group
+Renter Occupied 7 person household,H12_017,Tenure by Household Size,Decennial,dec/dhc,H12_017,2020,2020,block group
+Group Quarters Population,PC01_001,Group Quarters,Decennial,dec/dhc,PC01_001,2020,2020,block group
+Median Age Female,P13_003,Age,Decennial,dec/dhc,P13_003,2020,2020,block group
+Median Age Male,P13_002,Age,Decennial,dec/dhc,P13_002,2020,2020,block group
+Total Households by Presence of Children,HCT2_001,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_001,2020,2020,block group
+Total Owner Occupied Housholds by Presence of Children,HCT2_002,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_002,2020,2020,block group
+Owner Occupied Households With Own Children under 18,HCT2_003,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_003,2020,2020,block group
+Owner Occupied Households With Own Children under 6 years only,HCT2_004,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_004,2020,2020,block group
+Owner Occupied Households With Own Children under 6 years and 6 to 17 years,HCT2_005,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_005,2020,2020,block group
+Owner Occupied Households With Own Children 6 to 17 years,HCT2_006,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_006,2020,2020,block group
+Owner Occupied Households No Own Children under 18,HCT2_007,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_007,2020,2020,block group
+Total Renter Occupied Housholds by Presence of Children,HCT2_008,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_008,2020,2020,block group
+Renter Occupied Households With Own Children under 18,HCT2_009,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_009,2020,2020,block group
+Renter Occupied Households With Own Children under 6 years only,HCT2_010,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_010,2020,2020,block group
+Renter Occupied Households With Own Children under 6 years and 6 to 17 years,HCT2_011,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_011,2020,2020,block group
+Renter Occupied Households With Own Children 6 to 17 years,HCT2_012,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_012,2020,2020,block group
+Renter Occupied Households No Own Children under 18,HCT2_013,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_013,2020,2020,block group
