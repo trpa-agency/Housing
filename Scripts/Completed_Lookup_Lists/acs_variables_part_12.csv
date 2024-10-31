@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied 6 person household,B25009_008,Tenure by Household Size,American Community Survey,acs/acs5,B25009_008,2022,2020,block group
+Owner Occupied 7 person or more household,B25009_009,Tenure by Household Size,American Community Survey,acs/acs5,B25009_009,2022,2020,block group

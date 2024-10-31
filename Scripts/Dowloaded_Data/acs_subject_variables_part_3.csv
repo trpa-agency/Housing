@@ -1,0 +1,53 @@
+GEO_ID,value,MarginOfError,state,county,block group,tract,variable_code,variable_name,variable_category,year_sample,sample_level,dataset,census_geom_year,TRPAID,NEIGHBORHOOD
+06017030200,2.0,3.9,06,017,,030200,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170302002010,South Lake Tahoe
+06017030301,0.0,9.3,06,017,,030301,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170303012010,South Lake Tahoe
+06017030302,16.6,22.9,06,017,,030302,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170303022010,South Lake Tahoe
+06017030401,2.5,3.8,06,017,,030401,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170304012010,South Lake Tahoe
+06017030402,0.0,9.9,06,017,,030402,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170304022010,South Lake Tahoe
+06017030502,0.0,17.4,06,017,,030502,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170305022010,Meyers / Hope Valley / Luther Pass
+06017030504,0.0,15.2,06,017,,030504,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170305042010,South Lake Tahoe
+06017030505,0.0,38.2,06,017,,030505,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170305052010,Meyers / Hope Valley / Luther Pass
+06017031600,17.6,14.1,06,017,,031600,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170316002010,South Lake Tahoe
+06017032000,0.0,35.1,06,017,,032000,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060170320002010,Westside El Dorado /Tahoma
+06061020104,86.0,32.4,06,061,,020104,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060610201042010,Lake Forest /Dollar Hill
+06061020105,52.3,52.3,06,061,,020105,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060610201052010,Carnelian Bay
+06061020106,10.4,17.8,06,061,,020106,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060610201062010,Tahoe Vista
+06061020107,4.4,8.8,06,061,,020107,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060610201072010,Kings Beach /Brockway
+06061022100,0.0,57.3,06,061,,022100,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060610221002010,Tahoe Pines/ Sunnyside
+06061022200,-666666666.0,-222222222.0,06,061,,022200,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060610222002010,Tahoe City
+06061022300,0.0,48.0,06,061,,022300,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,060610223002010,Homewood
+32005001600,0.0,66.5,32,005,,001600,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320050016002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001700,0.0,29.4,32,005,,001700,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320050017002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001800,4.8,8.8,32,005,,001800,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320050018002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32031003305,0.0,46.6,32,031,,003305,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320310033052010,Central Incline Village
+32031003306,0.0,24.9,32,031,,003306,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320310033062010,Central Incline Village
+32031003307,27.0,47.6,32,031,,003307,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320310033072010,Central Incline Village
+32031003308,-666666666.0,-222222222.0,32,031,,003308,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320310033082010,Crystal Bay /surrounding Incline Village
+32031003309,0.0,7.8,32,031,,003309,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320310033092010,Crystal Bay /surrounding Incline Village
+32031990000,-666666666.0,-222222222.0,32,031,,990000,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2010,tract,acs/acs5/subject,2010,320319900002010,
+06017030200,3273.0,385,06,017,,030200,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170302002010,South Lake Tahoe
+06017030301,1826.0,274,06,017,,030301,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170303012010,South Lake Tahoe
+06017030302,2217.0,403,06,017,,030302,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170303022010,South Lake Tahoe
+06017030401,3027.0,313,06,017,,030401,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170304012010,South Lake Tahoe
+06017030402,2356.0,277,06,017,,030402,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170304022010,South Lake Tahoe
+06017030502,1816.0,254,06,017,,030502,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170305022010,Meyers / Hope Valley / Luther Pass
+06017030504,1959.0,301,06,017,,030504,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170305042010,South Lake Tahoe
+06017030505,1502.0,238,06,017,,030505,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170305052010,Meyers / Hope Valley / Luther Pass
+06017031600,2251.0,288,06,017,,031600,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170316002010,South Lake Tahoe
+06017032000,570.0,173,06,017,,032000,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060170320002010,Westside El Dorado /Tahoma
+06061020104,800.0,212,06,061,,020104,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060610201042010,Lake Forest /Dollar Hill
+06061020105,840.0,213,06,061,,020105,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060610201052010,Carnelian Bay
+06061020106,1100.0,199,06,061,,020106,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060610201062010,Tahoe Vista
+06061020107,1954.0,334,06,061,,020107,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060610201072010,Kings Beach /Brockway
+06061022100,662.0,254,06,061,,022100,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060610221002010,Tahoe Pines/ Sunnyside
+06061022200,667.0,204,06,061,,022200,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060610222002010,Tahoe City
+06061022300,546.0,210,06,061,,022300,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,060610223002010,Homewood
+32005001600,749.0,228,32,005,,001600,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320050016002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001700,1209.0,232,32,005,,001700,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320050017002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001800,1421.0,285,32,005,,001800,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320050018002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32031003305,954.0,173,32,031,,003305,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320310033052010,Central Incline Village
+32031003306,1302.0,271,32,031,,003306,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320310033062010,Central Incline Village
+32031003307,817.0,210,32,031,,003307,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320310033072010,Central Incline Village
+32031003308,1275.0,251,32,031,,003308,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320310033082010,Crystal Bay /surrounding Incline Village
+32031003309,1938.0,316,32,031,,003309,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320310033092010,Crystal Bay /surrounding Incline Village
+32031990000,0.0,136,32,031,,990000,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,Education,2010,tract,acs/acs5/subject,2010,320319900002010,

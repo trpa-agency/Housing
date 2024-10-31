@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Renter Occupied 7 person household,H12_017N,Tenure by Household Size,Decennial,dec/dhc,H12_017N,2020,2020,block group
+Group Quarters Population,P18_001N,Group Quarters,Decennial,dec/dhc,P18_001N,2020,2020,block group

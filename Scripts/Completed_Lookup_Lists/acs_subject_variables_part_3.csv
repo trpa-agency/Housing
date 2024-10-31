@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Educational Attainment: Population 18 to 24: Bachelor degree or higher ,S1501_C01_005,Education,American Community Survey,acs/acs5/subject,S1501_C01_005,2010,2010,tract
+Educational Attainment: Population 25 years and over: Total,S1501_C01_006,Education,American Community Survey,acs/acs5/subject,S1501_C01_006,2010,2010,tract

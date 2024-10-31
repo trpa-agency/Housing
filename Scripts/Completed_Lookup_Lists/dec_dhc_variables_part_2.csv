@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied 1 person household,H12_003N,Tenure by Household Size,Decennial,dec/dhc,H12_003N,2020,2020,block group
+Owner Occupied 2 person household,H12_004N,Tenure by Household Size,Decennial,dec/dhc,H12_004N,2020,2020,block group

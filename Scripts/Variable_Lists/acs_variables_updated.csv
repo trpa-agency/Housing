@@ -1,0 +1,6 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Households by Presence of Children,B25012_001,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_001,2022,2020,tract
+Total Owner Occupied Housholds by Presence of Children,B25012_002,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_002,2022,2020,tract
+Owner Occupied Households With Related Children under 18,B25012_003,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_003,2022,2020,tract
+Owner Occupied Households With Own Children under 18,B25012_004,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_004,2022,2020,tract
+Owner Occupied Households With Own Children under 6 years only,B25012_005,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_005,2022,2020,tract

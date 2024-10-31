@@ -1,0 +1,63 @@
+GEO_ID,value,MarginOfError,state,county,block group,tract,variable_code,variable_name,variable_category,year_sample,sample_level,dataset,census_geom_year,TRPAID,NEIGHBORHOOD
+06017030201,53.0,80,06,017,,030201,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302012020,South Lake Tahoe
+06017030202,0.0,13,06,017,,030202,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302022020,South Lake Tahoe
+06017030301,27.0,30,06,017,,030301,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303012020,South Lake Tahoe
+06017030302,0.0,13,06,017,,030302,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303022020,South Lake Tahoe
+06017030402,38.0,49,06,017,,030402,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304022020,South Lake Tahoe
+06017030403,0.0,13,06,017,,030403,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304032020,South Lake Tahoe
+06017030404,0.0,13,06,017,,030404,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304042020,South Lake Tahoe
+06017030502,0.0,13,06,017,,030502,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305022020,Meyers
+06017030504,57.0,62,06,017,,030504,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305042020,South Lake Tahoe
+06017030506,7.0,13,06,017,,030506,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305062020,Meyers
+06017030507,0.0,13,06,017,,030507,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305072020,Meyers
+06017031601,0.0,13,06,017,,031601,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316012020,South Lake Tahoe
+06017031602,0.0,13,06,017,,031602,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316022020,South Lake Tahoe
+06017032001,9.0,13,06,017,,032001,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320012020,Tahoma
+06017032002,0.0,13,06,017,,032002,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320022020,Tahoma
+06061020104,16.0,25,06,061,,020104,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201042020,Dollar Hill
+06061020105,16.0,23,06,061,,020105,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201052020,Carnelian Bay
+06061020106,29.0,46,06,061,,020106,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201062020,Tahoe Vista
+06061020107,34.0,50,06,061,,020107,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201072020,Kings Beach
+06061022100,25.0,41,06,061,,022100,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610221002020,Tahoe Pines
+06061022200,0.0,13,06,061,,022200,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610222002020,Tahoe City
+06061022300,0.0,13,06,061,,022300,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610223002020,Homewood
+32005001600,0.0,14,32,005,,001600,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050016002020,East Shore Douglas County
+32005001700,0.0,14,32,005,,001700,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050017002020,East Shore Douglas County
+32005001800,0.0,14,32,005,,001800,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050018002020,East Shore Douglas County
+32031003305,0.0,14,32,031,,003305,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033052020,Incline Village and Crystal Bay
+32031003306,0.0,14,32,031,,003306,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033062020,Incline Village and Crystal Bay
+32031003307,0.0,14,32,031,,003307,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033072020,Incline Village and Crystal Bay
+32031003308,0.0,14,32,031,,003308,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033082020,Incline Village and Crystal Bay
+32031003310,0.0,14,32,031,,003310,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033102020,Incline Village and Crystal Bay
+32031003311,0.0,14,32,031,,003311,B25012_008E,Owner Occupied Households No Own Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033112020,Incline Village and Crystal Bay
+06017030201,274.0,97,06,017,,030201,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302012020,South Lake Tahoe
+06017030202,273.0,115,06,017,,030202,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302022020,South Lake Tahoe
+06017030301,300.0,165,06,017,,030301,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303012020,South Lake Tahoe
+06017030302,323.0,113,06,017,,030302,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303022020,South Lake Tahoe
+06017030402,485.0,107,06,017,,030402,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304022020,South Lake Tahoe
+06017030403,435.0,127,06,017,,030403,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304032020,South Lake Tahoe
+06017030404,417.0,131,06,017,,030404,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304042020,South Lake Tahoe
+06017030502,792.0,147,06,017,,030502,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305022020,Meyers
+06017030504,795.0,158,06,017,,030504,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305042020,South Lake Tahoe
+06017030506,218.0,72,06,017,,030506,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305062020,Meyers
+06017030507,446.0,120,06,017,,030507,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305072020,Meyers
+06017031601,109.0,70,06,017,,031601,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316012020,South Lake Tahoe
+06017031602,333.0,168,06,017,,031602,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316022020,South Lake Tahoe
+06017032001,177.0,66,06,017,,032001,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320012020,Tahoma
+06017032002,84.0,77,06,017,,032002,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320022020,Tahoma
+06061020104,285.0,84,06,061,,020104,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201042020,Dollar Hill
+06061020105,372.0,127,06,061,,020105,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201052020,Carnelian Bay
+06061020106,391.0,88,06,061,,020106,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201062020,Tahoe Vista
+06061020107,410.0,164,06,061,,020107,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201072020,Kings Beach
+06061022100,161.0,79,06,061,,022100,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610221002020,Tahoe Pines
+06061022200,166.0,85,06,061,,022200,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610222002020,Tahoe City
+06061022300,169.0,47,06,061,,022300,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610223002020,Homewood
+32005001600,694.0,114,32,005,,001600,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050016002020,East Shore Douglas County
+32005001700,276.0,71,32,005,,001700,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050017002020,East Shore Douglas County
+32005001800,701.0,165,32,005,,001800,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050018002020,East Shore Douglas County
+32031003305,199.0,55,32,031,,003305,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033052020,Incline Village and Crystal Bay
+32031003306,351.0,72,32,031,,003306,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033062020,Incline Village and Crystal Bay
+32031003307,206.0,64,32,031,,003307,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033072020,Incline Village and Crystal Bay
+32031003308,726.0,177,32,031,,003308,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033082020,Incline Village and Crystal Bay
+32031003310,386.0,139,32,031,,003310,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033102020,Incline Village and Crystal Bay
+32031003311,480.0,147,32,031,,003311,B25012_009E,Owner Occupied Households No Related Children under 18,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033112020,Incline Village and Crystal Bay

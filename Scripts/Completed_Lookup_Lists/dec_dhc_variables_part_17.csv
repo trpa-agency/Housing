@@ -1,0 +1,2 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Renter Occupied Households No Own Children under 18,HCT2_013N,Tenure by Prescence of Children,Decennial,dec/dhc,HCT2_013N,2020,2020,block group

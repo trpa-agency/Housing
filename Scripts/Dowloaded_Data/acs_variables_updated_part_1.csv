@@ -1,0 +1,63 @@
+GEO_ID,value,MarginOfError,state,county,block group,tract,variable_code,variable_name,variable_category,year_sample,sample_level,dataset,census_geom_year,TRPAID,NEIGHBORHOOD
+06017030201,933.0,165,06,017,,030201,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302012020,South Lake Tahoe
+06017030202,785.0,158,06,017,,030202,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302022020,South Lake Tahoe
+06017030301,1177.0,244,06,017,,030301,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303012020,South Lake Tahoe
+06017030302,1371.0,213,06,017,,030302,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303022020,South Lake Tahoe
+06017030402,1632.0,190,06,017,,030402,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304022020,South Lake Tahoe
+06017030403,638.0,141,06,017,,030403,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304032020,South Lake Tahoe
+06017030404,933.0,165,06,017,,030404,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304042020,South Lake Tahoe
+06017030502,1132.0,179,06,017,,030502,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305022020,Meyers
+06017030504,1161.0,161,06,017,,030504,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305042020,South Lake Tahoe
+06017030506,362.0,67,06,017,,030506,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305062020,Meyers
+06017030507,627.0,129,06,017,,030507,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305072020,Meyers
+06017031601,797.0,126,06,017,,031601,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316012020,South Lake Tahoe
+06017031602,836.0,211,06,017,,031602,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316022020,South Lake Tahoe
+06017032001,358.0,79,06,017,,032001,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320012020,Tahoma
+06017032002,91.0,77,06,017,,032002,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320022020,Tahoma
+06061020104,525.0,103,06,061,,020104,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201042020,Dollar Hill
+06061020105,623.0,148,06,061,,020105,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201052020,Carnelian Bay
+06061020106,568.0,114,06,061,,020106,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201062020,Tahoe Vista
+06061020107,995.0,193,06,061,,020107,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201072020,Kings Beach
+06061022100,338.0,100,06,061,,022100,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610221002020,Tahoe Pines
+06061022200,368.0,102,06,061,,022200,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610222002020,Tahoe City
+06061022300,258.0,58,06,061,,022300,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610223002020,Homewood
+32005001600,871.0,116,32,005,,001600,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050016002020,East Shore Douglas County
+32005001700,763.0,131,32,005,,001700,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050017002020,East Shore Douglas County
+32005001800,1041.0,196,32,005,,001800,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050018002020,East Shore Douglas County
+32031003305,392.0,83,32,031,,003305,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033052020,Incline Village and Crystal Bay
+32031003306,770.0,135,32,031,,003306,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033062020,Incline Village and Crystal Bay
+32031003307,438.0,79,32,031,,003307,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033072020,Incline Village and Crystal Bay
+32031003308,1017.0,199,32,031,,003308,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033082020,Incline Village and Crystal Bay
+32031003310,644.0,155,32,031,,003310,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033102020,Incline Village and Crystal Bay
+32031003311,761.0,160,32,031,,003311,B25012_001E,Total Households by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033112020,Incline Village and Crystal Bay
+06017030201,471.0,139,06,017,,030201,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302012020,South Lake Tahoe
+06017030202,305.0,116,06,017,,030202,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170302022020,South Lake Tahoe
+06017030301,429.0,180,06,017,,030301,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303012020,South Lake Tahoe
+06017030302,453.0,126,06,017,,030302,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170303022020,South Lake Tahoe
+06017030402,772.0,141,06,017,,030402,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304022020,South Lake Tahoe
+06017030403,510.0,132,06,017,,030403,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304032020,South Lake Tahoe
+06017030404,553.0,150,06,017,,030404,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170304042020,South Lake Tahoe
+06017030502,980.0,162,06,017,,030502,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305022020,Meyers
+06017030504,1008.0,167,06,017,,030504,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305042020,South Lake Tahoe
+06017030506,334.0,70,06,017,,030506,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305062020,Meyers
+06017030507,589.0,121,06,017,,030507,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170305072020,Meyers
+06017031601,138.0,76,06,017,,031601,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316012020,South Lake Tahoe
+06017031602,359.0,170,06,017,,031602,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170316022020,South Lake Tahoe
+06017032001,220.0,70,06,017,,032001,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320012020,Tahoma
+06017032002,84.0,77,06,017,,032002,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060170320022020,Tahoma
+06061020104,383.0,89,06,061,,020104,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201042020,Dollar Hill
+06061020105,516.0,145,06,061,,020105,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201052020,Carnelian Bay
+06061020106,462.0,108,06,061,,020106,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201062020,Tahoe Vista
+06061020107,549.0,188,06,061,,020107,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610201072020,Kings Beach
+06061022100,273.0,103,06,061,,022100,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610221002020,Tahoe Pines
+06061022200,217.0,98,06,061,,022200,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610222002020,Tahoe City
+06061022300,211.0,51,06,061,,022300,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,060610223002020,Homewood
+32005001600,754.0,109,32,005,,001600,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050016002020,East Shore Douglas County
+32005001700,335.0,75,32,005,,001700,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050017002020,East Shore Douglas County
+32005001800,784.0,187,32,005,,001800,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320050018002020,East Shore Douglas County
+32031003305,244.0,62,32,031,,003305,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033052020,Incline Village and Crystal Bay
+32031003306,438.0,116,32,031,,003306,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033062020,Incline Village and Crystal Bay
+32031003307,262.0,62,32,031,,003307,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033072020,Incline Village and Crystal Bay
+32031003308,885.0,187,32,031,,003308,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033082020,Incline Village and Crystal Bay
+32031003310,446.0,141,32,031,,003310,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033102020,Incline Village and Crystal Bay
+32031003311,549.0,147,32,031,,003311,B25012_002E,Total Owner Occupied Housholds by Presence of Children,Tenure by Prescence of Children,2022,tract,acs/acs5,2020,320310033112020,Incline Village and Crystal Bay

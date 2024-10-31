@@ -1,0 +1,63 @@
+GEO_ID,value,MarginOfError,state,county,block group,tract,variable_code,variable_name,variable_category,year_sample,sample_level,dataset,census_geom_year,TRPAID,NEIGHBORHOOD
+06017030201,86.0,111,06,017,,030201,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170302012020,South Lake Tahoe
+06017030202,75.0,64,06,017,,030202,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170302022020,South Lake Tahoe
+06017030301,125.0,92,06,017,,030301,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170303012020,South Lake Tahoe
+06017030302,28.0,46,06,017,,030302,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170303022020,South Lake Tahoe
+06017030402,245.0,160,06,017,,030402,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170304022020,South Lake Tahoe
+06017030403,16.0,31,06,017,,030403,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170304032020,South Lake Tahoe
+06017030404,83.0,66,06,017,,030404,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170304042020,South Lake Tahoe
+06017030502,22.0,33,06,017,,030502,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170305022020,Meyers
+06017030504,66.0,58,06,017,,030504,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170305042020,South Lake Tahoe
+06017030506,29.0,25,06,017,,030506,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170305062020,Meyers
+06017030507,69.0,74,06,017,,030507,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170305072020,Meyers
+06017031601,8.0,11,06,017,,031601,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170316012020,South Lake Tahoe
+06017031602,16.0,24,06,017,,031602,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170316022020,South Lake Tahoe
+06017032001,13.0,20,06,017,,032001,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170320012020,Tahoma
+06017032002,10.0,12,06,017,,032002,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060170320022020,Tahoma
+06061020104,41.0,34,06,061,,020104,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060610201042020,Dollar Hill
+06061020105,25.0,24,06,061,,020105,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060610201052020,Carnelian Bay
+06061020106,95.0,95,06,061,,020106,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060610201062020,Tahoe Vista
+06061020107,99.0,19,06,061,,020107,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060610201072020,Kings Beach
+06061022100,0.0,13,06,061,,022100,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060610221002020,Tahoe Pines
+06061022200,0.0,13,06,061,,022200,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060610222002020,Tahoe City
+06061022300,15.0,18,06,061,,022300,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,060610223002020,Homewood
+32005001600,16.0,25,32,005,,001600,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320050016002020,East Shore Douglas County
+32005001700,30.0,32,32,005,,001700,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320050017002020,East Shore Douglas County
+32005001800,39.0,59,32,005,,001800,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320050018002020,East Shore Douglas County
+32031003305,73.0,48,32,031,,003305,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320310033052020,Incline Village and Crystal Bay
+32031003306,49.0,47,32,031,,003306,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320310033062020,Incline Village and Crystal Bay
+32031003307,225.0,67,32,031,,003307,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320310033072020,Incline Village and Crystal Bay
+32031003308,5.0,10,32,031,,003308,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320310033082020,Incline Village and Crystal Bay
+32031003310,34.0,48,32,031,,003310,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320310033102020,Incline Village and Crystal Bay
+32031003311,52.0,88,32,031,,003311,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,Education,2022,tract,acs/acs5/subject,2020,320310033112020,Incline Village and Crystal Bay
+06017030201,0.0,13,06,017,,030201,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170302012020,South Lake Tahoe
+06017030202,22.0,34,06,017,,030202,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170302022020,South Lake Tahoe
+06017030301,0.0,13,06,017,,030301,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170303012020,South Lake Tahoe
+06017030302,0.0,13,06,017,,030302,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170303022020,South Lake Tahoe
+06017030402,48.0,59,06,017,,030402,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170304022020,South Lake Tahoe
+06017030403,0.0,13,06,017,,030403,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170304032020,South Lake Tahoe
+06017030404,32.0,41,06,017,,030404,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170304042020,South Lake Tahoe
+06017030502,10.0,19,06,017,,030502,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170305022020,Meyers
+06017030504,7.0,13,06,017,,030504,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170305042020,South Lake Tahoe
+06017030506,29.0,44,06,017,,030506,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170305062020,Meyers
+06017030507,43.0,47,06,017,,030507,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170305072020,Meyers
+06017031601,29.0,48,06,017,,031601,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170316012020,South Lake Tahoe
+06017031602,24.0,39,06,017,,031602,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170316022020,South Lake Tahoe
+06017032001,0.0,13,06,017,,032001,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170320012020,Tahoma
+06017032002,0.0,13,06,017,,032002,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060170320022020,Tahoma
+06061020104,28.0,41,06,061,,020104,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060610201042020,Dollar Hill
+06061020105,14.0,23,06,061,,020105,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060610201052020,Carnelian Bay
+06061020106,0.0,13,06,061,,020106,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060610201062020,Tahoe Vista
+06061020107,0.0,13,06,061,,020107,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060610201072020,Kings Beach
+06061022100,0.0,13,06,061,,022100,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060610221002020,Tahoe Pines
+06061022200,5.0,11,06,061,,022200,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060610222002020,Tahoe City
+06061022300,8.0,14,06,061,,022300,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,060610223002020,Homewood
+32005001600,0.0,14,32,005,,001600,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320050016002020,East Shore Douglas County
+32005001700,46.0,57,32,005,,001700,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320050017002020,East Shore Douglas County
+32005001800,0.0,14,32,005,,001800,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320050018002020,East Shore Douglas County
+32031003305,8.0,13,32,031,,003305,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320310033052020,Incline Village and Crystal Bay
+32031003306,0.0,14,32,031,,003306,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320310033062020,Incline Village and Crystal Bay
+32031003307,0.0,14,32,031,,003307,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320310033072020,Incline Village and Crystal Bay
+32031003308,0.0,14,32,031,,003308,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320310033082020,Incline Village and Crystal Bay
+32031003310,0.0,14,32,031,,003310,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320310033102020,Incline Village and Crystal Bay
+32031003311,0.0,14,32,031,,003311,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,Education,2022,tract,acs/acs5/subject,2020,320310033112020,Incline Village and Crystal Bay

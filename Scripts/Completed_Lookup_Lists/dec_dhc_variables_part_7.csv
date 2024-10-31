@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Renter Occupied 3 person household,H12_013N,Tenure by Household Size,Decennial,dec/dhc,H12_013N,2020,2020,block group
+Renter Occupied 4 person household,H12_014N,Tenure by Household Size,Decennial,dec/dhc,H12_014N,2020,2020,block group

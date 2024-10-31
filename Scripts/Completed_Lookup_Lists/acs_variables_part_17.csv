@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Total Households by Presence of Children,B25012_001,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_001,2022,2020,block group
+Total Owner Occupied Housholds by Presence of Children,B25012_002,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_002,2022,2020,block group

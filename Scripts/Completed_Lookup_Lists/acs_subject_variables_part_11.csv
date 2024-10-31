@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,S1501_C01_008,Education,American Community Survey,acs/acs5/subject,S1501_C01_008,2022,2020,tract
+Educational Attainment: Population 25 years and over: High school graduate,S1501_C01_009,Education,American Community Survey,acs/acs5/subject,S1501_C01_009,2022,2020,tract

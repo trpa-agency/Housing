@@ -1,0 +1,2 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied Households With Own Children under 6 years only,B25012_005,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_005,2022,2020,block group

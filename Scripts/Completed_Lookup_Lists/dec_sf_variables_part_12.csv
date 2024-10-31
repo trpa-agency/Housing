@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied Households With Own Children under 6 years and 6 to 17 years,HCT010005,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010005,2010,2010,tract
+Owner Occupied Households With Own Children 6 to 17 years,HCT010006,Tenure by Prescence of Children,Decennial,dec/sf2,HCT010006,2010,2010,tract
