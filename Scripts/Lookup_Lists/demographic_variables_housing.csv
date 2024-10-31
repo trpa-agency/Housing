@@ -1,0 +1,63 @@
+Category,Description,Census Variable,Variable Name,geography,dataset,year,census_geom_year
+Demographics,Total Resident Population,P001001,Total Population,block,dec/sf1,2010,2010
+Demographics,Total Resident Population,P1_001N,Total Population,block,dec/dhc,2020,2020
+Demographics,Total Resident Population,B01003_001E,Total Population,tract,acs/acs5,2022,2020
+Demographics,Group Quarters Population,PC01_001N,Group Quarters Population,block group,dec/dhc,2020,2020
+Demographics,Group Quarters Population,P029026,Group Quarters Population,block group,dec/sf1,2010,2010
+Demographics,Group Quarters Population,B26001_001E,Group Quarters Population,tract,acs/acs5,2022,2020
+Demographics,Median age by Sex,P13_003N,Median Age Female,block group,dec/dhc,2020,2020
+Demographics,Median age by Sex,P13_002N,Median Age Male,block group,dec/dhc,2020,2020
+Demographics,Median age by Sex,B01002_003E,Median Age Female,block group,acs/acs5,2022,2020
+Demographics,Median age by Sex,B01002_002E,Median Age Male,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,P004002,Total population:  Not Hispanic or Latino,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P005003,Total population:  Not Hispanic or Latino; White alone,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P005006,Total population:  Not Hispanic or Latino; Asian alone,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P005004,Total population:  Not Hispanic or Latino; Black or African American alone,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P005005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P004003,Total population:  Hispanic or Latino,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P005007,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P005008,Total population:  Not Hispanic or Latino; Some other race alone,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,P005009,Total population:  Not Hispanic or Latino; Two or more races,tract,dec/sf1,2010,2010
+Demographics,Race and Ethnicity,DP1_0106C,Total population:  Not Hispanic or Latino; Black or African American alone,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0109C,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0094C,Total population:  Not Hispanic or Latino,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0111C,Total population:  Not Hispanic or Latino; Two or more races,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0105C,Total population:  Not Hispanic or Latino; White alone,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0110C,Total population:  Not Hispanic or Latino; Some other race alone,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0093C,Total population:  Hispanic or Latino,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0107C,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,DP1_0108C,Total population:  Not Hispanic or Latino; Asian alone,tract,dec/dp,2020,2020
+Demographics,Race and Ethnicity,B03002_005E,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,B03002_012E,Total population:  Hispanic or Latino,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,B03002_009E,Total population:  Not Hispanic or Latino; Two or more races,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,B03002_008E,Total population:  Not Hispanic or Latino; Some other race alone,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,B03002_007E,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,B03002_006E,Total population:  Not Hispanic or Latino; Asian alone,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,B03002_004E,Total population:  Not Hispanic or Latino; Black or African American alone,block group,acs/acs5,2022,2020
+Demographics,Race and Ethnicity,B03002_003E,Total population:  Not Hispanic or Latino; White alone,block group,acs/acs5,2022,2020
+Demographics,Educational Attainment,S1501_C01_001E,Educational Attainment: Population 18 to 24: Total,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_002E,Educational Attainment: Population 18 to 24 Less than high school graduate,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_003E,Educational Attainment: Population 18 to 24: High school graduate,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_007E,Educational Attainment: Population 25 years and over: Less than 9th grade,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_008E,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_009E,Educational Attainment: Population 25 years and over: High school graduate,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_010E,Educational Attainment: Population 25 years and over: Some college no degree,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_011E,Educational Attainment: Population 25 years and over: Associates degree,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_012E,Educational Attainment: Population 25 years and over: Bachelors degree,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_013E,Educational Attainment: Population 25 years and over: Graduate or professional degree,tract,acs/acs5/subject,2010,2010
+Demographics,Educational Attainment,S1501_C01_001E,Educational Attainment: Population 18 to 24: Total,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_002E,Educational Attainment: Population 18 to 24 Less than high school graduate,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_003E,Educational Attainment: Population 18 to 24: High school graduate,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_007E,Educational Attainment: Population 25 years and over: Less than 9th grade,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_008E,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_009E,Educational Attainment: Population 25 years and over: High school graduate,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_010E,Educational Attainment: Population 25 years and over: Some college no degree,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_011E,Educational Attainment: Population 25 years and over: Associates degree,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_012E,Educational Attainment: Population 25 years and over: Bachelors degree,tract,acs/acs5/subject,2022,2020
+Demographics,Educational Attainment,S1501_C01_013E,Educational Attainment: Population 25 years and over: Graduate or professional degree,tract,acs/acs5/subject,2022,2020
