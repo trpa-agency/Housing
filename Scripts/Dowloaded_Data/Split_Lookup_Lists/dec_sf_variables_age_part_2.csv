@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied: Householder 25 to 34 Years,H017004,Tenure by Age of Householder,Decennial,dec/sf1,H017004,2010,2010,tract
+Owner Occupied: Householder 35 to 44 Years,H017005,Tenure by Age of Householder,Decennial,dec/sf1,H017005,2010,2010,tract

@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Renter Occupied: Householder 45 to 54 Years,H017016,Tenure by Age of Householder,Decennial,dec/sf1,H017016,2010,2010,tract
+Renter Occupied: Householder 55 to 59 Years,H017017,Tenure by Age of Householder,Decennial,dec/sf1,H017017,2010,2010,tract

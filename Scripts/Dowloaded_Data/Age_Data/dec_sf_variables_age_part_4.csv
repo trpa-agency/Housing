@@ -1,0 +1,53 @@
+GEO_ID,value,MarginOfError,state,county,block group,tract,variable_code,variable_name,variable_category,year_sample,sample_level,dataset,census_geom_year,TRPAID,NEIGHBORHOOD
+06017030200,81.0,,06,017,,030200,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170302002010,South Lake Tahoe
+06017030301,41.0,,06,017,,030301,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303012010,South Lake Tahoe
+06017030302,65.0,,06,017,,030302,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303022010,South Lake Tahoe
+06017030401,152.0,,06,017,,030401,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304012010,South Lake Tahoe
+06017030402,74.0,,06,017,,030402,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304022010,South Lake Tahoe
+06017030502,128.0,,06,017,,030502,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305022010,Meyers / Hope Valley / Luther Pass
+06017030504,111.0,,06,017,,030504,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305042010,South Lake Tahoe
+06017030505,110.0,,06,017,,030505,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305052010,Meyers / Hope Valley / Luther Pass
+06017031600,37.0,,06,017,,031600,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170316002010,South Lake Tahoe
+06017032000,48.0,,06,017,,032000,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170320002010,Westside El Dorado /Tahoma
+06061020104,64.0,,06,061,,020104,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201042010,Lake Forest /Dollar Hill
+06061020105,70.0,,06,061,,020105,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201052010,Carnelian Bay
+06061020106,72.0,,06,061,,020106,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201062010,Tahoe Vista
+06061020107,52.0,,06,061,,020107,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201072010,Kings Beach /Brockway
+06061022100,48.0,,06,061,,022100,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610221002010,Tahoe Pines/ Sunnyside
+06061022200,22.0,,06,061,,022200,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610222002010,Tahoe City
+06061022300,35.0,,06,061,,022300,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610223002010,Homewood
+32005001600,121.0,,32,005,,001600,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050016002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001700,37.0,,32,005,,001700,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050017002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001800,105.0,,32,005,,001800,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050018002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32031003305,35.0,,32,031,,003305,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033052010,Central Incline Village
+32031003306,45.0,,32,031,,003306,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033062010,Central Incline Village
+32031003307,54.0,,32,031,,003307,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033072010,Central Incline Village
+32031003308,144.0,,32,031,,003308,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033082010,Crystal Bay /surrounding Incline Village
+32031003309,133.0,,32,031,,003309,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033092010,Crystal Bay /surrounding Incline Village
+32031990000,0.0,,32,031,,990000,H017008,Owner Occupied: Householder 60 to 64 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320319900002010,
+06017030200,113.0,,06,017,,030200,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170302002010,South Lake Tahoe
+06017030301,30.0,,06,017,,030301,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303012010,South Lake Tahoe
+06017030302,66.0,,06,017,,030302,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303022010,South Lake Tahoe
+06017030401,166.0,,06,017,,030401,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304012010,South Lake Tahoe
+06017030402,88.0,,06,017,,030402,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304022010,South Lake Tahoe
+06017030502,106.0,,06,017,,030502,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305022010,Meyers / Hope Valley / Luther Pass
+06017030504,127.0,,06,017,,030504,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305042010,South Lake Tahoe
+06017030505,84.0,,06,017,,030505,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305052010,Meyers / Hope Valley / Luther Pass
+06017031600,59.0,,06,017,,031600,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170316002010,South Lake Tahoe
+06017032000,44.0,,06,017,,032000,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170320002010,Westside El Dorado /Tahoma
+06061020104,72.0,,06,061,,020104,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201042010,Lake Forest /Dollar Hill
+06061020105,90.0,,06,061,,020105,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201052010,Carnelian Bay
+06061020106,62.0,,06,061,,020106,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201062010,Tahoe Vista
+06061020107,59.0,,06,061,,020107,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201072010,Kings Beach /Brockway
+06061022100,39.0,,06,061,,022100,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610221002010,Tahoe Pines/ Sunnyside
+06061022200,33.0,,06,061,,022200,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610222002010,Tahoe City
+06061022300,42.0,,06,061,,022300,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610223002010,Homewood
+32005001600,174.0,,32,005,,001600,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050016002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001700,90.0,,32,005,,001700,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050017002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001800,97.0,,32,005,,001800,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050018002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32031003305,45.0,,32,031,,003305,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033052010,Central Incline Village
+32031003306,80.0,,32,031,,003306,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033062010,Central Incline Village
+32031003307,67.0,,32,031,,003307,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033072010,Central Incline Village
+32031003308,254.0,,32,031,,003308,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033082010,Crystal Bay /surrounding Incline Village
+32031003309,217.0,,32,031,,003309,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033092010,Crystal Bay /surrounding Incline Village
+32031990000,0.0,,32,031,,990000,H017009,Owner Occupied: Householder 65 to 74 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320319900002010,

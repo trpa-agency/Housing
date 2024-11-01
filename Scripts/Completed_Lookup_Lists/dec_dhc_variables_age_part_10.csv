@@ -1,0 +1,3 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Renter Occupied: Householder 75 to 84 Years,H13_020N,Tenure by Age of Householder,Decennial,dec/dhc,H13_020N,2020,2020,block group
+Renter Occupied: Householder 85 Years and over,H13_021N,Tenure by Age of Householder,Decennial,dec/dhc,H13_021N,2020,2020,block group

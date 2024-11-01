@@ -1,0 +1,21 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied: Total,H017002,Tenure by Age of Householder,Decennial,dec/sf1,H017002,2010,2010,tract
+Owner Occupied: Householder 15 to 24 Years,H017003,Tenure by Age of Householder,Decennial,dec/sf1,H017003,2010,2010,tract
+Owner Occupied: Householder 25 to 34 Years,H017004,Tenure by Age of Householder,Decennial,dec/sf1,H017004,2010,2010,tract
+Owner Occupied: Householder 35 to 44 Years,H017005,Tenure by Age of Householder,Decennial,dec/sf1,H017005,2010,2010,tract
+Owner Occupied: Householder 45 to 54 Years,H017006,Tenure by Age of Householder,Decennial,dec/sf1,H017006,2010,2010,tract
+Owner Occupied: Householder 55 to 59 Years,H017007,Tenure by Age of Householder,Decennial,dec/sf1,H017007,2010,2010,tract
+Owner Occupied: Householder 60 to 64 Years,H017008,Tenure by Age of Householder,Decennial,dec/sf1,H017008,2010,2010,tract
+Owner Occupied: Householder 65 to 74 Years,H017009,Tenure by Age of Householder,Decennial,dec/sf1,H017009,2010,2010,tract
+Owner Occupied: Householder 75 to 84 Years,H017010,Tenure by Age of Householder,Decennial,dec/sf1,H017010,2010,2010,tract
+Owner Occupied: Householder 85 Years and over,H017011,Tenure by Age of Householder,Decennial,dec/sf1,H017011,2010,2010,tract
+Renter Occupied: Total,H017012,Tenure by Age of Householder,Decennial,dec/sf1,H017012,2010,2010,tract
+Renter Occupied: Householder 15 to 24 Years,H017013,Tenure by Age of Householder,Decennial,dec/sf1,H017013,2010,2010,tract
+Renter Occupied: Householder 25 to 34 Years,H017014,Tenure by Age of Householder,Decennial,dec/sf1,H017014,2010,2010,tract
+Renter Occupied: Householder 35 to 44 Years,H017015,Tenure by Age of Householder,Decennial,dec/sf1,H017015,2010,2010,tract
+Renter Occupied: Householder 45 to 54 Years,H017016,Tenure by Age of Householder,Decennial,dec/sf1,H017016,2010,2010,tract
+Renter Occupied: Householder 55 to 59 Years,H017017,Tenure by Age of Householder,Decennial,dec/sf1,H017017,2010,2010,tract
+Renter Occupied: Householder 60 to 64 Years,H017018,Tenure by Age of Householder,Decennial,dec/sf1,H017018,2010,2010,tract
+Renter Occupied: Householder 65 to 74 Years,H017019,Tenure by Age of Householder,Decennial,dec/sf1,H017019,2010,2010,tract
+Renter Occupied: Householder 75 to 84 Years,H017020,Tenure by Age of Householder,Decennial,dec/sf2,H017020,2010,2010,tract
+Renter Occupied: Householder 85 Years and over,H017021,Tenure by Age of Householder,Decennial,dec/sf2,H017021,2010,2010,tract

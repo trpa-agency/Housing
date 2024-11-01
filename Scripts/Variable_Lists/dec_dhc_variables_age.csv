@@ -1,0 +1,21 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner Occupied: Total,H13_002N,Tenure by Age of Householder,Decennial,dec/dhc,H13_002N,2020,2020,block group
+Owner Occupied: Householder 15 to 24 Years,H13_003N,Tenure by Age of Householder,Decennial,dec/dhc,H13_003N,2020,2020,block group
+Owner Occupied: Householder 25 to 34 Years,H13_004N,Tenure by Age of Householder,Decennial,dec/dhc,H13_004N,2020,2020,block group
+Owner Occupied: Householder 35 to 44 Years,H13_005N,Tenure by Age of Householder,Decennial,dec/dhc,H13_005N,2020,2020,block group
+Owner Occupied: Householder 45 to 54 Years,H13_006N,Tenure by Age of Householder,Decennial,dec/dhc,H13_006N,2020,2020,block group
+Owner Occupied: Householder 55 to 59 Years,H13_007N,Tenure by Age of Householder,Decennial,dec/dhc,H13_007N,2020,2020,block group
+Owner Occupied: Householder 60 to 64 Years,H13_008N,Tenure by Age of Householder,Decennial,dec/dhc,H13_008N,2020,2020,block group
+Owner Occupied: Householder 65 to 74 Years,H13_009N,Tenure by Age of Householder,Decennial,dec/dhc,H13_009N,2020,2020,block group
+Owner Occupied: Householder 75 to 84 Years,H13_010N,Tenure by Age of Householder,Decennial,dec/dhc,H13_010N,2020,2020,block group
+Owner Occupied: Householder 85 Years and over,H13_011N,Tenure by Age of Householder,Decennial,dec/dhc,H13_011N,2020,2020,block group
+Renter Occupied: Total,H13_012N,Tenure by Age of Householder,Decennial,dec/dhc,H13_012N,2020,2020,block group
+Renter Occupied: Householder 15 to 24 Years,H13_013N,Tenure by Age of Householder,Decennial,dec/dhc,H13_013N,2020,2020,block group
+Renter Occupied: Householder 25 to 34 Years,H13_014N,Tenure by Age of Householder,Decennial,dec/dhc,H13_014N,2020,2020,block group
+Renter Occupied: Householder 35 to 44 Years,H13_015N,Tenure by Age of Householder,Decennial,dec/dhc,H13_015N,2020,2020,block group
+Renter Occupied: Householder 45 to 54 Years,H13_016N,Tenure by Age of Householder,Decennial,dec/dhc,H13_016N,2020,2020,block group
+Renter Occupied: Householder 55 to 59 Years,H13_017N,Tenure by Age of Householder,Decennial,dec/dhc,H13_017N,2020,2020,block group
+Renter Occupied: Householder 60 to 64 Years,H13_018N,Tenure by Age of Householder,Decennial,dec/dhc,H13_018N,2020,2020,block group
+Renter Occupied: Householder 65 to 74 Years,H13_019N,Tenure by Age of Householder,Decennial,dec/dhc,H13_019N,2020,2020,block group
+Renter Occupied: Householder 75 to 84 Years,H13_020N,Tenure by Age of Householder,Decennial,dec/dhc,H13_020N,2020,2020,block group
+Renter Occupied: Householder 85 Years and over,H13_021N,Tenure by Age of Householder,Decennial,dec/dhc,H13_021N,2020,2020,block group

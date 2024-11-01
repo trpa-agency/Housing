@@ -1,0 +1,53 @@
+GEO_ID,value,MarginOfError,state,county,block group,tract,variable_code,variable_name,variable_category,year_sample,sample_level,dataset,census_geom_year,TRPAID,NEIGHBORHOOD
+06017030200,276.0,,06,017,,030200,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170302002010,South Lake Tahoe
+06017030301,188.0,,06,017,,030301,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303012010,South Lake Tahoe
+06017030302,236.0,,06,017,,030302,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303022010,South Lake Tahoe
+06017030401,194.0,,06,017,,030401,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304012010,South Lake Tahoe
+06017030402,239.0,,06,017,,030402,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304022010,South Lake Tahoe
+06017030502,88.0,,06,017,,030502,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305022010,Meyers / Hope Valley / Luther Pass
+06017030504,104.0,,06,017,,030504,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305042010,South Lake Tahoe
+06017030505,95.0,,06,017,,030505,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305052010,Meyers / Hope Valley / Luther Pass
+06017031600,313.0,,06,017,,031600,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170316002010,South Lake Tahoe
+06017032000,46.0,,06,017,,032000,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170320002010,Westside El Dorado /Tahoma
+06061020104,72.0,,06,061,,020104,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201042010,Lake Forest /Dollar Hill
+06061020105,77.0,,06,061,,020105,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201052010,Carnelian Bay
+06061020106,89.0,,06,061,,020106,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201062010,Tahoe Vista
+06061020107,262.0,,06,061,,020107,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201072010,Kings Beach /Brockway
+06061022100,61.0,,06,061,,022100,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610221002010,Tahoe Pines/ Sunnyside
+06061022200,67.0,,06,061,,022200,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610222002010,Tahoe City
+06061022300,38.0,,06,061,,022300,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610223002010,Homewood
+32005001600,23.0,,32,005,,001600,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050016002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001700,110.0,,32,005,,001700,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050017002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001800,102.0,,32,005,,001800,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050018002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32031003305,64.0,,32,031,,003305,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033052010,Central Incline Village
+32031003306,84.0,,32,031,,003306,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033062010,Central Incline Village
+32031003307,53.0,,32,031,,003307,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033072010,Central Incline Village
+32031003308,32.0,,32,031,,003308,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033082010,Crystal Bay /surrounding Incline Village
+32031003309,91.0,,32,031,,003309,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033092010,Crystal Bay /surrounding Incline Village
+32031990000,0.0,,32,031,,990000,H017014,Renter Occupied: Householder 25 to 34 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320319900002010,
+06017030200,204.0,,06,017,,030200,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170302002010,South Lake Tahoe
+06017030301,102.0,,06,017,,030301,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303012010,South Lake Tahoe
+06017030302,147.0,,06,017,,030302,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170303022010,South Lake Tahoe
+06017030401,123.0,,06,017,,030401,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304012010,South Lake Tahoe
+06017030402,179.0,,06,017,,030402,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170304022010,South Lake Tahoe
+06017030502,40.0,,06,017,,030502,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305022010,Meyers / Hope Valley / Luther Pass
+06017030504,63.0,,06,017,,030504,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305042010,South Lake Tahoe
+06017030505,59.0,,06,017,,030505,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170305052010,Meyers / Hope Valley / Luther Pass
+06017031600,279.0,,06,017,,031600,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170316002010,South Lake Tahoe
+06017032000,28.0,,06,017,,032000,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060170320002010,Westside El Dorado /Tahoma
+06061020104,38.0,,06,061,,020104,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201042010,Lake Forest /Dollar Hill
+06061020105,31.0,,06,061,,020105,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201052010,Carnelian Bay
+06061020106,61.0,,06,061,,020106,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201062010,Tahoe Vista
+06061020107,188.0,,06,061,,020107,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610201072010,Kings Beach /Brockway
+06061022100,49.0,,06,061,,022100,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610221002010,Tahoe Pines/ Sunnyside
+06061022200,46.0,,06,061,,022200,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610222002010,Tahoe City
+06061022300,23.0,,06,061,,022300,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,060610223002010,Homewood
+32005001600,27.0,,32,005,,001600,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050016002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001700,80.0,,32,005,,001700,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050017002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32005001800,67.0,,32,005,,001800,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320050018002010,Glenbrook/ Kingsbury/ E. Shore Douglas
+32031003305,55.0,,32,031,,003305,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033052010,Central Incline Village
+32031003306,92.0,,32,031,,003306,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033062010,Central Incline Village
+32031003307,34.0,,32,031,,003307,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033072010,Central Incline Village
+32031003308,46.0,,32,031,,003308,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033082010,Crystal Bay /surrounding Incline Village
+32031003309,85.0,,32,031,,003309,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320310033092010,Crystal Bay /surrounding Incline Village
+32031990000,0.0,,32,031,,990000,H017015,Renter Occupied: Householder 35 to 44 Years,Tenure by Age of Householder,2010,tract,dec/sf1,2010,320319900002010,
