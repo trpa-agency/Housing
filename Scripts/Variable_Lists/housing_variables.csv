@@ -1,16 +1,16 @@
 Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
-Owner Occupied Households With Own Children under 6 years and 6 to 17 years,B25012_6,Tenure by Prescence of Children,American Community Survey,acs/acs10,B25012_6,2022,2020,block group
-Owner Occupied Households With Own Children 6 to 17 years,B25012_7,Tenure by Prescence of Children,American Community Survey,acs/acs11,B25012_7,2022,2020,block group
-Owner Occupied Households No Own Children under 18,B25012_8,Tenure by Prescence of Children,American Community Survey,acs/acs12,B25012_8,2022,2020,block group
-Owner Occupied Households No Related Children under 18,B25012_9,Tenure by Prescence of Children,American Community Survey,acs/acs13,B25012_9,2022,2020,block group
-Total Renter Occupied Housholds by Presence of Children,B25012_10,Tenure by Prescence of Children,American Community Survey,acs/acs14,B25012_10,2022,2020,block group
-Renter Occupied Households With Related Children under 18,B25012_11,Tenure by Prescence of Children,American Community Survey,acs/acs15,B25012_11,2022,2020,block group
-Renter Occupied Households With Own Children under 18,B25012_12,Tenure by Prescence of Children,American Community Survey,acs/acs16,B25012_12,2022,2020,block group
-Renter Occupied Households With Own Children under 6 years only,B25012_13,Tenure by Prescence of Children,American Community Survey,acs/acs17,B25012_13,2022,2020,block group
-Renter Occupied Households With Own Children under 6 years and 6 to 17 years,B25012_14,Tenure by Prescence of Children,American Community Survey,acs/acs18,B25012_14,2022,2020,block group
-Renter Occupied Households With Own Children 6 to 17 years,B25012_15,Tenure by Prescence of Children,American Community Survey,acs/acs19,B25012_15,2022,2020,block group
-Renter Occupied Households No Own Children under 18,B25012_16,Tenure by Prescence of Children,American Community Survey,acs/acs20,B25012_16,2022,2020,block group
-Renter Occupied Households No Related Children under 18,B25012_17,Tenure by Prescence of Children,American Community Survey,acs/acs21,B25012_17,2022,2020,block group
+Owner Occupied Households With Own Children under 6 years and 6 to 17 years,B25012_6,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_6,2022,2020,block group
+Owner Occupied Households With Own Children 6 to 17 years,B25012_7,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_7,2022,2020,block group
+Owner Occupied Households No Own Children under 18,B25012_8,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_8,2022,2020,block group
+Owner Occupied Households No Related Children under 18,B25012_9,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_9,2022,2020,block group
+Total Renter Occupied Housholds by Presence of Children,B25012_10,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_10,2022,2020,block group
+Renter Occupied Households With Related Children under 18,B25012_11,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_11,2022,2020,block group
+Renter Occupied Households With Own Children under 18,B25012_12,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_12,2022,2020,block group
+Renter Occupied Households With Own Children under 6 years only,B25012_13,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_13,2022,2020,block group
+Renter Occupied Households With Own Children under 6 years and 6 to 17 years,B25012_14,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_14,2022,2020,block group
+Renter Occupied Households With Own Children 6 to 17 years,B25012_15,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_15,2022,2020,block group
+Renter Occupied Households No Own Children under 18,B25012_16,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_16,2022,2020,block group
+Renter Occupied Households No Related Children under 18,B25012_17,Tenure by Prescence of Children,American Community Survey,acs/acs5,B25012_17,2022,2020,block group
 Group Quarters Population,B26001,Group Quarters,American Community Survey,acs/acs5,B26001,2022,2020,block group
 Median Age Female,B01002,Age,American Community Survey,acs/acs5,B01002,2022,2020,block group
 Median Age Male,B01002,Age,American Community Survey,acs/acs5,B01002,2022,2020,block group
