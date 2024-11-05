@@ -1,0 +1,1795 @@
+year_sample,tract,state,county,variable_name,census_geom_year_x,value,trpa_id
+2010,001600,32,005,Total Population,2010,1591.0,320050016002010
+2010,001600,32,005,Total population:  Hispanic or Latino,2010,67.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino,2010,1524.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,4.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino; Asian alone,2010,45.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2010,2.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,1.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2010,0.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino; Two or more races,2010,20.0,320050016002010
+2010,001600,32,005,Total population:  Not Hispanic or Latino; White alone,2010,1452.0,320050016002010
+2010,001700,32,005,Total Population,2010,1601.0,320050017002010
+2010,001700,32,005,Total population:  Hispanic or Latino,2010,335.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino,2010,1266.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,7.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino; Asian alone,2010,73.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2010,14.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,1.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2010,2.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino; Two or more races,2010,40.0,320050017002010
+2010,001700,32,005,Total population:  Not Hispanic or Latino; White alone,2010,1129.0,320050017002010
+2010,001800,32,005,Total Population,2010,1994.0,320050018002010
+2010,001800,32,005,Total population:  Hispanic or Latino,2010,170.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino,2010,1982.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,7.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino; Asian alone,2010,44.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2010,8.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,7.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2010,3.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino; Two or more races,2010,49.0,320050018002010
+2010,001800,32,005,Total population:  Not Hispanic or Latino; White alone,2010,1864.0,320050018002010
+2010,001900,32,005,Total Population,2010,0.0,320050019002010
+2010,003204,32,031,Total Population,2010,0.0,320310032042010
+2010,003305,32,031,Total Population,2010,1247.0,320310033052010
+2010,003305,32,031,Total population:  Hispanic or Latino,2010,330.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino,2010,917.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,10.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino; Asian alone,2010,28.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2010,2.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,1.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2010,2.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino; Two or more races,2010,16.0,320310033052010
+2010,003305,32,031,Total population:  Not Hispanic or Latino; White alone,2010,858.0,320310033052010
+2010,003306,32,031,Total Population,2010,1730.0,320310033062010
+2010,003306,32,031,Total population:  Hispanic or Latino,2010,715.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino,2010,1015.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,4.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino; Asian alone,2010,34.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2010,3.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,1.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2010,1.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino; Two or more races,2010,17.0,320310033062010
+2010,003306,32,031,Total population:  Not Hispanic or Latino; White alone,2010,955.0,320310033062010
+2010,003307,32,031,Total Population,2010,1231.0,320310033072010
+2010,003307,32,031,Total population:  Hispanic or Latino,2010,140.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino,2010,1091.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,1.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino; Asian alone,2010,43.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2010,5.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,0.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2010,3.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino; Two or more races,2010,15.0,320310033072010
+2010,003307,32,031,Total population:  Not Hispanic or Latino; White alone,2010,1024.0,320310033072010
+2010,003308,32,031,Total Population,2010,2333.0,320310033082010
+2010,003308,32,031,Total population:  Hispanic or Latino,2010,96.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino,2010,2237.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,3.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino; Asian alone,2010,33.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2010,8.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,1.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2010,5.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino; Two or more races,2010,26.0,320310033082010
+2010,003308,32,031,Total population:  Not Hispanic or Latino; White alone,2010,2161.0,320310033082010
+2010,003309,32,031,Total Population,2010,2546.0,320310033092010
+2010,003309,32,031,Total population:  Hispanic or Latino,2010,285.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino,2010,2261.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,6.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino; Asian alone,2010,49.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2010,6.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,3.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2010,7.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino; Two or more races,2010,52.0,320310033092010
+2010,003309,32,031,Total population:  Not Hispanic or Latino; White alone,2010,2138.0,320310033092010
+2010,020104,06,061,Total Population,2010,1288.0,060610201042010
+2010,020104,06,061,Total population:  Hispanic or Latino,2010,88.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino,2010,1200.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,6.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino; Asian alone,2010,19.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2010,5.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,0.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2010,0.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino; Two or more races,2010,14.0,060610201042010
+2010,020104,06,061,Total population:  Not Hispanic or Latino; White alone,2010,1156.0,060610201042010
+2010,020105,06,061,Total Population,2010,1352.0,060610201052010
+2010,020105,06,061,Total population:  Hispanic or Latino,2010,48.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino,2010,1304.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,10.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino; Asian alone,2010,27.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2010,6.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,0.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2010,0.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino; Two or more races,2010,35.0,060610201052010
+2010,020105,06,061,Total population:  Not Hispanic or Latino; White alone,2010,1226.0,060610201052010
+2010,020106,06,061,Total Population,2010,1719.0,060610201062010
+2010,020106,06,061,Total population:  Hispanic or Latino,2010,375.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino,2010,1344.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,5.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino; Asian alone,2010,26.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2010,3.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,2.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2010,2.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino; Two or more races,2010,30.0,060610201062010
+2010,020106,06,061,Total population:  Not Hispanic or Latino; White alone,2010,1276.0,060610201062010
+2010,020107,06,061,Total Population,2010,3510.0,060610201072010
+2010,020107,06,061,Total population:  Hispanic or Latino,2010,2092.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino,2010,1418.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,13.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino; Asian alone,2010,9.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2010,3.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,2.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2010,3.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino; Two or more races,2010,19.0,060610201072010
+2010,020107,06,061,Total population:  Not Hispanic or Latino; White alone,2010,1369.0,060610201072010
+2010,020200,06,061,Total Population,2010,0.0,060610202002010
+2010,022011,06,061,Total Population,2010,0.0,060610220112010
+2010,022014,06,061,Total Population,2010,84.0,060610220142010
+2010,022100,06,061,Total Population,2010,961.0,060610221002010
+2010,022100,06,061,Total population:  Hispanic or Latino,2010,22.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino,2010,939.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,0.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino; Asian alone,2010,12.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2010,10.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,0.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2010,0.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino; Two or more races,2010,10.0,060610221002010
+2010,022100,06,061,Total population:  Not Hispanic or Latino; White alone,2010,907.0,060610221002010
+2010,022200,06,061,Total Population,2010,909.0,060610222002010
+2010,022200,06,061,Total population:  Hispanic or Latino,2010,73.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino,2010,836.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,2.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino; Asian alone,2010,8.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2010,3.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,1.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2010,1.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino; Two or more races,2010,13.0,060610222002010
+2010,022200,06,061,Total population:  Not Hispanic or Latino; White alone,2010,808.0,060610222002010
+2010,022300,06,061,Total Population,2010,709.0,060610223002010
+2010,022300,06,061,Total population:  Hispanic or Latino,2010,22.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino,2010,687.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,3.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino; Asian alone,2010,10.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2010,5.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,0.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2010,0.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino; Two or more races,2010,3.0,060610223002010
+2010,022300,06,061,Total population:  Not Hispanic or Latino; White alone,2010,666.0,060610223002010
+2010,030200,06,017,Total Population,2010,4773.0,060170302002010
+2010,030200,06,017,Total population:  Hispanic or Latino,2010,2112.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino,2010,2661.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,23.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,212.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,29.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,8.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,8.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,69.0,060170302002010
+2010,030200,06,017,Total population:  Not Hispanic or Latino; White alone,2010,2312.0,060170302002010
+2010,030301,06,017,Total Population,2010,2469.0,060170303012010
+2010,030301,06,017,Total population:  Hispanic or Latino,2010,712.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino,2010,1757.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,22.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,78.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,18.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,1.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,5.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,57.0,060170303012010
+2010,030301,06,017,Total population:  Not Hispanic or Latino; White alone,2010,1576.0,060170303012010
+2010,030302,06,017,Total Population,2010,2867.0,060170303022010
+2010,030302,06,017,Total population:  Hispanic or Latino,2010,703.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino,2010,2164.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,16.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,122.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,22.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,6.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,5.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,74.0,060170303022010
+2010,030302,06,017,Total population:  Not Hispanic or Latino; White alone,2010,1919.0,060170303022010
+2010,030401,06,017,Total Population,2010,3498.0,060170304012010
+2010,030401,06,017,Total population:  Hispanic or Latino,2010,438.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino,2010,3060.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,22.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,83.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,14.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,4.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,2.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,75.0,060170304012010
+2010,030401,06,017,Total population:  Not Hispanic or Latino; White alone,2010,2860.0,060170304012010
+2010,030402,06,017,Total Population,2010,3723.0,060170304022010
+2010,030402,06,017,Total population:  Hispanic or Latino,2010,675.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino,2010,3048.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,22.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,104.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,22.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,8.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,1.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,100.0,060170304022010
+2010,030402,06,017,Total population:  Not Hispanic or Latino; White alone,2010,2791.0,060170304022010
+2010,030502,06,017,Total Population,2010,2641.0,060170305022010
+2010,030502,06,017,Total population:  Hispanic or Latino,2010,188.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino,2010,2453.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,8.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,42.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,10.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,4.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,1.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,33.0,060170305022010
+2010,030502,06,017,Total population:  Not Hispanic or Latino; White alone,2010,2355.0,060170305022010
+2010,030504,06,017,Total Population,2010,2912.0,060170305042010
+2010,030504,06,017,Total population:  Hispanic or Latino,2010,270.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino,2010,2642.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,11.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,55.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,15.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,4.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,2.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,36.0,060170305042010
+2010,030504,06,017,Total population:  Not Hispanic or Latino; White alone,2010,2519.0,060170305042010
+2010,030505,06,017,Total Population,2010,2704.0,060170305052010
+2010,030505,06,017,Total population:  Hispanic or Latino,2010,176.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino,2010,2528.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,10.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,57.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,25.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,4.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,1.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,67.0,060170305052010
+2010,030505,06,017,Total population:  Not Hispanic or Latino; White alone,2010,2364.0,060170305052010
+2010,030603,06,017,Total Population,2010,0.0,060170306032010
+2010,031600,06,017,Total Population,2010,4126.0,060170316002010
+2010,031600,06,017,Total population:  Hispanic or Latino,2010,2029.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino,2010,2097.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,18.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,551.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,33.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,6.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,13.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,68.0,060170316002010
+2010,031600,06,017,Total population:  Not Hispanic or Latino; White alone,2010,1408.0,060170316002010
+2010,032000,06,017,Total Population,2010,1014.0,060170320002010
+2010,032000,06,017,Total population:  Hispanic or Latino,2010,42.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino,2010,973.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,7.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino; Asian alone,2010,8.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2010,3.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,5.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2010,1.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino; Two or more races,2010,21.0,060170320002010
+2010,032000,06,017,Total population:  Not Hispanic or Latino; White alone,2010,928.0,060170320002010
+2010,1600,32,005,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,3200516002010
+2010,1600,32,005,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,3200516002010
+2010,1600,32,005,Educational Attainment: Population 18 to 24: High school graduate,2010,0.0,3200516002010
+2010,1600,32,005,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,100.0,3200516002010
+2010,1600,32,005,Educational Attainment: Population 18 to 24: Total,2010,26.0,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,0.0,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: Associates degree,2010,7.6,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: Bachelors degree,2010,31.5,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,32.7,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: High school graduate,2010,13.9,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,0.0,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: Some college no degree,2010,14.3,3200516002010
+2010,1600,32,005,Educational Attainment: Population 25 years and over: Total,2010,749.0,3200516002010
+2010,1600,32,005,Group Quarters Population,2010,0.0,3200516002010
+2010,1700,32,005,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,3200517002010
+2010,1700,32,005,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,3200517002010
+2010,1700,32,005,Educational Attainment: Population 18 to 24: High school graduate,2010,17.8,3200517002010
+2010,1700,32,005,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,82.2,3200517002010
+2010,1700,32,005,Educational Attainment: Population 18 to 24: Total,2010,118.0,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,4.8,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: Associates degree,2010,10.9,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: Bachelors degree,2010,17.5,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,11.8,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: High school graduate,2010,13.4,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,7.0,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: Some college no degree,2010,34.6,3200517002010
+2010,1700,32,005,Educational Attainment: Population 25 years and over: Total,2010,1209.0,3200517002010
+2010,1700,32,005,Group Quarters Population,2010,3.0,3200517002010
+2010,1800,32,005,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,14.0,3200518002010
+2010,1800,32,005,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,4.8,3200518002010
+2010,1800,32,005,Educational Attainment: Population 18 to 24: High school graduate,2010,8.2,3200518002010
+2010,1800,32,005,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,72.9,3200518002010
+2010,1800,32,005,Educational Attainment: Population 18 to 24: Total,2010,207.0,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,0.0,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: Associates degree,2010,4.6,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: Bachelors degree,2010,23.9,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,14.5,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: High school graduate,2010,23.4,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,5.6,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: Some college no degree,2010,28.0,3200518002010
+2010,1800,32,005,Educational Attainment: Population 25 years and over: Total,2010,1421.0,3200518002010
+2010,1800,32,005,Group Quarters Population,2010,0.0,3200518002010
+2010,20104,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,06061201042010
+2010,20104,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,86.0,06061201042010
+2010,20104,06,061,Educational Attainment: Population 18 to 24: High school graduate,2010,14.0,06061201042010
+2010,20104,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,0.0,06061201042010
+2010,20104,06,061,Educational Attainment: Population 18 to 24: Total,2010,93.0,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,0.0,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: Associates degree,2010,8.6,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2010,38.4,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,7.1,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: High school graduate,2010,23.6,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,0.0,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2010,22.3,06061201042010
+2010,20104,06,061,Educational Attainment: Population 25 years and over: Total,2010,800.0,06061201042010
+2010,20104,06,061,Group Quarters Population,2010,0.0,06061201042010
+2010,20105,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,06061201052010
+2010,20105,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,52.3,06061201052010
+2010,20105,06,061,Educational Attainment: Population 18 to 24: High school graduate,2010,47.7,06061201052010
+2010,20105,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,0.0,06061201052010
+2010,20105,06,061,Educational Attainment: Population 18 to 24: Total,2010,44.0,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,0.0,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: Associates degree,2010,4.9,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2010,44.0,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,4.2,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: High school graduate,2010,18.6,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,1.3,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2010,27.0,06061201052010
+2010,20105,06,061,Educational Attainment: Population 25 years and over: Total,2010,840.0,06061201052010
+2010,20105,06,061,Group Quarters Population,2010,0.0,06061201052010
+2010,20106,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,31.3,06061201062010
+2010,20106,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,10.4,06061201062010
+2010,20106,06,061,Educational Attainment: Population 18 to 24: High school graduate,2010,36.3,06061201062010
+2010,20106,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,21.9,06061201062010
+2010,20106,06,061,Educational Attainment: Population 18 to 24: Total,2010,201.0,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,3.0,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: Associates degree,2010,11.0,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2010,27.0,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,9.9,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: High school graduate,2010,13.1,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,13.1,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2010,22.9,06061201062010
+2010,20106,06,061,Educational Attainment: Population 25 years and over: Total,2010,1100.0,06061201062010
+2010,20106,06,061,Group Quarters Population,2010,0.0,06061201062010
+2010,20107,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,28.5,06061201072010
+2010,20107,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,4.4,06061201072010
+2010,20107,06,061,Educational Attainment: Population 18 to 24: High school graduate,2010,58.9,06061201072010
+2010,20107,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,8.1,06061201072010
+2010,20107,06,061,Educational Attainment: Population 18 to 24: Total,2010,589.0,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,15.7,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: Associates degree,2010,5.4,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2010,15.3,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,3.1,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: High school graduate,2010,17.3,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,28.1,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2010,15.0,06061201072010
+2010,20107,06,061,Educational Attainment: Population 25 years and over: Total,2010,1954.0,06061201072010
+2010,20107,06,061,Group Quarters Population,2010,79.0,06061201072010
+2010,22100,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 18 to 24: High school graduate,2010,0.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,100.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 18 to 24: Total,2010,33.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,0.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: Associates degree,2010,11.5,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2010,56.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,5.7,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: High school graduate,2010,20.4,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,0.0,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2010,6.3,06061221002010
+2010,22100,06,061,Educational Attainment: Population 25 years and over: Total,2010,662.0,06061221002010
+2010,22100,06,061,Group Quarters Population,2010,0.0,06061221002010
+2010,22200,06,061,Educational Attainment: Population 18 to 24: Total,2010,0.0,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,1.6,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: Associates degree,2010,9.7,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2010,43.2,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,11.1,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: High school graduate,2010,3.1,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,1.6,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2010,29.5,06061222002010
+2010,22200,06,061,Educational Attainment: Population 25 years and over: Total,2010,667.0,06061222002010
+2010,22200,06,061,Group Quarters Population,2010,7.0,06061222002010
+2010,22300,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,80.9,06061223002010
+2010,22300,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06061223002010
+2010,22300,06,061,Educational Attainment: Population 18 to 24: High school graduate,2010,0.0,06061223002010
+2010,22300,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,19.1,06061223002010
+2010,22300,06,061,Educational Attainment: Population 18 to 24: Total,2010,47.0,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,0.0,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: Associates degree,2010,4.6,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2010,25.1,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,10.1,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: High school graduate,2010,17.8,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,9.0,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2010,33.5,06061223002010
+2010,22300,06,061,Educational Attainment: Population 25 years and over: Total,2010,546.0,06061223002010
+2010,22300,06,061,Group Quarters Population,2010,0.0,06061223002010
+2010,30200,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,19.3,06017302002010
+2010,30200,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,2.0,06017302002010
+2010,30200,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,36.0,06017302002010
+2010,30200,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,42.7,06017302002010
+2010,30200,06,017,Educational Attainment: Population 18 to 24: Total,2010,703.0,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,15.4,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,6.4,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,12.3,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,6.1,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,23.2,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,11.1,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,25.5,06017302002010
+2010,30200,06,017,Educational Attainment: Population 25 years and over: Total,2010,3273.0,06017302002010
+2010,30200,06,017,Group Quarters Population,2010,205.0,06017302002010
+2010,30301,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,10.5,06017303012010
+2010,30301,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06017303012010
+2010,30301,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,16.3,06017303012010
+2010,30301,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,73.2,06017303012010
+2010,30301,06,017,Educational Attainment: Population 18 to 24: Total,2010,411.0,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,3.6,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,2.4,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,13.1,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,5.3,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,36.1,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,10.1,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,29.4,06017303012010
+2010,30301,06,017,Educational Attainment: Population 25 years and over: Total,2010,1826.0,06017303012010
+2010,30301,06,017,Group Quarters Population,2010,0.0,06017303012010
+2010,30302,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,8.1,06017303022010
+2010,30302,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,16.6,06017303022010
+2010,30302,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,57.2,06017303022010
+2010,30302,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,18.1,06017303022010
+2010,30302,06,017,Educational Attainment: Population 18 to 24: Total,2010,271.0,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,3.8,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,10.2,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,12.3,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,1.9,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,23.5,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,3.5,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,44.8,06017303022010
+2010,30302,06,017,Educational Attainment: Population 25 years and over: Total,2010,2217.0,06017303022010
+2010,30302,06,017,Group Quarters Population,2010,11.0,06017303022010
+2010,30401,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,11.8,06017304012010
+2010,30401,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,2.5,06017304012010
+2010,30401,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,36.9,06017304012010
+2010,30401,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,48.7,06017304012010
+2010,30401,06,017,Educational Attainment: Population 18 to 24: Total,2010,398.0,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,1.7,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,12.3,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,21.1,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,12.2,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,29.2,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,1.5,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,22.1,06017304012010
+2010,30401,06,017,Educational Attainment: Population 25 years and over: Total,2010,3027.0,06017304012010
+2010,30401,06,017,Group Quarters Population,2010,0.0,06017304012010
+2010,30402,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,17.4,06017304022010
+2010,30402,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06017304022010
+2010,30402,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,16.1,06017304022010
+2010,30402,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,66.4,06017304022010
+2010,30402,06,017,Educational Attainment: Population 18 to 24: Total,2010,384.0,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,5.0,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,11.2,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,15.1,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,6.0,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,29.0,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,3.1,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,30.5,06017304022010
+2010,30402,06,017,Educational Attainment: Population 25 years and over: Total,2010,2356.0,06017304022010
+2010,30402,06,017,Group Quarters Population,2010,102.0,06017304022010
+2010,30502,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,06017305022010
+2010,30502,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06017305022010
+2010,30502,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,39.4,06017305022010
+2010,30502,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,60.6,06017305022010
+2010,30502,06,017,Educational Attainment: Population 18 to 24: Total,2010,208.0,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,5.7,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,14.3,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,18.5,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,5.3,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,20.0,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,3.4,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,32.8,06017305022010
+2010,30502,06,017,Educational Attainment: Population 25 years and over: Total,2010,1816.0,06017305022010
+2010,30502,06,017,Group Quarters Population,2010,12.0,06017305022010
+2010,30504,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,6.2,06017305042010
+2010,30504,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06017305042010
+2010,30504,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,16.5,06017305042010
+2010,30504,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,77.3,06017305042010
+2010,30504,06,017,Educational Attainment: Population 18 to 24: Total,2010,242.0,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,5.4,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,13.2,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,31.3,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,10.5,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,17.2,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,1.8,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,20.7,06017305042010
+2010,30504,06,017,Educational Attainment: Population 25 years and over: Total,2010,1959.0,06017305042010
+2010,30504,06,017,Group Quarters Population,2010,7.0,06017305042010
+2010,30505,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,06017305052010
+2010,30505,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06017305052010
+2010,30505,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,37.8,06017305052010
+2010,30505,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,62.2,06017305052010
+2010,30505,06,017,Educational Attainment: Population 18 to 24: Total,2010,74.0,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,7.4,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,17.8,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,30.3,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,4.1,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,20.2,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,1.9,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,18.4,06017305052010
+2010,30505,06,017,Educational Attainment: Population 25 years and over: Total,2010,1502.0,06017305052010
+2010,30505,06,017,Group Quarters Population,2010,63.0,06017305052010
+2010,31600,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,20.1,06017316002010
+2010,31600,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,17.6,06017316002010
+2010,31600,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,17.8,06017316002010
+2010,31600,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,44.4,06017316002010
+2010,31600,06,017,Educational Attainment: Population 18 to 24: Total,2010,493.0,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,13.9,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,5.9,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,15.9,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,4.4,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,19.5,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,23.8,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,16.7,06017316002010
+2010,31600,06,017,Educational Attainment: Population 25 years and over: Total,2010,2251.0,06017316002010
+2010,31600,06,017,Group Quarters Population,2010,50.0,06017316002010
+2010,32000,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,06017320002010
+2010,32000,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,06017320002010
+2010,32000,06,017,Educational Attainment: Population 18 to 24: High school graduate,2010,100.0,06017320002010
+2010,32000,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,0.0,06017320002010
+2010,32000,06,017,Educational Attainment: Population 18 to 24: Total,2010,86.0,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,5.8,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: Associates degree,2010,0.0,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2010,22.1,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,17.4,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: High school graduate,2010,32.3,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,0.0,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2010,22.5,06017320002010
+2010,32000,06,017,Educational Attainment: Population 25 years and over: Total,2010,570.0,06017320002010
+2010,32000,06,017,Group Quarters Population,2010,0.0,06017320002010
+2010,3305,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,39.6,3203133052010
+2010,3305,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,3203133052010
+2010,3305,32,031,Educational Attainment: Population 18 to 24: High school graduate,2010,60.4,3203133052010
+2010,3305,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,0.0,3203133052010
+2010,3305,32,031,Educational Attainment: Population 18 to 24: Total,2010,53.0,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,5.6,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: Associates degree,2010,6.3,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2010,20.2,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,13.9,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: High school graduate,2010,20.8,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,8.7,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2010,24.5,3203133052010
+2010,3305,32,031,Educational Attainment: Population 25 years and over: Total,2010,954.0,3203133052010
+2010,3305,32,031,Group Quarters Population,2010,0.0,3203133052010
+2010,3306,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,30.8,3203133062010
+2010,3306,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,3203133062010
+2010,3306,32,031,Educational Attainment: Population 18 to 24: High school graduate,2010,17.8,3203133062010
+2010,3306,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,51.4,3203133062010
+2010,3306,32,031,Educational Attainment: Population 18 to 24: Total,2010,146.0,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,9.0,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: Associates degree,2010,5.2,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2010,24.7,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,14.8,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: High school graduate,2010,16.4,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,14.5,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2010,15.4,3203133062010
+2010,3306,32,031,Educational Attainment: Population 25 years and over: Total,2010,1302.0,3203133062010
+2010,3306,32,031,Group Quarters Population,2010,0.0,3203133062010
+2010,3307,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,0.0,3203133072010
+2010,3307,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,27.0,3203133072010
+2010,3307,32,031,Educational Attainment: Population 18 to 24: High school graduate,2010,0.0,3203133072010
+2010,3307,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,73.0,3203133072010
+2010,3307,32,031,Educational Attainment: Population 18 to 24: Total,2010,63.0,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,6.2,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: Associates degree,2010,27.8,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2010,20.6,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,19.6,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: High school graduate,2010,6.2,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,0.0,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2010,19.6,3203133072010
+2010,3307,32,031,Educational Attainment: Population 25 years and over: Total,2010,817.0,3203133072010
+2010,3307,32,031,Group Quarters Population,2010,147.0,3203133072010
+2010,3308,32,031,Educational Attainment: Population 18 to 24: Total,2010,0.0,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,0.0,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: Associates degree,2010,7.3,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2010,41.7,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,28.3,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: High school graduate,2010,12.4,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,1.1,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2010,9.2,3203133082010
+2010,3308,32,031,Educational Attainment: Population 25 years and over: Total,2010,1275.0,3203133082010
+2010,3308,32,031,Group Quarters Population,2010,0.0,3203133082010
+2010,3309,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2010,30.1,3203133092010
+2010,3309,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2010,0.0,3203133092010
+2010,3309,32,031,Educational Attainment: Population 18 to 24: High school graduate,2010,36.2,3203133092010
+2010,3309,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2010,33.7,3203133092010
+2010,3309,32,031,Educational Attainment: Population 18 to 24: Total,2010,522.0,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2010,3.3,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: Associates degree,2010,2.0,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2010,18.3,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2010,17.0,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: High school graduate,2010,16.4,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2010,6.0,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2010,37.0,3203133092010
+2010,3309,32,031,Educational Attainment: Population 25 years and over: Total,2010,1938.0,3203133092010
+2010,3309,32,031,Group Quarters Population,2010,0.0,3203133092010
+2010,980300,32,031,Total Population,2010,0.0,320319803002010
+2010,990000,32,031,Total population:  Hispanic or Latino,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino; Asian alone,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino; Two or more races,2010,0.0,320319900002010
+2010,990000,32,031,Total population:  Not Hispanic or Latino; White alone,2010,0.0,320319900002010
+2020,001600,32,005,Total Population,2020,1799.0,320050016002020
+2020,001600,32,005,Total population:  Hispanic or Latino,2020,94.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino,2020,1705.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,3.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino; Asian alone,2020,59.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2020,5.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,1.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2020,10.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino; Two or more races,2020,75.0,320050016002020
+2020,001600,32,005,Total population:  Not Hispanic or Latino; White alone,2020,1552.0,320050016002020
+2020,001700,32,005,Total Population,2020,1493.0,320050017002020
+2020,001700,32,005,Total population:  Hispanic or Latino,2020,276.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino,2020,1217.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,2.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino; Asian alone,2020,61.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2020,10.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,8.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2020,16.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino; Two or more races,2020,84.0,320050017002020
+2020,001700,32,005,Total population:  Not Hispanic or Latino; White alone,2020,1036.0,320050017002020
+2020,001800,32,005,Total Population,2020,2099.0,320050018002020
+2020,001800,32,005,Total population:  Hispanic or Latino,2020,220.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino,2020,2081.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,7.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino; Asian alone,2020,50.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2020,11.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,2.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2020,8.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino; Two or more races,2020,105.0,320050018002020
+2020,001800,32,005,Total population:  Not Hispanic or Latino; White alone,2020,1898.0,320050018002020
+2020,003206,32,031,Total Population,2020,4.0,320310032062020
+2020,003305,32,031,Total Population,2020,1160.0,320310033052020
+2020,003305,32,031,Total population:  Hispanic or Latino,2020,270.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino,2020,890.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,4.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,31.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,3.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,5.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,60.0,320310033052020
+2020,003305,32,031,Total population:  Not Hispanic or Latino; White alone,2020,787.0,320310033052020
+2020,003306,32,031,Total Population,2020,1826.0,320310033062020
+2020,003306,32,031,Total population:  Hispanic or Latino,2020,656.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino,2020,1170.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,8.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,35.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,4.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,2.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,12.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,68.0,320310033062020
+2020,003306,32,031,Total population:  Not Hispanic or Latino; White alone,2020,1041.0,320310033062020
+2020,003307,32,031,Total Population,2020,1268.0,320310033072020
+2020,003307,32,031,Total population:  Hispanic or Latino,2020,133.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino,2020,1135.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,1.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,22.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,6.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,6.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,12.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,32.0,320310033072020
+2020,003307,32,031,Total population:  Not Hispanic or Latino; White alone,2020,1056.0,320310033072020
+2020,003308,32,031,Total Population,2020,2423.0,320310033082020
+2020,003308,32,031,Total population:  Hispanic or Latino,2020,109.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino,2020,2314.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,8.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,70.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,4.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,1.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,22.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,111.0,320310033082020
+2020,003308,32,031,Total population:  Not Hispanic or Latino; White alone,2020,2098.0,320310033082020
+2020,003310,32,031,Total Population,2020,1447.0,320310033102020
+2020,003310,32,031,Total population:  Hispanic or Latino,2020,170.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino,2020,1277.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,4.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,35.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,4.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,5.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,10.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,65.0,320310033102020
+2020,003310,32,031,Total population:  Not Hispanic or Latino; White alone,2020,1154.0,320310033102020
+2020,003311,32,031,Total Population,2020,1693.0,320310033112020
+2020,003311,32,031,Total population:  Hispanic or Latino,2020,201.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino,2020,1492.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,3.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,41.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,8.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,4.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,60.0,320310033112020
+2020,003311,32,031,Total population:  Not Hispanic or Latino; White alone,2020,1376.0,320310033112020
+2020,020104,06,061,Total Population,2020,1327.0,060610201042020
+2020,020104,06,061,Total population:  Hispanic or Latino,2020,93.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino,2020,1234.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,2.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,30.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,6.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,5.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,2.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,42.0,060610201042020
+2020,020104,06,061,Total population:  Not Hispanic or Latino; White alone,2020,1147.0,060610201042020
+2020,020105,06,061,Total Population,2020,1319.0,060610201052020
+2020,020105,06,061,Total population:  Hispanic or Latino,2020,65.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino,2020,1254.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,5.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,12.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,3.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,5.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,5.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,45.0,060610201052020
+2020,020105,06,061,Total population:  Not Hispanic or Latino; White alone,2020,1179.0,060610201052020
+2020,020106,06,061,Total Population,2020,1643.0,060610201062020
+2020,020106,06,061,Total population:  Hispanic or Latino,2020,437.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino,2020,1206.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,8.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,25.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,2.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,14.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,52.0,060610201062020
+2020,020106,06,061,Total population:  Not Hispanic or Latino; White alone,2020,1105.0,060610201062020
+2020,020107,06,061,Total Population,2020,3315.0,060610201072020
+2020,020107,06,061,Total population:  Hispanic or Latino,2020,1677.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino,2020,1638.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,5.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,60.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,3.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,8.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,20.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,73.0,060610201072020
+2020,020107,06,061,Total population:  Not Hispanic or Latino; White alone,2020,1469.0,060610201072020
+2020,020200,06,061,Total Population,2020,0.0,060610202002020
+2020,022014,06,061,Total Population,2020,41.0,060610220142020
+2020,022100,06,061,Total Population,2020,901.0,060610221002020
+2020,022100,06,061,Total population:  Hispanic or Latino,2020,48.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino,2020,853.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,8.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,1.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,2.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,63.0,060610221002020
+2020,022100,06,061,Total population:  Not Hispanic or Latino; White alone,2020,779.0,060610221002020
+2020,022200,06,061,Total Population,2020,902.0,060610222002020
+2020,022200,06,061,Total population:  Hispanic or Latino,2020,83.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino,2020,819.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,1.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,10.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,11.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,24.0,060610222002020
+2020,022200,06,061,Total population:  Not Hispanic or Latino; White alone,2020,773.0,060610222002020
+2020,022300,06,061,Total Population,2020,646.0,060610223002020
+2020,022300,06,061,Total population:  Hispanic or Latino,2020,34.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino,2020,612.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,1.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,11.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,1.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,2.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,31.0,060610223002020
+2020,022300,06,061,Total population:  Not Hispanic or Latino; White alone,2020,566.0,060610223002020
+2020,030201,06,017,Total Population,2020,2253.0,060170302012020
+2020,030201,06,017,Total population:  Hispanic or Latino,2020,806.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino,2020,1447.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,17.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,139.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,24.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,4.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,6.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,85.0,060170302012020
+2020,030201,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1172.0,060170302012020
+2020,030202,06,017,Total Population,2020,2141.0,060170302022020
+2020,030202,06,017,Total population:  Hispanic or Latino,2020,1051.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino,2020,1090.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,11.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,71.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,7.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,3.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,17.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,50.0,060170302022020
+2020,030202,06,017,Total population:  Not Hispanic or Latino; White alone,2020,931.0,060170302022020
+2020,030301,06,017,Total Population,2020,2703.0,060170303012020
+2020,030301,06,017,Total population:  Hispanic or Latino,2020,778.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino,2020,1925.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,21.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,83.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,32.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,3.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,19.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,143.0,060170303012020
+2020,030301,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1624.0,060170303012020
+2020,030302,06,017,Total Population,2020,2903.0,060170303022020
+2020,030302,06,017,Total population:  Hispanic or Latino,2020,793.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino,2020,2110.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,27.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,99.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,9.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,5.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,16.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,113.0,060170303022020
+2020,030302,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1841.0,060170303022020
+2020,030402,06,017,Total Population,2020,3847.0,060170304022020
+2020,030402,06,017,Total population:  Hispanic or Latino,2020,861.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino,2020,2986.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,33.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,93.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,11.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,21.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,227.0,060170304022020
+2020,030402,06,017,Total population:  Not Hispanic or Latino; White alone,2020,2601.0,060170304022020
+2020,030403,06,017,Total Population,2020,1391.0,060170304032020
+2020,030403,06,017,Total population:  Hispanic or Latino,2020,159.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino,2020,1232.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,2.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,58.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,8.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,6.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,57.0,060170304032020
+2020,030403,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1101.0,060170304032020
+2020,030404,06,017,Total Population,2020,2117.0,060170304042020
+2020,030404,06,017,Total population:  Hispanic or Latino,2020,446.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino,2020,1671.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,10.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,73.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,12.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,24.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,121.0,060170304042020
+2020,030404,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1431.0,060170304042020
+2020,030502,06,017,Total Population,2020,2768.0,060170305022020
+2020,030502,06,017,Total population:  Hispanic or Latino,2020,281.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino,2020,2487.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,7.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,54.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,9.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,1.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,12.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,147.0,060170305022020
+2020,030502,06,017,Total population:  Not Hispanic or Latino; White alone,2020,2257.0,060170305022020
+2020,030504,06,017,Total Population,2020,2579.0,060170305042020
+2020,030504,06,017,Total population:  Hispanic or Latino,2020,301.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino,2020,2278.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,6.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,58.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,8.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,2.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,30.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,137.0,060170305042020
+2020,030504,06,017,Total population:  Not Hispanic or Latino; White alone,2020,2037.0,060170305042020
+2020,030506,06,017,Total Population,2020,1009.0,060170305062020
+2020,030506,06,017,Total population:  Hispanic or Latino,2020,99.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino,2020,910.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,2.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,18.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,2.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,5.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,40.0,060170305062020
+2020,030506,06,017,Total population:  Not Hispanic or Latino; White alone,2020,843.0,060170305062020
+2020,030507,06,017,Total Population,2020,1717.0,060170305072020
+2020,030507,06,017,Total population:  Hispanic or Latino,2020,167.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino,2020,1550.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,2.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,36.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,21.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,13.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,104.0,060170305072020
+2020,030507,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1374.0,060170305072020
+2020,031601,06,017,Total Population,2020,2077.0,060170316012020
+2020,031601,06,017,Total population:  Hispanic or Latino,2020,955.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino,2020,1122.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,10.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,162.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,27.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,5.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,76.0,060170316012020
+2020,031601,06,017,Total population:  Not Hispanic or Latino; White alone,2020,842.0,060170316012020
+2020,031602,06,017,Total Population,2020,1928.0,060170316022020
+2020,031602,06,017,Total population:  Hispanic or Latino,2020,715.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino,2020,1213.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,4.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,417.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,15.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,6.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,6.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,51.0,060170316022020
+2020,031602,06,017,Total population:  Not Hispanic or Latino; White alone,2020,714.0,060170316022020
+2020,032001,06,017,Total Population,2020,672.0,060170320012020
+2020,032001,06,017,Total population:  Hispanic or Latino,2020,35.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino,2020,637.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,1.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,1.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,2.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,4.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,59.0,060170320012020
+2020,032001,06,017,Total population:  Not Hispanic or Latino; White alone,2020,570.0,060170320012020
+2020,032002,06,017,Total Population,2020,265.0,060170320022020
+2020,032002,06,017,Total population:  Hispanic or Latino,2020,14.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino,2020,254.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,1.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,1.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,16.0,060170320022020
+2020,032002,06,017,Total population:  Not Hispanic or Latino; White alone,2020,236.0,060170320022020
+2020,1600,32,005,Group Quarters Population,2020,0.0,3200516002020
+2020,1600,32,005,Median Age Female,2020,119.9,3200516002020
+2020,1600,32,005,Median Age Male,2020,123.3,3200516002020
+2020,1700,32,005,Group Quarters Population,2020,0.0,3200517002020
+2020,1700,32,005,Median Age Female,2020,85.8,3200517002020
+2020,1700,32,005,Median Age Male,2020,95.0,3200517002020
+2020,1800,32,005,Group Quarters Population,2020,0.0,3200518002020
+2020,1800,32,005,Median Age Female,2020,101.3,3200518002020
+2020,1800,32,005,Median Age Male,2020,103.6,3200518002020
+2020,20104,06,061,Group Quarters Population,2020,6.0,06061201042020
+2020,20104,06,061,Median Age Female,2020,144.9,06061201042020
+2020,20104,06,061,Median Age Male,2020,141.0,06061201042020
+2020,20105,06,061,Group Quarters Population,2020,0.0,06061201052020
+2020,20105,06,061,Median Age Female,2020,98.5,06061201052020
+2020,20105,06,061,Median Age Male,2020,92.3,06061201052020
+2020,20106,06,061,Group Quarters Population,2020,0.0,06061201062020
+2020,20106,06,061,Median Age Female,2020,82.2,06061201062020
+2020,20106,06,061,Median Age Male,2020,81.1,06061201062020
+2020,20107,06,061,Group Quarters Population,2020,0.0,06061201072020
+2020,20107,06,061,Median Age Female,2020,105.30000000000001,06061201072020
+2020,20107,06,061,Median Age Male,2020,111.9,06061201072020
+2020,22100,06,061,Group Quarters Population,2020,0.0,06061221002020
+2020,22100,06,061,Median Age Female,2020,88.6,06061221002020
+2020,22100,06,061,Median Age Male,2020,100.7,06061221002020
+2020,22200,06,061,Group Quarters Population,2020,3.0,06061222002020
+2020,22200,06,061,Median Age Female,2020,92.4,06061222002020
+2020,22200,06,061,Median Age Male,2020,84.5,06061222002020
+2020,22300,06,061,Group Quarters Population,2020,0.0,06061223002020
+2020,22300,06,061,Median Age Female,2020,109.9,06061223002020
+2020,22300,06,061,Median Age Male,2020,104.19999999999999,06061223002020
+2020,30201,06,017,Group Quarters Population,2020,126.0,06017302012020
+2020,30201,06,017,Median Age Female,2020,109.5,06017302012020
+2020,30201,06,017,Median Age Male,2020,111.2,06017302012020
+2020,30202,06,017,Group Quarters Population,2020,0.0,06017302022020
+2020,30202,06,017,Median Age Female,2020,109.30000000000001,06017302022020
+2020,30202,06,017,Median Age Male,2020,101.0,06017302022020
+2020,30301,06,017,Group Quarters Population,2020,0.0,06017303012020
+2020,30301,06,017,Median Age Female,2020,113.5,06017303012020
+2020,30301,06,017,Median Age Male,2020,108.80000000000001,06017303012020
+2020,30302,06,017,Group Quarters Population,2020,5.0,06017303022020
+2020,30302,06,017,Median Age Female,2020,149.5,06017303022020
+2020,30302,06,017,Median Age Male,2020,150.7,06017303022020
+2020,30402,06,017,Group Quarters Population,2020,63.0,06017304022020
+2020,30402,06,017,Median Age Female,2020,213.4,06017304022020
+2020,30402,06,017,Median Age Male,2020,201.0,06017304022020
+2020,30403,06,017,Group Quarters Population,2020,0.0,06017304032020
+2020,30403,06,017,Median Age Female,2020,149.6,06017304032020
+2020,30403,06,017,Median Age Male,2020,157.2,06017304032020
+2020,30404,06,017,Group Quarters Population,2020,0.0,06017304042020
+2020,30404,06,017,Median Age Female,2020,120.8,06017304042020
+2020,30404,06,017,Median Age Male,2020,120.7,06017304042020
+2020,30502,06,017,Group Quarters Population,2020,0.0,06017305022020
+2020,30502,06,017,Median Age Female,2020,184.1,06017305022020
+2020,30502,06,017,Median Age Male,2020,184.5,06017305022020
+2020,30504,06,017,Group Quarters Population,2020,0.0,06017305042020
+2020,30504,06,017,Median Age Female,2020,145.9,06017305042020
+2020,30504,06,017,Median Age Male,2020,143.5,06017305042020
+2020,30506,06,017,Group Quarters Population,2020,0.0,06017305062020
+2020,30506,06,017,Median Age Female,2020,46.1,06017305062020
+2020,30506,06,017,Median Age Male,2020,45.6,06017305062020
+2020,30507,06,017,Group Quarters Population,2020,25.0,06017305072020
+2020,30507,06,017,Median Age Female,2020,129.9,06017305072020
+2020,30507,06,017,Median Age Male,2020,125.7,06017305072020
+2020,31601,06,017,Group Quarters Population,2020,0.0,06017316012020
+2020,31601,06,017,Median Age Female,2020,109.5,06017316012020
+2020,31601,06,017,Median Age Male,2020,108.69999999999999,06017316012020
+2020,31602,06,017,Group Quarters Population,2020,19.0,06017316022020
+2020,31602,06,017,Median Age Female,2020,73.0,06017316022020
+2020,31602,06,017,Median Age Male,2020,69.80000000000001,06017316022020
+2020,32001,06,017,Group Quarters Population,2020,0.0,06017320012020
+2020,32001,06,017,Median Age Female,2020,48.8,06017320012020
+2020,32001,06,017,Median Age Male,2020,48.2,06017320012020
+2020,32002,06,017,Group Quarters Population,2020,23.0,06017320022020
+2020,32002,06,017,Median Age Female,2020,111.2,06017320022020
+2020,32002,06,017,Median Age Male,2020,121.8,06017320022020
+2020,3305,32,031,Group Quarters Population,2020,15.0,3203133052020
+2020,3305,32,031,Median Age Female,2020,44.0,3203133052020
+2020,3305,32,031,Median Age Male,2020,42.8,3203133052020
+2020,3306,32,031,Group Quarters Population,2020,0.0,3203133062020
+2020,3306,32,031,Median Age Female,2020,89.2,3203133062020
+2020,3306,32,031,Median Age Male,2020,88.8,3203133062020
+2020,3307,32,031,Group Quarters Population,2020,113.0,3203133072020
+2020,3307,32,031,Median Age Female,2020,101.5,3203133072020
+2020,3307,32,031,Median Age Male,2020,93.69999999999999,3203133072020
+2020,3308,32,031,Group Quarters Population,2020,0.0,3203133082020
+2020,3308,32,031,Median Age Female,2020,175.1,3203133082020
+2020,3308,32,031,Median Age Male,2020,179.3,3203133082020
+2020,3310,32,031,Group Quarters Population,2020,0.0,3203133102020
+2020,3310,32,031,Median Age Female,2020,107.1,3203133102020
+2020,3310,32,031,Median Age Male,2020,102.6,3203133102020
+2020,3311,32,031,Group Quarters Population,2020,0.0,3203133112020
+2020,3311,32,031,Median Age Female,2020,109.3,3203133112020
+2020,3311,32,031,Median Age Male,2020,112.4,3203133112020
+2020,980300,32,031,Total Population,2020,0.0,320319803002020
+2020,990000,06,017,Total Population,2020,0.0,060179900002020
+2020,990000,06,061,Total Population,2020,0.0,060619900002020
+2020,990000,32,005,Total Population,2020,0.0,320059900002020
+2020,990000,32,031,Total Population,2020,0.0,320319900002020
+2022,001600,32,005,Total Population,2020,1646.0,320050016002020
+2022,001700,32,005,Total Population,2020,1874.0,320050017002020
+2022,001800,32,005,Total Population,2020,1886.0,320050018002020
+2022,003305,32,031,Total Population,2020,826.0,320310033052020
+2022,003306,32,031,Total Population,2020,1878.0,320310033062020
+2022,003307,32,031,Total Population,2020,1217.0,320310033072020
+2022,003308,32,031,Total Population,2020,2144.0,320310033082020
+2022,003310,32,031,Total Population,2020,1584.0,320310033102020
+2022,003311,32,031,Total Population,2020,1698.0,320310033112020
+2022,020104,06,061,Total Population,2020,1267.0,060610201042020
+2022,020105,06,061,Total Population,2020,1482.0,060610201052020
+2022,020106,06,061,Total Population,2020,1295.0,060610201062020
+2022,020107,06,061,Total Population,2020,2465.0,060610201072020
+2022,022100,06,061,Total Population,2020,904.0,060610221002020
+2022,022200,06,061,Total Population,2020,762.0,060610222002020
+2022,022300,06,061,Total Population,2020,581.0,060610223002020
+2022,030201,06,017,Total Population,2020,2628.0,060170302012020
+2022,030202,06,017,Total Population,2020,1998.0,060170302022020
+2022,030301,06,017,Total Population,2020,2827.0,060170303012020
+2022,030302,06,017,Total Population,2020,2801.0,060170303022020
+2022,030402,06,017,Total Population,2020,3516.0,060170304022020
+2022,030403,06,017,Total Population,2020,1258.0,060170304032020
+2022,030404,06,017,Total Population,2020,2244.0,060170304042020
+2022,030502,06,017,Total Population,2020,2530.0,060170305022020
+2022,030504,06,017,Total Population,2020,2763.0,060170305042020
+2022,030506,06,017,Total Population,2020,1043.0,060170305062020
+2022,030507,06,017,Total Population,2020,1649.0,060170305072020
+2022,031601,06,017,Total Population,2020,1783.0,060170316012020
+2022,031602,06,017,Total Population,2020,2248.0,060170316022020
+2022,032001,06,017,Total Population,2020,810.0,060170320012020
+2022,032002,06,017,Total Population,2020,235.0,060170320022020
+2022,1600,32,005,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 18 to 24: High school graduate,2020,0.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,16.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 18 to 24: Total,2020,16.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,10.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: Associates degree,2020,136.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: Bachelors degree,2020,418.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,501.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: High school graduate,2020,132.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: Some college no degree,2020,291.0,3200516002020
+2022,1600,32,005,Educational Attainment: Population 25 years and over: Total,2020,1488.0,3200516002020
+2022,1600,32,005,Group Quarters Population,2020,0.0,3200516002020
+2022,1600,32,005,Median Age Female,2020,379.20000000000005,3200516002020
+2022,1600,32,005,Median Age Male,2020,388.8,3200516002020
+2022,1600,32,005,Total population:  Hispanic or Latino,2020,195.0,3200516002020
+2022,1600,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,5.0,3200516002020
+2022,1600,32,005,Total population:  Not Hispanic or Latino; Asian alone,2020,66.0,3200516002020
+2022,1600,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,3200516002020
+2022,1600,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,3200516002020
+2022,1600,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2020,17.0,3200516002020
+2022,1600,32,005,Total population:  Not Hispanic or Latino; Two or more races,2020,14.0,3200516002020
+2022,1600,32,005,Total population:  Not Hispanic or Latino; White alone,2020,1349.0,3200516002020
+2022,1700,32,005,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,52.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,46.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 18 to 24: High school graduate,2020,62.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,30.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 18 to 24: Total,2020,190.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,57.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: Associates degree,2020,178.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: Bachelors degree,2020,222.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,226.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: High school graduate,2020,259.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,69.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: Some college no degree,2020,300.0,3200517002020
+2022,1700,32,005,Educational Attainment: Population 25 years and over: Total,2020,1311.0,3200517002020
+2022,1700,32,005,Group Quarters Population,2020,0.0,3200517002020
+2022,1700,32,005,Median Age Female,2020,231.9,3200517002020
+2022,1700,32,005,Median Age Male,2020,259.2,3200517002020
+2022,1700,32,005,Total population:  Hispanic or Latino,2020,682.0,3200517002020
+2022,1700,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,3200517002020
+2022,1700,32,005,Total population:  Not Hispanic or Latino; Asian alone,2020,162.0,3200517002020
+2022,1700,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2020,38.0,3200517002020
+2022,1700,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,29.0,3200517002020
+2022,1700,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2020,14.0,3200517002020
+2022,1700,32,005,Total population:  Not Hispanic or Latino; Two or more races,2020,25.0,3200517002020
+2022,1700,32,005,Total population:  Not Hispanic or Latino; White alone,2020,924.0,3200517002020
+2022,1800,32,005,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 18 to 24: High school graduate,2020,28.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,39.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 18 to 24: Total,2020,67.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,18.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: Associates degree,2020,133.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: Bachelors degree,2020,606.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,334.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: High school graduate,2020,255.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: Some college no degree,2020,350.0,3200518002020
+2022,1800,32,005,Educational Attainment: Population 25 years and over: Total,2020,1696.0,3200518002020
+2022,1800,32,005,Group Quarters Population,2020,0.0,3200518002020
+2022,1800,32,005,Median Age Female,2020,339.0,3200518002020
+2022,1800,32,005,Median Age Male,2020,343.20000000000005,3200518002020
+2022,1800,32,005,Total population:  Hispanic or Latino,2020,150.0,3200518002020
+2022,1800,32,005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,3200518002020
+2022,1800,32,005,Total population:  Not Hispanic or Latino; Asian alone,2020,50.0,3200518002020
+2022,1800,32,005,Total population:  Not Hispanic or Latino; Black or African American alone,2020,65.0,3200518002020
+2022,1800,32,005,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,3200518002020
+2022,1800,32,005,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,3200518002020
+2022,1800,32,005,Total population:  Not Hispanic or Latino; Two or more races,2020,110.0,3200518002020
+2022,1800,32,005,Total population:  Not Hispanic or Latino; White alone,2020,1511.0,3200518002020
+2022,20104,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,23.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,28.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 18 to 24: High school graduate,2020,15.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,41.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 18 to 24: Total,2020,107.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,18.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: Associates degree,2020,56.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2020,429.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,117.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: High school graduate,2020,138.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2020,204.0,06061201042020
+2022,20104,06,061,Educational Attainment: Population 25 years and over: Total,2020,962.0,06061201042020
+2022,20104,06,061,Group Quarters Population,2020,6.0,06061201042020
+2022,20104,06,061,Median Age Female,2020,348.0,06061201042020
+2022,20104,06,061,Median Age Male,2020,448.8,06061201042020
+2022,20104,06,061,Total population:  Hispanic or Latino,2020,111.0,06061201042020
+2022,20104,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06061201042020
+2022,20104,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,121.0,06061201042020
+2022,20104,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,49.0,06061201042020
+2022,20104,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06061201042020
+2022,20104,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06061201042020
+2022,20104,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,06061201042020
+2022,20104,06,061,Total population:  Not Hispanic or Latino; White alone,2020,986.0,06061201042020
+2022,20105,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,14.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 18 to 24: High school graduate,2020,11.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,25.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 18 to 24: Total,2020,50.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,10.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: Associates degree,2020,114.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2020,488.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,253.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: High school graduate,2020,114.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2020,204.0,06061201052020
+2022,20105,06,061,Educational Attainment: Population 25 years and over: Total,2020,1183.0,06061201052020
+2022,20105,06,061,Group Quarters Population,2020,0.0,06061201052020
+2022,20105,06,061,Median Age Female,2020,220.5,06061201052020
+2022,20105,06,061,Median Age Male,2020,315.6,06061201052020
+2022,20105,06,061,Total population:  Hispanic or Latino,2020,112.0,06061201052020
+2022,20105,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06061201052020
+2022,20105,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,66.0,06061201052020
+2022,20105,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,11.0,06061201052020
+2022,20105,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06061201052020
+2022,20105,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06061201052020
+2022,20105,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,84.0,06061201052020
+2022,20105,06,061,Total population:  Not Hispanic or Latino; White alone,2020,1209.0,06061201052020
+2022,20106,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 18 to 24: High school graduate,2020,0.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,95.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 18 to 24: Total,2020,95.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,33.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: Associates degree,2020,45.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2020,257.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,230.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: High school graduate,2020,190.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,92.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2020,174.0,06061201062020
+2022,20106,06,061,Educational Attainment: Population 25 years and over: Total,2020,1021.0,06061201062020
+2022,20106,06,061,Group Quarters Population,2020,0.0,06061201062020
+2022,20106,06,061,Median Age Female,2020,291.9,06061201062020
+2022,20106,06,061,Median Age Male,2020,350.1,06061201062020
+2022,20106,06,061,Total population:  Hispanic or Latino,2020,257.0,06061201062020
+2022,20106,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06061201062020
+2022,20106,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,4.0,06061201062020
+2022,20106,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06061201062020
+2022,20106,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06061201062020
+2022,20106,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06061201062020
+2022,20106,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,43.0,06061201062020
+2022,20106,06,061,Total population:  Not Hispanic or Latino; White alone,2020,991.0,06061201062020
+2022,20107,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,20.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 18 to 24: High school graduate,2020,0.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,99.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 18 to 24: Total,2020,119.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,313.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: Associates degree,2020,71.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2020,297.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,170.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: High school graduate,2020,449.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,178.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2020,303.0,06061201072020
+2022,20107,06,061,Educational Attainment: Population 25 years and over: Total,2020,1781.0,06061201072020
+2022,20107,06,061,Group Quarters Population,2020,0.0,06061201072020
+2022,20107,06,061,Median Age Female,2020,403.2,06061201072020
+2022,20107,06,061,Median Age Male,2020,349.8,06061201072020
+2022,20107,06,061,Total population:  Hispanic or Latino,2020,1349.0,06061201072020
+2022,20107,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06061201072020
+2022,20107,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,19.0,06061201072020
+2022,20107,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06061201072020
+2022,20107,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06061201072020
+2022,20107,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06061201072020
+2022,20107,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,06061201072020
+2022,20107,06,061,Total population:  Not Hispanic or Latino; White alone,2020,1097.0,06061201072020
+2022,22100,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 18 to 24: High school graduate,2020,13.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,0.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 18 to 24: Total,2020,13.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,0.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: Associates degree,2020,12.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2020,339.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,128.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: High school graduate,2020,76.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2020,81.0,06061221002020
+2022,22100,06,061,Educational Attainment: Population 25 years and over: Total,2020,636.0,06061221002020
+2022,22100,06,061,Group Quarters Population,2020,0.0,06061221002020
+2022,22100,06,061,Median Age Female,2020,213.3,06061221002020
+2022,22100,06,061,Median Age Male,2020,270.6,06061221002020
+2022,22100,06,061,Total population:  Hispanic or Latino,2020,0.0,06061221002020
+2022,22100,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,15.0,06061221002020
+2022,22100,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,36.0,06061221002020
+2022,22100,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06061221002020
+2022,22100,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06061221002020
+2022,22100,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06061221002020
+2022,22100,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,23.0,06061221002020
+2022,22100,06,061,Total population:  Not Hispanic or Latino; White alone,2020,830.0,06061221002020
+2022,22200,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,5.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 18 to 24: High school graduate,2020,2.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,0.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 18 to 24: Total,2020,7.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,0.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: Associates degree,2020,48.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2020,391.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,62.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: High school graduate,2020,53.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2020,116.0,06061222002020
+2022,22200,06,061,Educational Attainment: Population 25 years and over: Total,2020,670.0,06061222002020
+2022,22200,06,061,Group Quarters Population,2020,57.0,06061222002020
+2022,22200,06,061,Median Age Female,2020,251.10000000000002,06061222002020
+2022,22200,06,061,Median Age Male,2020,261.3,06061222002020
+2022,22200,06,061,Total population:  Hispanic or Latino,2020,53.0,06061222002020
+2022,22200,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06061222002020
+2022,22200,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,9.0,06061222002020
+2022,22200,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,4.0,06061222002020
+2022,22200,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06061222002020
+2022,22200,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06061222002020
+2022,22200,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,06061222002020
+2022,22200,06,061,Total population:  Not Hispanic or Latino; White alone,2020,696.0,06061222002020
+2022,22300,06,061,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,8.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,8.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 18 to 24: High school graduate,2020,0.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,15.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 18 to 24: Total,2020,31.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,6.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: Associates degree,2020,19.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: Bachelors degree,2020,210.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,106.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: High school graduate,2020,61.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: Some college no degree,2020,81.0,06061223002020
+2022,22300,06,061,Educational Attainment: Population 25 years and over: Total,2020,483.0,06061223002020
+2022,22300,06,061,Group Quarters Population,2020,12.0,06061223002020
+2022,22300,06,061,Median Age Female,2020,339.90000000000003,06061223002020
+2022,22300,06,061,Median Age Male,2020,326.7,06061223002020
+2022,22300,06,061,Total population:  Hispanic or Latino,2020,4.0,06061223002020
+2022,22300,06,061,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06061223002020
+2022,22300,06,061,Total population:  Not Hispanic or Latino; Asian alone,2020,21.0,06061223002020
+2022,22300,06,061,Total population:  Not Hispanic or Latino; Black or African American alone,2020,6.0,06061223002020
+2022,22300,06,061,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06061223002020
+2022,22300,06,061,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06061223002020
+2022,22300,06,061,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,06061223002020
+2022,22300,06,061,Total population:  Not Hispanic or Latino; White alone,2020,550.0,06061223002020
+2022,30201,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,92.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,70.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,86.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 18 to 24: Total,2020,248.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,247.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,202.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,218.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,121.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,407.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,115.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,551.0,06017302012020
+2022,30201,06,017,Educational Attainment: Population 25 years and over: Total,2020,1861.0,06017302012020
+2022,30201,06,017,Group Quarters Population,2020,369.0,06017302012020
+2022,30201,06,017,Median Age Female,2020,367.5,06017302012020
+2022,30201,06,017,Median Age Male,2020,322.2,06017302012020
+2022,30201,06,017,Total population:  Hispanic or Latino,2020,905.0,06017302012020
+2022,30201,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017302012020
+2022,30201,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,74.0,06017302012020
+2022,30201,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,17.0,06017302012020
+2022,30201,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,13.0,06017302012020
+2022,30201,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017302012020
+2022,30201,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,53.0,06017302012020
+2022,30201,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1566.0,06017302012020
+2022,30202,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,30.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,22.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,72.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,75.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 18 to 24: Total,2020,199.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,150.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,142.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,208.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,103.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,330.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,193.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,303.0,06017302022020
+2022,30202,06,017,Educational Attainment: Population 25 years and over: Total,2020,1429.0,06017302022020
+2022,30202,06,017,Group Quarters Population,2020,0.0,06017302022020
+2022,30202,06,017,Median Age Female,2020,405.0,06017302022020
+2022,30202,06,017,Median Age Male,2020,326.7,06017302022020
+2022,30202,06,017,Total population:  Hispanic or Latino,2020,1083.0,06017302022020
+2022,30202,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017302022020
+2022,30202,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,122.0,06017302022020
+2022,30202,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06017302022020
+2022,30202,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017302022020
+2022,30202,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017302022020
+2022,30202,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,8.0,06017302022020
+2022,30202,06,017,Total population:  Not Hispanic or Latino; White alone,2020,785.0,06017302022020
+2022,30301,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,222.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,125.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 18 to 24: Total,2020,347.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,169.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,112.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,541.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,132.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,496.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,175.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,430.0,06017303012020
+2022,30301,06,017,Educational Attainment: Population 25 years and over: Total,2020,2055.0,06017303012020
+2022,30301,06,017,Group Quarters Population,2020,0.0,06017303012020
+2022,30301,06,017,Median Age Female,2020,381.3,06017303012020
+2022,30301,06,017,Median Age Male,2020,367.20000000000005,06017303012020
+2022,30301,06,017,Total population:  Hispanic or Latino,2020,1124.0,06017303012020
+2022,30301,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017303012020
+2022,30301,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,102.0,06017303012020
+2022,30301,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,8.0,06017303012020
+2022,30301,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017303012020
+2022,30301,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017303012020
+2022,30301,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,81.0,06017303012020
+2022,30301,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1512.0,06017303012020
+2022,30302,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,191.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,28.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 18 to 24: Total,2020,219.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,100.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,259.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,533.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,247.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,425.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,18.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,696.0,06017303022020
+2022,30302,06,017,Educational Attainment: Population 25 years and over: Total,2020,2278.0,06017303022020
+2022,30302,06,017,Group Quarters Population,2020,39.0,06017303022020
+2022,30302,06,017,Median Age Female,2020,469.5,06017303022020
+2022,30302,06,017,Median Age Male,2020,464.1,06017303022020
+2022,30302,06,017,Total population:  Hispanic or Latino,2020,421.0,06017303022020
+2022,30302,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,133.0,06017303022020
+2022,30302,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,77.0,06017303022020
+2022,30302,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,37.0,06017303022020
+2022,30302,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017303022020
+2022,30302,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017303022020
+2022,30302,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,310.0,06017303022020
+2022,30302,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1823.0,06017303022020
+2022,30402,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,33.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,48.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,78.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,245.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 18 to 24: Total,2020,404.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,199.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,267.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,743.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,85.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,456.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,71.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,755.0,06017304022020
+2022,30402,06,017,Educational Attainment: Population 25 years and over: Total,2020,2576.0,06017304022020
+2022,30402,06,017,Group Quarters Population,2020,294.0,06017304022020
+2022,30402,06,017,Median Age Female,2020,556.8,06017304022020
+2022,30402,06,017,Median Age Male,2020,550.8,06017304022020
+2022,30402,06,017,Total population:  Hispanic or Latino,2020,681.0,06017304022020
+2022,30402,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,16.0,06017304022020
+2022,30402,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,118.0,06017304022020
+2022,30402,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,35.0,06017304022020
+2022,30402,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,17.0,06017304022020
+2022,30402,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017304022020
+2022,30402,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,80.0,06017304022020
+2022,30402,06,017,Total population:  Not Hispanic or Latino; White alone,2020,2569.0,06017304022020
+2022,30403,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,0.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,16.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 18 to 24: Total,2020,16.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,0.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,98.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,270.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,216.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,171.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,236.0,06017304032020
+2022,30403,06,017,Educational Attainment: Population 25 years and over: Total,2020,991.0,06017304032020
+2022,30403,06,017,Group Quarters Population,2020,0.0,06017304032020
+2022,30403,06,017,Median Age Female,2020,494.1,06017304032020
+2022,30403,06,017,Median Age Male,2020,528.6,06017304032020
+2022,30403,06,017,Total population:  Hispanic or Latino,2020,16.0,06017304032020
+2022,30403,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,6.0,06017304032020
+2022,30403,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,68.0,06017304032020
+2022,30403,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06017304032020
+2022,30403,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017304032020
+2022,30403,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017304032020
+2022,30403,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,20.0,06017304032020
+2022,30403,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1148.0,06017304032020
+2022,30404,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,48.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,32.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,36.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,83.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 18 to 24: Total,2020,199.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,53.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,124.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,377.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,136.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,534.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,58.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,382.0,06017304042020
+2022,30404,06,017,Educational Attainment: Population 25 years and over: Total,2020,1664.0,06017304042020
+2022,30404,06,017,Group Quarters Population,2020,111.0,06017304042020
+2022,30404,06,017,Median Age Female,2020,329.7,06017304042020
+2022,30404,06,017,Median Age Male,2020,374.1,06017304042020
+2022,30404,06,017,Total population:  Hispanic or Latino,2020,269.0,06017304042020
+2022,30404,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,45.0,06017304042020
+2022,30404,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,123.0,06017304042020
+2022,30404,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,2.0,06017304042020
+2022,30404,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017304042020
+2022,30404,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017304042020
+2022,30404,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,217.0,06017304042020
+2022,30404,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1588.0,06017304042020
+2022,30502,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,1.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,10.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,0.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,22.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 18 to 24: Total,2020,33.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,0.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,240.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,565.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,357.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,434.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,11.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,471.0,06017305022020
+2022,30502,06,017,Educational Attainment: Population 25 years and over: Total,2020,2078.0,06017305022020
+2022,30502,06,017,Group Quarters Population,2020,9.0,06017305022020
+2022,30502,06,017,Median Age Female,2020,588.0,06017305022020
+2022,30502,06,017,Median Age Male,2020,564.6,06017305022020
+2022,30502,06,017,Total population:  Hispanic or Latino,2020,323.0,06017305022020
+2022,30502,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,27.0,06017305022020
+2022,30502,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,62.0,06017305022020
+2022,30502,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,1.0,06017305022020
+2022,30502,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017305022020
+2022,30502,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017305022020
+2022,30502,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,172.0,06017305022020
+2022,30502,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1945.0,06017305022020
+2022,30504,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,6.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,7.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,29.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,66.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 18 to 24: Total,2020,108.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,5.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,138.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,943.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,341.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,393.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,23.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,331.0,06017305042020
+2022,30504,06,017,Educational Attainment: Population 25 years and over: Total,2020,2174.0,06017305042020
+2022,30504,06,017,Group Quarters Population,2020,9.0,06017305042020
+2022,30504,06,017,Median Age Female,2020,447.90000000000003,06017305042020
+2022,30504,06,017,Median Age Male,2020,464.1,06017305042020
+2022,30504,06,017,Total population:  Hispanic or Latino,2020,343.0,06017305042020
+2022,30504,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017305042020
+2022,30504,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,92.0,06017305042020
+2022,30504,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,1.0,06017305042020
+2022,30504,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017305042020
+2022,30504,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,7.0,06017305042020
+2022,30504,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,112.0,06017305042020
+2022,30504,06,017,Total population:  Not Hispanic or Latino; White alone,2020,2208.0,06017305042020
+2022,30506,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,7.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,29.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,46.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,29.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 18 to 24: Total,2020,111.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,15.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,84.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,260.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,139.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,75.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,138.0,06017305062020
+2022,30506,06,017,Educational Attainment: Population 25 years and over: Total,2020,711.0,06017305062020
+2022,30506,06,017,Group Quarters Population,2020,0.0,06017305062020
+2022,30506,06,017,Median Age Female,2020,119.10000000000001,06017305062020
+2022,30506,06,017,Median Age Male,2020,123.30000000000001,06017305062020
+2022,30506,06,017,Total population:  Hispanic or Latino,2020,21.0,06017305062020
+2022,30506,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017305062020
+2022,30506,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,0.0,06017305062020
+2022,30506,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06017305062020
+2022,30506,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017305062020
+2022,30506,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,45.0,06017305062020
+2022,30506,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,71.0,06017305062020
+2022,30506,06,017,Total population:  Not Hispanic or Latino; White alone,2020,906.0,06017305062020
+2022,30507,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,33.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,43.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,89.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,69.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 18 to 24: Total,2020,234.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,61.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,28.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,321.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,209.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,173.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,13.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,358.0,06017305072020
+2022,30507,06,017,Educational Attainment: Population 25 years and over: Total,2020,1163.0,06017305072020
+2022,30507,06,017,Group Quarters Population,2020,378.0,06017305072020
+2022,30507,06,017,Median Age Female,2020,354.6,06017305072020
+2022,30507,06,017,Median Age Male,2020,295.8,06017305072020
+2022,30507,06,017,Total population:  Hispanic or Latino,2020,236.0,06017305072020
+2022,30507,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017305072020
+2022,30507,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,71.0,06017305072020
+2022,30507,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,11.0,06017305072020
+2022,30507,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017305072020
+2022,30507,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,13.0,06017305072020
+2022,30507,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,62.0,06017305072020
+2022,30507,06,017,Total population:  Not Hispanic or Latino; White alone,2020,1256.0,06017305072020
+2022,31601,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,29.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,67.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,8.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 18 to 24: Total,2020,104.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,127.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,115.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,323.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,81.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,353.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,128.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,307.0,06017316012020
+2022,31601,06,017,Educational Attainment: Population 25 years and over: Total,2020,1434.0,06017316012020
+2022,31601,06,017,Group Quarters Population,2020,0.0,06017316012020
+2022,31601,06,017,Median Age Female,2020,303.0,06017316012020
+2022,31601,06,017,Median Age Male,2020,342.90000000000003,06017316012020
+2022,31601,06,017,Total population:  Hispanic or Latino,2020,886.0,06017316012020
+2022,31601,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017316012020
+2022,31601,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,77.0,06017316012020
+2022,31601,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06017316012020
+2022,31601,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,12.0,06017316012020
+2022,31601,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017316012020
+2022,31601,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,06017316012020
+2022,31601,06,017,Total population:  Not Hispanic or Latino; White alone,2020,808.0,06017316012020
+2022,31602,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,113.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,24.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,115.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,16.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 18 to 24: Total,2020,268.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,90.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,177.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,329.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,146.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,347.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,47.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,477.0,06017316022020
+2022,31602,06,017,Educational Attainment: Population 25 years and over: Total,2020,1613.0,06017316022020
+2022,31602,06,017,Group Quarters Population,2020,69.0,06017316022020
+2022,31602,06,017,Median Age Female,2020,214.5,06017316022020
+2022,31602,06,017,Median Age Male,2020,260.09999999999997,06017316022020
+2022,31602,06,017,Total population:  Hispanic or Latino,2020,704.0,06017316022020
+2022,31602,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017316022020
+2022,31602,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,591.0,06017316022020
+2022,31602,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,7.0,06017316022020
+2022,31602,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017316022020
+2022,31602,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017316022020
+2022,31602,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,131.0,06017316022020
+2022,31602,06,017,Total population:  Not Hispanic or Latino; White alone,2020,815.0,06017316022020
+2022,32001,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,16.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,31.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,13.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 18 to 24: Total,2020,60.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,7.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,74.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,210.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,28.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,120.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,192.0,06017320012020
+2022,32001,06,017,Educational Attainment: Population 25 years and over: Total,2020,631.0,06017320012020
+2022,32001,06,017,Group Quarters Population,2020,0.0,06017320012020
+2022,32001,06,017,Median Age Female,2020,115.5,06017320012020
+2022,32001,06,017,Median Age Male,2020,104.10000000000001,06017320012020
+2022,32001,06,017,Total population:  Hispanic or Latino,2020,31.0,06017320012020
+2022,32001,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017320012020
+2022,32001,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,0.0,06017320012020
+2022,32001,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,06017320012020
+2022,32001,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017320012020
+2022,32001,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017320012020
+2022,32001,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,06017320012020
+2022,32001,06,017,Total population:  Not Hispanic or Latino; White alone,2020,779.0,06017320012020
+2022,32002,06,017,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,7.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 18 to 24: High school graduate,2020,6.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,10.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 18 to 24: Total,2020,23.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,10.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: Associates degree,2020,71.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: Bachelors degree,2020,88.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,7.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: High school graduate,2020,11.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: Some college no degree,2020,17.0,06017320022020
+2022,32002,06,017,Educational Attainment: Population 25 years and over: Total,2020,204.0,06017320022020
+2022,32002,06,017,Group Quarters Population,2020,165.0,06017320022020
+2022,32002,06,017,Median Age Female,2020,326.7,06017320022020
+2022,32002,06,017,Median Age Male,2020,412.2,06017320022020
+2022,32002,06,017,Total population:  Hispanic or Latino,2020,47.0,06017320022020
+2022,32002,06,017,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,06017320022020
+2022,32002,06,017,Total population:  Not Hispanic or Latino; Asian alone,2020,12.0,06017320022020
+2022,32002,06,017,Total population:  Not Hispanic or Latino; Black or African American alone,2020,16.0,06017320022020
+2022,32002,06,017,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,06017320022020
+2022,32002,06,017,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,06017320022020
+2022,32002,06,017,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,06017320022020
+2022,32002,06,017,Total population:  Not Hispanic or Latino; White alone,2020,160.0,06017320022020
+2022,3305,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,8.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 18 to 24: High school graduate,2020,10.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,73.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 18 to 24: Total,2020,91.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,50.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: Associates degree,2020,89.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2020,194.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,141.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: High school graduate,2020,52.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,21.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2020,94.0,3203133052020
+2022,3305,32,031,Educational Attainment: Population 25 years and over: Total,2020,641.0,3203133052020
+2022,3305,32,031,Group Quarters Population,2020,27.0,3203133052020
+2022,3305,32,031,Median Age Female,2020,146.39999999999998,3203133052020
+2022,3305,32,031,Median Age Male,2020,144.60000000000002,3203133052020
+2022,3305,32,031,Total population:  Hispanic or Latino,2020,108.0,3203133052020
+2022,3305,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,3203133052020
+2022,3305,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,12.0,3203133052020
+2022,3305,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,7.0,3203133052020
+2022,3305,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,3203133052020
+2022,3305,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,3203133052020
+2022,3305,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,0.0,3203133052020
+2022,3305,32,031,Total population:  Not Hispanic or Latino; White alone,2020,699.0,3203133052020
+2022,3306,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,12.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 18 to 24: High school graduate,2020,40.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,49.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 18 to 24: Total,2020,101.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,155.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: Associates degree,2020,27.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2020,501.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,278.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: High school graduate,2020,140.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,81.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2020,221.0,3203133062020
+2022,3306,32,031,Educational Attainment: Population 25 years and over: Total,2020,1403.0,3203133062020
+2022,3306,32,031,Group Quarters Population,2020,0.0,3203133062020
+2022,3306,32,031,Median Age Female,2020,247.5,3203133062020
+2022,3306,32,031,Median Age Male,2020,255.29999999999998,3203133062020
+2022,3306,32,031,Total population:  Hispanic or Latino,2020,910.0,3203133062020
+2022,3306,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,3203133062020
+2022,3306,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,0.0,3203133062020
+2022,3306,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,4.0,3203133062020
+2022,3306,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,3203133062020
+2022,3306,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,3203133062020
+2022,3306,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,139.0,3203133062020
+2022,3306,32,031,Total population:  Not Hispanic or Latino; White alone,2020,825.0,3203133062020
+2022,3307,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,19.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 18 to 24: High school graduate,2020,37.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,225.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 18 to 24: Total,2020,281.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,41.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: Associates degree,2020,51.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2020,259.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,157.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: High school graduate,2020,78.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,9.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2020,144.0,3203133072020
+2022,3307,32,031,Educational Attainment: Population 25 years and over: Total,2020,739.0,3203133072020
+2022,3307,32,031,Group Quarters Population,2020,588.0,3203133072020
+2022,3307,32,031,Median Age Female,2020,224.39999999999998,3203133072020
+2022,3307,32,031,Median Age Male,2020,182.39999999999998,3203133072020
+2022,3307,32,031,Total population:  Hispanic or Latino,2020,164.0,3203133072020
+2022,3307,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,12.0,3203133072020
+2022,3307,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,7.0,3203133072020
+2022,3307,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,9.0,3203133072020
+2022,3307,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,3203133072020
+2022,3307,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,3203133072020
+2022,3307,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,152.0,3203133072020
+2022,3307,32,031,Total population:  Not Hispanic or Latino; White alone,2020,873.0,3203133072020
+2022,3308,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 18 to 24: High school graduate,2020,5.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,5.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 18 to 24: Total,2020,10.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,0.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: Associates degree,2020,46.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2020,563.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,775.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: High school graduate,2020,171.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2020,249.0,3203133082020
+2022,3308,32,031,Educational Attainment: Population 25 years and over: Total,2020,1804.0,3203133082020
+2022,3308,32,031,Group Quarters Population,2020,0.0,3203133082020
+2022,3308,32,031,Median Age Female,2020,552.9,3203133082020
+2022,3308,32,031,Median Age Male,2020,561.9,3203133082020
+2022,3308,32,031,Total population:  Hispanic or Latino,2020,137.0,3203133082020
+2022,3308,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,12.0,3203133082020
+2022,3308,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,42.0,3203133082020
+2022,3308,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,0.0,3203133082020
+2022,3308,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,3203133082020
+2022,3308,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,3203133082020
+2022,3308,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,121.0,3203133082020
+2022,3308,32,031,Total population:  Not Hispanic or Latino; White alone,2020,1832.0,3203133082020
+2022,3310,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 18 to 24: High school graduate,2020,34.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,34.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 18 to 24: Total,2020,68.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,0.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: Associates degree,2020,131.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2020,509.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,226.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: High school graduate,2020,257.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,0.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2020,142.0,3203133102020
+2022,3310,32,031,Educational Attainment: Population 25 years and over: Total,2020,1265.0,3203133102020
+2022,3310,32,031,Group Quarters Population,2020,0.0,3203133102020
+2022,3310,32,031,Median Age Female,2020,244.8,3203133102020
+2022,3310,32,031,Median Age Male,2020,254.39999999999998,3203133102020
+2022,3310,32,031,Total population:  Hispanic or Latino,2020,237.0,3203133102020
+2022,3310,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,3203133102020
+2022,3310,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,0.0,3203133102020
+2022,3310,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,27.0,3203133102020
+2022,3310,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,11.0,3203133102020
+2022,3310,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,3203133102020
+2022,3310,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,134.0,3203133102020
+2022,3310,32,031,Total population:  Not Hispanic or Latino; White alone,2020,1175.0,3203133102020
+2022,3311,32,031,Educational Attainment: Population 18 to 24 Less than high school graduate,2020,0.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,2020,0.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 18 to 24: High school graduate,2020,0.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 18 to 24: Some college or associates degree,2020,52.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 18 to 24: Total,2020,52.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,2020,93.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: Associates degree,2020,73.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: Bachelors degree,2020,455.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: Graduate or professional degree,2020,475.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: High school graduate,2020,49.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: Less than 9th grade,2020,48.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: Some college no degree,2020,212.0,3203133112020
+2022,3311,32,031,Educational Attainment: Population 25 years and over: Total,2020,1405.0,3203133112020
+2022,3311,32,031,Group Quarters Population,2020,0.0,3203133112020
+2022,3311,32,031,Median Age Female,2020,321.0,3203133112020
+2022,3311,32,031,Median Age Male,2020,341.09999999999997,3203133112020
+2022,3311,32,031,Total population:  Hispanic or Latino,2020,305.0,3203133112020
+2022,3311,32,031,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,2020,0.0,3203133112020
+2022,3311,32,031,Total population:  Not Hispanic or Latino; Asian alone,2020,57.0,3203133112020
+2022,3311,32,031,Total population:  Not Hispanic or Latino; Black or African American alone,2020,16.0,3203133112020
+2022,3311,32,031,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,2020,0.0,3203133112020
+2022,3311,32,031,Total population:  Not Hispanic or Latino; Some other race alone,2020,0.0,3203133112020
+2022,3311,32,031,Total population:  Not Hispanic or Latino; Two or more races,2020,27.0,3203133112020
+2022,3311,32,031,Total population:  Not Hispanic or Latino; White alone,2020,1293.0,3203133112020
