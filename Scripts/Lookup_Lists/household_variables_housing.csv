@@ -1,170 +1,204 @@
-Category,Description,Census Variable,Variable Name,geography,dataset,year,census_geom_year,,,,,,,,,,
-Household,Households by Presence of Children,HCT010001,Total Households by Presence of Children,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010002,Total Owner Occupied Housholds by Presence of Children,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010003,Owner Occupied Households With Own Children under 18,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010004,Owner Occupied Households With Own Children under 6 years only,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010005,Owner Occupied Households With Own Children under 6 years and 6 to 17 years,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010006,Owner Occupied Households With Own Children 6 to 17 years,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010007,Owner Occupied Households No Own Children under 18,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010009,Renter Occupied Households With Own Children under 18,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010008,Total Renter Occupied Housholds by Presence of Children,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010010,Renter Occupied Households With Own Children under 6 years only,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010011,Renter Occupied Households With Own Children under 6 years and 6 to 17 years,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010012,Renter Occupied Households With Own Children 6 to 17 years,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,HCT010013,Renter Occupied Households No Own Children under 18,tract,dec/sf2,2010,2010,,,,,,,,,,
-Household,Households by Presence of Children,B25012_012E,Renter Occupied Households With Own Children under 18,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_013E,Renter Occupied Households With Own Children under 6 years only,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_014E,Renter Occupied Households With Own Children under 6 years and 6 to 17 years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_015E,Renter Occupied Households With Own Children 6 to 17 years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_006E,Owner Occupied Households With Own Children under 6 years and 6 to 17 years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_007E,Owner Occupied Households With Own Children 6 to 17 years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_008E,Owner Occupied Households No Own Children under 18,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_009E,Owner Occupied Households No Related Children under 18,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_010E,Total Renter Occupied Housholds by Presence of Children,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Households by Presence of Children,B25012_011E,Renter Occupied Households With Related Children under 18,tract,acs/acs5,2022,2020,,,,,variable_code,variable_name,variable_category,year_sample,sample_level,dataset
-Household,Households by Presence of Children,B25012_016E,Renter Occupied Households No Own Children under 18,tract,acs/acs5,2022,2020,,,,,H003002,Total Housing Units: Occupied,Housing Units,2010,tract,dec/sf1
-Household,Households by Presence of Children,B25012_017E,Renter Occupied Households No Related Children under 18,tract,acs/acs5,2022,2020,,,,,H014002,Occupied Housing Units: Owner Occupied,Housing Units,2010,tract,dec/sf1
-Household,Households by Presence of Children,B25012_001E,Total Households by Presence of Children,tract,acs/acs5,2022,2020,,,,,H003003,Total Housing Units: Vacant,Housing Units,2010,tract,dec/sf1
-Household,Households by Presence of Children,B25012_002E,Total Owner Occupied Housholds by Presence of Children,tract,acs/acs5,2022,2020,,,,,H004004,Occupied Housing Units: Renter Occupied,Housing Units,2010,tract,dec/sf1
-Household,Households by Presence of Children,B25012_003E,Owner Occupied Households With Related Children under 18,tract,acs/acs5,2022,2020,,,,,H005006,"Vacant Housing Units: Seasonal, recreational, or occasional use",Housing Units,2010,tract,dec/sf1
-Household,Households by Presence of Children,B25012_004E,Owner Occupied Households With Own Children under 18,tract,acs/acs5,2022,2020,,,,,H001001,Total Housing Units,Housing Units,2010,tract,dec/sf1
-Household,Households by Presence of Children,B25012_005E,Owner Occupied Households With Own Children under 6 years only,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_009E,Owner Occupied 7 person or more household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_010E,Total Renter Occupied Housholds,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_015E,Renter Occupied 5 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_016E,Renter Occupied 6 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_002N,Total Owner Occupied Housholds,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_003N,Owner Occupied 1 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_004N,Owner Occupied 2 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_005N,Owner Occupied 3 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_006N,Owner Occupied 4 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_007N,Owner Occupied 5 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_008N,Owner Occupied 6 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_009N,Owner Occupied 7 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_010N,Total Renter Occupied Housholds,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_011N,Renter Occupied 1 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_012N,Renter Occupied 2 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_013N,Renter Occupied 3 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_014N,Renter Occupied 4 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_015N,Renter Occupied 5 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_016N,Renter Occupied 6 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_017N,Renter Occupied 7 person household,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Tenure by Household Size,H016001,Total Households by Household Size,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016002,Total Owner Occupied Housholds,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016003,Owner Occupied 1 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016004,Owner Occupied 2 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016005,Owner Occupied 3 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016006,Owner Occupied 4 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016007,Owner Occupied 5 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016008,Owner Occupied 6 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016009,Owner Occupied 7 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016010,Total Renter Occupied Housholds,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016011,Renter Occupied 1 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016012,Renter Occupied 2 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016013,Renter Occupied 3 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016014,Renter Occupied 4 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016015,Renter Occupied 5 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016016,Renter Occupied 6 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,H016017,Renter Occupied 7 person household,block group,dec/sf1,2010,2010,,,,,,,,,,
-Household,Tenure by Household Size,B25009_004E,Owner Occupied 2 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_005E,Owner Occupied 3 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_006E,Owner Occupied 4 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_007E,Owner Occupied 5 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_008E,Owner Occupied 6 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_011E,Renter Occupied 1 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_012E,Renter Occupied 2 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_013E,Renter Occupied 3 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_014E,Renter Occupied 4 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_017E,Renter Occupied 7 person or more household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_001E,Total Households by Household Size,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_002E,Total Owner Occupied Housholds,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,B25009_003E,Owner Occupied 1 person household,block group,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Household Size,H12_001N,Total Households by Household Size,block group,dec/dhc,2020,2020,,,,,,,,,,
-Household,Housing Units,H003002,Total Housing Units: Occupied,tract,dec/sf1,2010,2010,,,,,,,,,,
-Household,Housing Units,H014002,Occupied Housing Units: Owner Occupied,tract,dec/sf1,2010,2010,,,,,,,,,,
-Household,Housing Units,H003003,Total Housing Units: Vacant,tract,dec/sf1,2010,2010,,,,,,,,,,
-Household,Housing Units,H004004,Occupied Housing Units: Renter Occupied,tract,dec/sf1,2010,2010,,,,,,,,,,
-Household,Housing Units,H005006,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,dec/sf1,2010,2010,,,,,,,,,,
-Household,Housing Units,H001001,Total Housing Units,tract,dec/sf1,2010,2010,,,,,,,,,,
-Household,Housing Units,DP1_0149C,Total Housing Units: Vacant,tract,dec/dp,2020,2020,,,,,,,,,,
-Household,Housing Units,DP1_0148C,Total Housing Units: Occupied,tract,dec/dp,2020,2020,,,,,,,,,,
-Household,Housing Units,DP1_0147C,Total Housing Units,tract,dec/dp,2020,2020,,,,,,,,,,
-Household,Housing Units,DP1_0154C,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,dec/dp,2020,2020,,,,,,,,,,
-Household,Housing Units,DP1_0159C,Occupied Housing Units: Owner Occupied,tract,dec/dp,2020,2020,,,,,,,,,,
-Household,Housing Units,DP1_0160C,Occupied Housing Units: Renter Occupied,tract,dec/dp,2020,2020,,,,,,,,,,
-Household,Housing Units,B25004_006E,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Housing Units,B25002_003E,Total Housing Units: Vacant,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Housing Units,B25002_002E,Total Housing Units: Occupied,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Housing Units,B25001_001E,Total Housing Units,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Housing Units,B25003_003E,Occupied Housing Units: Renter Occupied,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Housing Units,B25003_002E,Occupied Housing Units: Owner Occupied,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_004E,Owner Occupied: Householder 25 To 34 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_005E,Owner Occupied: Householder 35 To 44 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_006E,Owner Occupied: Householder 45 To 54 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_007E,Owner Occupied: Householder 55 To 59 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_008E,Owner Occupied: Householder 60 To 64 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_009E,Owner Occupied: Householder 65 To 74 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_010E,Owner Occupied: Householder 75 To 84 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_011E,Owner Occupied: Householder 85 Years And Over,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_002E,Owner Occupied: Total,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_003E,Owner Occupied: Householder 15 To 24 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_012E,Renter Occupied: Total,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_021E,Renter Occupied: Householder 85 Years And Over,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_020E,Renter Occupied: Householder 75 To 84 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_018E,Renter Occupied: Householder 60 To 64 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_019E,Renter Occupied: Householder 65 To 74 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_017E,Renter Occupied: Householder 55 To 59 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_016E,Renter Occupied: Householder 45 To 54 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_015E,Renter Occupied: Householder 35 To 44 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_014E,Renter Occupied: Householder 25 To 34 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_013E,Renter Occupied: Householder 15 To 24 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_011E,Owner Occupied: Householder 85 Years And Over,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_010E,Owner Occupied: Householder 75 To 84 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_009E,Owner Occupied: Householder 65 To 74 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_008E,Owner Occupied: Householder 60 To 64 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_007E,Owner Occupied: Householder 55 To 59 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_006E,Owner Occupied: Householder 45 To 54 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_005E,Owner Occupied: Householder 35 To 44 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_004E,Owner Occupied: Householder 25 To 34 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_003E,Owner Occupied: Householder 15 To 24 Years,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_002E,Owner Occupied: Total,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_012E,Renter Occupied: Total,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_013E,Renter Occupied: Householder 15 To 24 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_014E,Renter Occupied: Householder 25 To 34 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_015E,Renter Occupied: Householder 35 To 44 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_016E,Renter Occupied: Householder 45 To 54 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_017E,Renter Occupied: Householder 55 To 59 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_018E,Renter Occupied: Householder 60 To 64 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_019E,Renter Occupied: Householder 65 To 74 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_020E,Renter Occupied: Householder 75 To 84 Years,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Age of Householder,B25007_021E,Renter Occupied: Householder 85 Years And Over,tract,acs/acs5,2021,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_009E,Total Renter Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_010E,Total Renter Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_015E,Total Renter Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_014E,Total Renter Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_013E,Total Renter Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_012E,Total Renter Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_011E,Total Renter Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_007E,Total Owner Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_006E,Total Owner Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_005E,Total Owner Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_004E,Total Owner Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_001E,Total Households Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_008E,Total Owner Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_002E,Total Owner Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_003E,Total Owner Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_009E,Total Renter Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_002E,Total Owner Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_001E,Total Households Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_015E,Total Renter Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_014E,Total Renter Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_013E,Total Renter Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_012E,Total Renter Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_011E,Total Renter Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_010E,Total Renter Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_008E,Total Owner Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_007E,Total Owner Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_006E,Total Owner Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_005E,Total Owner Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_003E,Total Owner Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
-Household,Tenure by Vehicles Available,B25044_004E,Total Owner Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,,,,,,,,,,
+Category,Description,Census Variable,Variable Name,geography,dataset,year,census_geom_year,Checked/Notes
+Household,Households by Presence of Children,HCT010001,Total Households by Presence of Children,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010002,Total Owner Occupied Housholds by Presence of Children,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010003,Owner Occupied Households With Own Children under 18,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010004,Owner Occupied Households With Own Children under 6 years only,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010005,Owner Occupied Households With Own Children under 6 years and 6 to 17 years,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010006,Owner Occupied Households With Own Children 6 to 17 years,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010007,Owner Occupied Households No Own Children under 18,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010009,Renter Occupied Households With Own Children under 18,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010008,Total Renter Occupied Housholds by Presence of Children,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010010,Renter Occupied Households With Own Children under 6 years only,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010011,Renter Occupied Households With Own Children under 6 years and 6 to 17 years,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010012,Renter Occupied Households With Own Children 6 to 17 years,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,HCT010013,Renter Occupied Households No Own Children under 18,tract,dec/sf2,2010,2010,Yes
+Household,Households by Presence of Children,B25012_012E,Renter Occupied Households With Own Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_013E,Renter Occupied Households With Own Children under 6 years only,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_014E,Renter Occupied Households With Own Children under 6 years and 6 to 17 years,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_015E,Renter Occupied Households With Own Children 6 to 17 years,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_006E,Owner Occupied Households With Own Children under 6 years and 6 to 17 years,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_007E,Owner Occupied Households With Own Children 6 to 17 years,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_008E,Owner Occupied Households No Own Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_009E,Owner Occupied Households No Related Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_010E,Total Renter Occupied Housholds by Presence of Children,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_011E,Renter Occupied Households With Related Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_016E,Renter Occupied Households No Own Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_017E,Renter Occupied Households No Related Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_001E,Total Households by Presence of Children,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_002E,Total Owner Occupied Housholds by Presence of Children,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_003E,Owner Occupied Households With Related Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_004E,Owner Occupied Households With Own Children under 18,tract,acs/acs5,2022,2020,Yes
+Household,Households by Presence of Children,B25012_005E,Owner Occupied Households With Own Children under 6 years only,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_009E,Owner Occupied 7 person or more household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_010E,Total Renter Occupied Housholds,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_015E,Renter Occupied 5 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_016E,Renter Occupied 6 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,H12_002N,Total Owner Occupied Housholds,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_003N,Owner Occupied 1 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_004N,Owner Occupied 2 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_005N,Owner Occupied 3 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_006N,Owner Occupied 4 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_007N,Owner Occupied 5 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_008N,Owner Occupied 6 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_009N,Owner Occupied 7 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_010N,Total Renter Occupied Housholds,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_011N,Renter Occupied 1 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_012N,Renter Occupied 2 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_013N,Renter Occupied 3 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_014N,Renter Occupied 4 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_015N,Renter Occupied 5 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_016N,Renter Occupied 6 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H12_017N,Renter Occupied 7 person household,block group,dec/dhc,2020,2020,Yes
+Household,Tenure by Household Size,H016001,Total Households by Household Size,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016002,Total Owner Occupied Housholds,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016003,Owner Occupied 1 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016004,Owner Occupied 2 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016005,Owner Occupied 3 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016006,Owner Occupied 4 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016007,Owner Occupied 5 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016008,Owner Occupied 6 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016009,Owner Occupied 7 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016010,Total Renter Occupied Housholds,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016011,Renter Occupied 1 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016012,Renter Occupied 2 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016013,Renter Occupied 3 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016014,Renter Occupied 4 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016015,Renter Occupied 5 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016016,Renter Occupied 6 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,H016017,Renter Occupied 7 person household,block group,dec/sf1,2010,2010,Yes
+Household,Tenure by Household Size,B25009_004E,Owner Occupied 2 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_005E,Owner Occupied 3 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_006E,Owner Occupied 4 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_007E,Owner Occupied 5 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_008E,Owner Occupied 6 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_011E,Renter Occupied 1 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_012E,Renter Occupied 2 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_013E,Renter Occupied 3 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_014E,Renter Occupied 4 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_017E,Renter Occupied 7 person or more household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_001E,Total Households by Household Size,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_002E,Total Owner Occupied Housholds,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,B25009_003E,Owner Occupied 1 person household,block group,acs/acs5,2022,2020,Yes
+Household,Tenure by Household Size,H12_001N,Total Households by Household Size,block group,dec/dhc,2020,2020,Yes
+Household,Housing Units,H003002,Total Housing Units: Occupied,tract,dec/sf1,2010,2010,Yes
+Household,Housing Units,H014002,Occupied Housing Units: Owner Occupied,tract,dec/sf1,2010,2010,Yes
+Household,Housing Units,H003003,Total Housing Units: Vacant,tract,dec/sf1,2010,2010,Yes
+Household,Housing Units,H004004,Occupied Housing Units: Renter Occupied,tract,dec/sf1,2010,2010,Yes
+Household,Housing Units,H005006,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,dec/sf1,2010,2010,Yes
+Household,Housing Units,H001001,Total Housing Units,tract,dec/sf1,2010,2010,Yes
+Household,Housing Units,DP1_0149C,Total Housing Units: Vacant,tract,dec/dp,2020,2020,Yes
+Household,Housing Units,DP1_0148C,Total Housing Units: Occupied,tract,dec/dp,2020,2020,Yes
+Household,Housing Units,DP1_0147C,Total Housing Units,tract,dec/dp,2020,2020,Yes
+Household,Housing Units,DP1_0154C,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,dec/dp,2020,2020,Yes
+Household,Housing Units,DP1_0159C,Occupied Housing Units: Owner Occupied,tract,dec/dp,2020,2020,Yes
+Household,Housing Units,DP1_0160C,Occupied Housing Units: Renter Occupied,tract,dec/dp,2020,2020,Yes
+Household,Housing Units,B25004_006E,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,acs/acs5,2022,2020,Yes
+Household,Housing Units,B25002_003E,Total Housing Units: Vacant,tract,acs/acs5,2022,2020,Yes
+Household,Housing Units,B25002_002E,Total Housing Units: Occupied,tract,acs/acs5,2022,2020,Yes
+Household,Housing Units,B25001_001E,Total Housing Units,tract,acs/acs5,2022,2020,Yes
+Household,Housing Units,B25003_003E,Occupied Housing Units: Renter Occupied,tract,acs/acs5,2022,2020,Yes
+Household,Housing Units,B25003_002E,Occupied Housing Units: Owner Occupied,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_004E,Owner Occupied: Householder 25 To 34 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_005E,Owner Occupied: Householder 35 To 44 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_006E,Owner Occupied: Householder 45 To 54 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_007E,Owner Occupied: Householder 55 To 59 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_008E,Owner Occupied: Householder 60 To 64 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_009E,Owner Occupied: Householder 65 To 74 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_010E,Owner Occupied: Householder 75 To 84 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_011E,Owner Occupied: Householder 85 Years And Over,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_002E,Owner Occupied: Total,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_003E,Owner Occupied: Householder 15 To 24 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_012E,Renter Occupied: Total,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_021E,Renter Occupied: Householder 85 Years And Over,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_020E,Renter Occupied: Householder 75 To 84 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_018E,Renter Occupied: Householder 60 To 64 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_019E,Renter Occupied: Householder 65 To 74 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_017E,Renter Occupied: Householder 55 To 59 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_016E,Renter Occupied: Householder 45 To 54 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_015E,Renter Occupied: Householder 35 To 44 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_014E,Renter Occupied: Householder 25 To 34 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_013E,Renter Occupied: Householder 15 To 24 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_011E,Owner Occupied: Householder 85 Years And Over,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_010E,Owner Occupied: Householder 75 To 84 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_009E,Owner Occupied: Householder 65 To 74 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_008E,Owner Occupied: Householder 60 To 64 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_007E,Owner Occupied: Householder 55 To 59 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_006E,Owner Occupied: Householder 45 To 54 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_005E,Owner Occupied: Householder 35 To 44 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_004E,Owner Occupied: Householder 25 To 34 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_003E,Owner Occupied: Householder 15 To 24 Years,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Age of Householder,B25007_002E,Owner Occupied: Total,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_012E,Renter Occupied: Total,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_013E,Renter Occupied: Householder 15 To 24 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_014E,Renter Occupied: Householder 25 To 34 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_015E,Renter Occupied: Householder 35 To 44 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_016E,Renter Occupied: Householder 45 To 54 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_017E,Renter Occupied: Householder 55 To 59 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_018E,Renter Occupied: Householder 60 To 64 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_019E,Renter Occupied: Householder 65 To 74 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_020E,Renter Occupied: Householder 75 To 84 Years,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Age of Householder,B25007_021E,Renter Occupied: Householder 85 Years And Over,tract,acs/acs5,2021,2020,Yes
+Household,Tenure by Vehicles Available,B25044_009E,Total Renter Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_010E,Total Renter Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_015E,Total Renter Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_014E,Total Renter Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_013E,Total Renter Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_012E,Total Renter Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_011E,Total Renter Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_007E,Total Owner Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_006E,Total Owner Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_005E,Total Owner Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_004E,Total Owner Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_001E,Total Households Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_008E,Total Owner Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_002E,Total Owner Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_003E,Total Owner Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_009E,Total Renter Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_002E,Total Owner Occupied Households Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_001E,Total Households Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_015E,Total Renter Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_014E,Total Renter Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_013E,Total Renter Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_012E,Total Renter Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_011E,Total Renter Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_010E,Total Renter Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_008E,Total Owner Occupied Households 5 or more Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_007E,Total Owner Occupied Households 4 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_006E,Total Owner Occupied Households 3 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_005E,Total Owner Occupied Households 2 Vehicles Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_003E,Total Owner Occupied Households No Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Tenure by Vehicles Available,B25044_004E,Total Owner Occupied Households 1 Vehicle Available,tract,acs/acs5,2022,2020,Yes
+Household,Census Household Income Distribution,B06011_001E,Median Household Income,tract,acs/acs5,2022,2020,Yes
+Household,Census Household Income Distribution,B06011_001E,Median Household Income,tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_009E,"$40,000 to $44,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_013E,"$75,000 to $99,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_002E,"Less than $10,000",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_010E,"$45,000 to $49,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_014E,"$100,000 to $124,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_003E,"$10,000 to $14,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_011E,"$50,000 to $59,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_015E,"$125,000 to $149,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_004E,"$15,000 to $19,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_012E,"$60,000 to $74,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_016E,"$150,000 to $199,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_017E,"$200,000 or more",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_005E,"$20,000 to $24,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_006E,"$25,000 to $29,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_007E,"$30,000 to $34,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_008E,"$35,000 to $39,999",tract,acs/acs5,2010,2010,Yes
+Household,Census Household Income Distribution,B19001_002E,"Less than $10,000",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_013E,"$75,000 to $99,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_012E,"$60,000 to $74,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_011E,"$50,000 to $59,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_010E,"$45,000 to $49,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_009E,"$40,000 to $44,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_008E,"$35,000 to $39,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_007E,"$30,000 to $34,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_006E,"$25,000 to $29,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_017E,"$200,000 or more",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_005E,"$20,000 to $24,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_016E,"$150,000 to $199,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_004E,"$15,000 to $19,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_015E,"$125,000 to $149,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_014E,"$100,000 to $124,999",tract,acs/acs5,2022,2010,Yes
+Household,Census Household Income Distribution,B19001_003E,"$10,000 to $14,999",tract,acs/acs5,2022,2010,Yes

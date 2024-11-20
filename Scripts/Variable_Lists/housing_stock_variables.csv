@@ -1,0 +1,54 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Owner occupied: Total,B25014_002,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_002,2022,2020,tract
+Owner occupied: 0.50 or less occupants per room,B25014_003,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_003,2022,2020,tract
+Owner occupied: 0.51 to 1.00 occupants per room,B25014_004,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_004,2022,2020,tract
+Owner occupied: 1.01 to 1.50 occupants per room,B25014_005,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_005,2022,2020,tract
+Owner occupied: 1.51 to 2.00 occupants per room,B25014_006,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_006,2022,2020,tract
+Owner occupied: 2.01 or more occupants per room,B25014_007,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_007,2022,2020,tract
+Renter occupied: Total,B25014_008,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_008,2022,2020,tract
+Renter occupied: 0.50 or less occupants per room,B25014_009,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_009,2022,2020,tract
+Renter occupied: 0.51 to 1.00 occupants per room,B25014_010,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_010,2022,2020,tract
+Renter occupied: 1.01 to 1.50 occupants per room,B25014_011,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_011,2022,2020,tract
+Renter occupied: 1.51 to 2.00 occupants per room,B25014_012,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_012,2022,2020,tract
+Renter occupied: 2.01 or more occupants per room,B25014_013,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_013,2022,2020,tract
+Total Year Built,B25034_001,Year Structure Built,American Community Survey,acs/acs5,B25034_001,2022,2020,tract
+Built 2020 or later,B25034_002,Year Structure Built,American Community Survey,acs/acs5,B25034_002,2022,2020,tract
+Built 2010 to 2019,B25034_003,Year Structure Built,American Community Survey,acs/acs5,B25034_003,2022,2020,tract
+Built 2000 to 2009,B25034_004,Year Structure Built,American Community Survey,acs/acs5,B25034_004,2022,2020,tract
+Built 1990 to 1999,B25034_005,Year Structure Built,American Community Survey,acs/acs5,B25034_005,2022,2020,tract
+Built 1980 to 1989,B25034_006,Year Structure Built,American Community Survey,acs/acs5,B25034_006,2022,2020,tract
+Built 1970 to 1979,B25034_007,Year Structure Built,American Community Survey,acs/acs5,B25034_007,2022,2020,tract
+Built 1960 to 1969,B25034_008,Year Structure Built,American Community Survey,acs/acs5,B25034_008,2022,2020,tract
+Built 1950 to 1959,B25034_009,Year Structure Built,American Community Survey,acs/acs5,B25034_009,2022,2020,tract
+Built 1940 to 1949,B25034_010,Year Structure Built,American Community Survey,acs/acs5,B25034_010,2022,2020,tract
+Built 1939 or earlier,B25034_011,Year Structure Built,American Community Survey,acs/acs5,B25034_011,2022,2020,tract
+Owner-occupied housing units: Total,B25032_002,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_002,2022,2020,tract
+"Owner-occupied housing units: 1, detached",B25032_003,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_003,2022,2020,tract
+"Owner-occupied housing units: 1, attached",B25032_004,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_004,2022,2020,tract
+Owner-occupied housing units: 2,B25032_005,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_005,2022,2020,tract
+Owner-occupied housing units: 3 or 4,B25032_006,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_006,2022,2020,tract
+Owner-occupied housing units: 5 to 9,B25032_007,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_007,2022,2020,tract
+Owner-occupied housing units: 10 to 19,B25032_008,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_008,2022,2020,tract
+Owner-occupied housing units: 20 to 49,B25032_009,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_009,2022,2020,tract
+Owner-occupied housing units: 50 or more,B25032_010,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_010,2022,2020,tract
+Owner-occupied housing units: Mobile home,B25032_011,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_011,2022,2020,tract
+"Owner-occupied housing units: Boat, RV, van, etc.",B25032_012,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_012,2022,2020,tract
+Renter-occupied housing units: Total,B25032_013,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_013,2022,2020,tract
+"Renter-occupied housing units: 1, detached",B25032_014,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_014,2022,2020,tract
+"Renter-occupied housing units: 1, attached",B25032_015,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_015,2022,2020,tract
+Renter-occupied housing units: 2,B25032_016,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_016,2022,2020,tract
+Renter-occupied housing units: 3 or 4,B25032_017,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_017,2022,2020,tract
+Renter-occupied housing units: 5 to 9,B25032_018,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_018,2022,2020,tract
+Renter-occupied housing units: 10 to 19,B25032_019,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_019,2022,2020,tract
+Renter-occupied housing units: 20 to 49,B25032_020,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_020,2022,2020,tract
+Renter-occupied housing units: 50 or more,B25032_021,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_021,2022,2020,tract
+Renter-occupied housing units: Mobile home,B25032_022,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_022,2022,2020,tract
+"Renter-occupied housing units: Boat, RV, van, etc.",B25032_023,Tenure by Units in Structure,American Community Survey,acs/acs5,B25032_023,2022,2020,tract
+Total Households by Type of Internet,S2801_C01_012,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_012,2022,2020,tract
+Dial-up with no other type of Internet subscription,S2801_C01_013,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_013,2022,2020,tract
+Broadband of any type,S2801_C01_014,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_014,2022,2020,tract
+Broadband of any type: Cellular data plan,S2801_C01_015,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_015,2022,2020,tract
+Broadband of any type: Cellular data plan: Cellular data plan with no other type of Internet subscription,S2801_C01_016,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_016,2022,2020,tract
+"Broadband of any type: Broadband such as cable, fiber optic or DSL",S2801_C01_017,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_017,2022,2020,tract
+Broadband of any type: Satellite Internet service,S2801_C01_018,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_018,2022,2020,tract
+Total Households No Internet Subscribtion,S2801_C01_019,Presence and Types of Internet Subscriptions,American Community Survey,acs/acs5/subject,S2801_C01_019,2022,2020,tract

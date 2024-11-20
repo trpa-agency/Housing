@@ -1,0 +1,54 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel
+Public transportation (excluding taxicab): Householder lived in owner-occupied housing units,B08137_011,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_011,2022,2020,tract
+Walked: Householder lived in owner-occupied housing units,B08137_014,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_014,2022,2020,tract
+"Taxicab, motorcycle, bicycle, or other means: Householder lived in owner-occupied housing units",B08137_017,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_017,2022,2020,tract
+Worked from home: Householder lived in owner-occupied housing units,B08137_020,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_020,2022,2020,tract
+"Car, truck, or van - drove alone: Householder lived in renter-occupied housing units",B08137_006,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_006,2022,2020,tract
+"Car, truck, or van - carpooled: Householder lived in renter-occupied housing units",B08137_009,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_009,2022,2020,tract
+Public transportation (excluding taxicab): Householder lived in renter-occupied housing units,B08137_012,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_012,2022,2020,tract
+Walked: Householder lived in renter-occupied housing units,B08137_015,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_015,2022,2020,tract
+"Taxicab, motorcycle, bicycle, or other means: Householder lived in renter-occupied housing units",B08137_018,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_018,2022,2020,tract
+Worked from home: Householder lived in renter-occupied housing units,B08137_021,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_021,2022,2020,tract
+Owner occupied: Lacking plumbing facilities,B25049_004,Tenure by Plumbing Facilities,American Community Survey,acs/acs5,B25049_004,2022,2020,tract
+Renter occupied: Lacking plumbing facilities,B25049_007,Tenure by Plumbing Facilities,American Community Survey,acs/acs5,B25049_007,2022,2020,tract
+Vacant Units Mobile home,B25136_013,Structure Type by Occupancy Status,American Community Survey,acs/acs5,B25136_013,2022,2020,tract
+"Occupied Units Mobile home, Boat, RV, Van, etc.",B25136_007,Structure Type by Occupancy Status,American Community Survey,acs/acs5,B25136_007,2022,2020,tract
+Owner occupied: No bedroom,B25042_003,Tenure by Bedrooms,American Community Survey,acs/acs5,B25042_003,2022,2020,tract
+Renter occupied: No bedroom,B25042_010,Tenure by Bedrooms,American Community Survey,acs/acs5,B25042_010,2022,2020,tract
+Total: Total,B25042_001,Tenure by Bedrooms,American Community Survey,acs/acs5,B25042_001,2022,2020,tract
+Owner occupied: Total,B25042_002,Tenure by Bedrooms,American Community Survey,acs/acs5,B25042_002,2022,2020,tract
+Renter occupied: Total,B25042_009,Tenure by Bedrooms,American Community Survey,acs/acs5,B25042_009,2022,2020,tract
+Total: Total,B25014_001,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_001,2022,2020,tract
+Owner occupied: Total,B25014_002,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_002,2022,2020,tract
+Renter occupied: Total,B25014_008,Tenure by Occupants per Room,American Community Survey,acs/acs5,B25014_008,2022,2020,tract
+Total: Total,B25049_001,Tenure by Plumbing Facilities,American Community Survey,acs/acs5,B25049_001,2022,2020,tract
+Owner occupied: Total,B25049_002,Tenure by Plumbing Facilities,American Community Survey,acs/acs5,B25049_002,2022,2020,tract
+Renter occupied: Total,B25049_005,Tenure by Plumbing Facilities,American Community Survey,acs/acs5,B25049_005,2022,2020,tract
+Total: Total,B25005_001,Vacant - Current Residence Elsewhere,American Community Survey,acs/acs5,B25005_001,2022,2020,tract
+Vacant - current residence elsewhere Total,B25005_002,Vacant - Current Residence Elsewhere,American Community Survey,acs/acs5,B25005_002,2022,2020,tract
+All other vacant units Total,B25005_003,Vacant - Current Residence Elsewhere,American Community Survey,acs/acs5,B25005_003,2022,2020,tract
+Total: Total,B25136_001,Structure Type by Occupancy Status,American Community Survey,acs/acs5,B25136_001,2022,2020,tract
+Occupied Units Total,B25136_002,Structure Type by Occupancy Status,American Community Survey,acs/acs5,B25136_002,2022,2020,tract
+Vacant Units Total,B25136_008,Structure Type by Occupancy Status,American Community Survey,acs/acs5,B25136_008,2022,2020,tract
+Total: Total,B08137_001,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_001,2022,2020,tract
+Householder lived in owner-occupied housing units Total,B08137_002,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_002,2022,2020,tract
+Householder lived in renter-occupied housing units Total,B08137_003,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_003,2022,2020,tract
+"Car, truck, or van - drove alone: Total",B08137_004,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_004,2022,2020,tract
+"Car, truck, or van - carpooled: Total",B08137_007,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_007,2022,2020,tract
+Public transportation (excluding taxicab): Total,B08137_010,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_010,2022,2020,tract
+Walked: Total,B08137_013,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_013,2022,2020,tract
+"Taxicab, motorcycle, bicycle, or other means: Total",B08137_016,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_016,2022,2020,tract
+Worked from home: Total,B08137_019,Means of Transportation to Work by Tenure,Decennial,acs/acs5,B08137_019,2022,2020,tract
+Total: Total,B08412_001,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_001,2022,2020,tract
+Less than 5 minutes Total,B08412_002,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_002,2022,2020,tract
+5 to 9 minutes Total,B08412_003,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_003,2022,2020,tract
+10 to 14 minutes Total,B08412_004,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_004,2022,2020,tract
+15 to 19 minutes Total,B08412_005,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_005,2022,2020,tract
+20 to 24 minutes Total,B08412_006,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_006,2022,2020,tract
+25 to 29 minutes Total,B08412_007,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_007,2022,2020,tract
+30 to 34 minutes Total,B08412_008,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_008,2022,2020,tract
+35 to 39 minutes Total,B08412_009,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_009,2022,2020,tract
+40 to 44 minutes Total,B08412_010,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_010,2022,2020,tract
+45 to 59 minutes Total,B08412_011,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_011,2022,2020,tract
+60 to 89 minutes Total,B08412_012,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_012,2022,2020,tract
+90 or more minutes Total,B08412_013,Sex of Workers by Travel Time to Work for Workplace Geography,Decennial,acs/acs5,B08412_013,2022,2020,tract

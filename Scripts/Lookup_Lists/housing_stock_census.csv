@@ -1,0 +1,104 @@
+Category,Description,variable_code,Variable Name,geography,dataset,year,census_geom_year
+Housing Stock,Housing by Units in Structure,B25136_003E,"Occupied Units 1-unit, detached",block group,acs/acs5,2022,2020
+Housing Stock,Housing by Units in Structure,B25136_004E,"Occupied Units 1-unit, attached",block group,acs/acs5,2022,2020
+Housing Stock,Housing by Units in Structure,B25136_005E,Occupied Units 2-9 units,block group,acs/acs5,2022,2020
+Housing Stock,Housing by Units in Structure,B25136_006E,Occupied Units 10 or more units,block group,acs/acs5,2022,2020
+Housing Stock,Housing by Units in Structure,B25136_009E,"Vacant Units 1-unit, detached",block group,acs/acs5,2022,2020
+Housing Stock,Housing by Units in Structure,B25136_010E,"Vacant Units 1-unit, attached",block group,acs/acs5,2022,2020
+Housing Stock,Housing by Units in Structure,B25136_011E,Vacant Units 2-9 units,block group,acs/acs5,2022,2020
+Housing Stock,Housing by Units in Structure,B25136_012E,Vacant Units 10 or more units,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_001E,Total Heating Methods,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_002E,Utility gas,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_003E,"Bottled, tank, or LP gas",tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_004E,Electricity,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_005E,"Fuel oil, kerosene, etc.",tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_006E,Coal or coke,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_007E,Wood,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_008E,Solar energy,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_009E,Other fuel,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Heating Fuel Type,B25040_010E,No fuel used,tract,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_004E,Owner occupied: 1 bedroom,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_005E,Owner occupied: 2 bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_006E,Owner occupied: 3 bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_007E,Owner occupied: 4 bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_008E,Owner occupied: 5 or more bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_011E,Renter occupied: 1 bedroom,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_012E,Renter occupied: 2 bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_013E,Renter occupied: 3 bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_014E,Renter occupied: 4 bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Housing Units by Number of Bedrooms and Tenure,B25042_015E,Renter occupied: 5 or more bedrooms,block group,acs/acs5,2022,2020
+Housing Stock,Occupancy and Vacancy Status,B25001_001E,Total Housing Units,tract,acs/acs5,2022,2020
+Housing Stock,Occupancy and Vacancy Status,B25002_002E,Total Housing Units: Occupied,tract,acs/acs5,2022,2020
+Housing Stock,Occupancy and Vacancy Status,B25002_003E,Total Housing Units: Vacant,tract,acs/acs5,2022,2020
+Housing Stock,Occupancy and Vacancy Status,B25003_002E,Occupied Housing Units: Owner Occupied,tract,acs/acs5,2022,2020
+Housing Stock,Occupancy and Vacancy Status,B25003_003E,Occupied Housing Units: Renter Occupied,tract,acs/acs5,2022,2020
+Housing Stock,Occupancy and Vacancy Status,B25004_006E,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,acs/acs5,2022,2020
+Housing Stock,Occupancy and Vacancy Status,DP1_0147C,Total Housing Units,tract,dec/dp,2020,2020
+Housing Stock,Occupancy and Vacancy Status,DP1_0148C,Total Housing Units: Occupied,tract,dec/dp,2020,2020
+Housing Stock,Occupancy and Vacancy Status,DP1_0149C,Total Housing Units: Vacant,tract,dec/dp,2020,2020
+Housing Stock,Occupancy and Vacancy Status,DP1_0154C,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,dec/dp,2020,2020
+Housing Stock,Occupancy and Vacancy Status,DP1_0159C,Occupied Housing Units: Owner Occupied,tract,dec/dp,2020,2020
+Housing Stock,Occupancy and Vacancy Status,DP1_0160C,Occupied Housing Units: Renter Occupied,tract,dec/dp,2020,2020
+Housing Stock,Occupancy and Vacancy Status,H001001,Total Housing Units,tract,dec/sf1,2010,2010
+Housing Stock,Occupancy and Vacancy Status,H003002,Total Housing Units: Occupied,tract,dec/sf1,2010,2010
+Housing Stock,Occupancy and Vacancy Status,H003003,Total Housing Units: Vacant,tract,dec/sf1,2010,2010
+Housing Stock,Occupancy and Vacancy Status,H004004,Occupied Housing Units: Renter Occupied,tract,dec/sf1,2010,2010
+Housing Stock,Occupancy and Vacancy Status,H005006,"Vacant Housing Units: Seasonal, recreational, or occasional use",tract,dec/sf1,2010,2010
+Housing Stock,Occupancy and Vacancy Status,H014002,Occupied Housing Units: Owner Occupied,tract,dec/sf1,2010,2010
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_012E,Total Households by Type of Internet,tract,acs/acs5/subject,2022,2020
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_013E,Dial-up with no other type of Internet subscription,tract,acs/acs5/subject,2022,2020
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_014E,Broadband of any type,tract,acs/acs5/subject,2022,2020
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_015E,Broadband of any type: Cellular data plan,tract,acs/acs5/subject,2022,2020
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_016E,Broadband of any type: Cellular data plan: Cellular data plan with no other type of Internet subscription,tract,acs/acs5/subject,2022,2020
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_017E,"Broadband of any type: Broadband such as cable, fiber optic or DSL",tract,acs/acs5/subject,2022,2020
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_018E,Broadband of any type: Satellite Internet service,tract,acs/acs5/subject,2022,2020
+Housing Stock,Presence and Types of Internet Subscriptions,S2801_C01_019E,Total Households No Internet Subscribtion,tract,acs/acs5/subject,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_002E,Owner occupied: Total,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_003E,Owner occupied: 0.50 or less occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_004E,Owner occupied: 0.51 to 1.00 occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_005E,Owner occupied: 1.01 to 1.50 occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_006E,Owner occupied: 1.51 to 2.00 occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_007E,Owner occupied: 2.01 or more occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_008E,Renter occupied: Total,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_009E,Renter occupied: 0.50 or less occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_010E,Renter occupied: 0.51 to 1.00 occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_011E,Renter occupied: 1.01 to 1.50 occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_012E,Renter occupied: 1.51 to 2.00 occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Occupants per Room,B25014_013E,Renter occupied: 2.01 or more occupants per room,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Plumbing Facilities,B25049_003E,Owner occupied: Complete plumbing facilities,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Plumbing Facilities,B25049_004E,Owner occupied: Lacking plumbing facilities,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Plumbing Facilities,B25049_006E,Renter occupied: Complete plumbing facilities,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Plumbing Facilities,B25049_007E,Renter occupied: Lacking plumbing facilities,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_002E,Owner-occupied housing units: Total,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_003E,"Owner-occupied housing units: 1, detached",tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_004E,"Owner-occupied housing units: 1, attached",tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_005E,Owner-occupied housing units: 2,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_006E,Owner-occupied housing units: 3 or 4,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_007E,Owner-occupied housing units: 5 to 9,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_008E,Owner-occupied housing units: 10 to 19,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_009E,Owner-occupied housing units: 20 to 49,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_010E,Owner-occupied housing units: 50 or more,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_011E,Owner-occupied housing units: Mobile home,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_012E,"Owner-occupied housing units: Boat, RV, van, etc.",tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_013E,Renter-occupied housing units: Total,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_014E,"Renter-occupied housing units: 1, detached",tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_015E,"Renter-occupied housing units: 1, attached",tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_016E,Renter-occupied housing units: 2,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_017E,Renter-occupied housing units: 3 or 4,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_018E,Renter-occupied housing units: 5 to 9,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_019E,Renter-occupied housing units: 10 to 19,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_020E,Renter-occupied housing units: 20 to 49,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_021E,Renter-occupied housing units: 50 or more,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_022E,Renter-occupied housing units: Mobile home,tract,acs/acs5,2022,2020
+Housing Stock,Tenure by Units in Structure,B25032_023E,"Renter-occupied housing units: Boat, RV, van, etc.",tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_001E,Total Year Built,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_002E,Built 2020 or later,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_003E,Built 2010 to 2019,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_004E,Built 2000 to 2009,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_005E,Built 1990 to 1999,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_006E,Built 1980 to 1989,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_007E,Built 1970 to 1979,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_008E,Built 1960 to 1969,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_009E,Built 1950 to 1959,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_010E,Built 1940 to 1949,tract,acs/acs5,2022,2020
+Housing Stock,Year Structure Built,B25034_011E,Built 1939 or earlier,tract,acs/acs5,2022,2020
