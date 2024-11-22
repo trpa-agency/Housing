@@ -1,208 +1,208 @@
-Category,Description,Census Variable,Variable Name,geography,dataset,year,census_geom_year
-Demographics,Total Resident Population,P001001,Total Population,tract,dec/sf1,2010,2010
-Demographics,Total Resident Population,P1_001N,Total Population,block,dec/dhc,2020,2020
-Demographics,Total Resident Population,B01003_001E,Total Population,tract,acs/acs5,2022,2020
-Demographics,Group Quarters Population,PC01_001N,Group Quarters Population,block group,dec/dhc,2020,2020
-Demographics,Group Quarters Population,P029026,Group Quarters Population,block group,dec/sf1,2010,2010
-Demographics,Group Quarters Population,B26001_001E,Group Quarters Population,tract,acs/acs5,2022,2020
-Demographics,Median age by Sex,P13_003N,Median Age Female,block group,dec/dhc,2020,2020
-Demographics,Median age by Sex,P13_002N,Median Age Male,block group,dec/dhc,2020,2020
-Demographics,Median age by Sex,B01002_003E,Median Age Female,block group,acs/acs5,2022,2020
-Demographics,Median age by Sex,B01002_002E,Median Age Male,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,P004002,Total population:  Not Hispanic or Latino,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P005003,Total population:  Not Hispanic or Latino; White alone,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P005006,Total population:  Not Hispanic or Latino; Asian alone,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P005004,Total population:  Not Hispanic or Latino; Black or African American alone,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P005005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P004003,Total population:  Hispanic or Latino,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P005007,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P005008,Total population:  Not Hispanic or Latino; Some other race alone,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,P005009,Total population:  Not Hispanic or Latino; Two or more races,tract,dec/sf1,2010,2010
-Demographics,Race and Ethnicity,DP1_0106C,Total population:  Not Hispanic or Latino; Black or African American alone,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0109C,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0094C,Total population:  Not Hispanic or Latino,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0111C,Total population:  Not Hispanic or Latino; Two or more races,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0105C,Total population:  Not Hispanic or Latino; White alone,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0110C,Total population:  Not Hispanic or Latino; Some other race alone,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0093C,Total population:  Hispanic or Latino,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0107C,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,DP1_0108C,Total population:  Not Hispanic or Latino; Asian alone,tract,dec/dp,2020,2020
-Demographics,Race and Ethnicity,B03002_005E,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_012E,Total population:  Hispanic or Latino,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_009E,Total population:  Not Hispanic or Latino; Two or more races,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_008E,Total population:  Not Hispanic or Latino; Some other race alone,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_007E,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_006E,Total population:  Not Hispanic or Latino; Asian alone,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_004E,Total population:  Not Hispanic or Latino; Black or African American alone,block group,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_003E,Total population:  Not Hispanic or Latino; White alone,block group,acs/acs5,2022,2020
-Demographics,Educational Attainment,S1501_C01_001E,Educational Attainment: Population 18 to 24: Total,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_002E,Educational Attainment: Population 18 to 24 Less than high school graduate,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_003E,Educational Attainment: Population 18 to 24: High school graduate,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_007E,Educational Attainment: Population 25 years and over: Less than 9th grade,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_008E,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_009E,Educational Attainment: Population 25 years and over: High school graduate,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_010E,Educational Attainment: Population 25 years and over: Some college no degree,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_011E,Educational Attainment: Population 25 years and over: Associates degree,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_012E,Educational Attainment: Population 25 years and over: Bachelors degree,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_013E,Educational Attainment: Population 25 years and over: Graduate or professional degree,tract,acs/acs5/subject,2010,2010
-Demographics,Educational Attainment,S1501_C01_001E,Educational Attainment: Population 18 to 24: Total,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_002E,Educational Attainment: Population 18 to 24 Less than high school graduate,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_003E,Educational Attainment: Population 18 to 24: High school graduate,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_007E,Educational Attainment: Population 25 years and over: Less than 9th grade,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_008E,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_009E,Educational Attainment: Population 25 years and over: High school graduate,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_010E,Educational Attainment: Population 25 years and over: Some college no degree,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_011E,Educational Attainment: Population 25 years and over: Associates degree,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_012E,Educational Attainment: Population 25 years and over: Bachelors degree,tract,acs/acs5/subject,2022,2020
-Demographics,Educational Attainment,S1501_C01_013E,Educational Attainment: Population 25 years and over: Graduate or professional degree,tract,acs/acs5/subject,2022,2020
-Demographics,Age,P012002,Male: Total,tract,dec/sf1,2010,2010
-Demographics,Age,P012003,Male: Under 5 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012004,Male: 5 to 9 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012005,Male: 10 to 14 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012006,Male: 15 to 17 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012007,Male: 18 and 19 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012008,Male: 20 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012009,Male: 21 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012010,Male: 22 to 24 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012011,Male: 25 to 29 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012012,Male: 30 to 34 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012013,Male: 35 to 39 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012014,Male: 40 to 44 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012016,Male: 50 to 54 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012015,Male: 45 to 49 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012017,Male: 55 to 59 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012018,Male: 60 and 61 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012019,Male: 62 to 64 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012020,Male: 65 and 66 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012021,Male: 67 to 69 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012022,Male: 70 to 74 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012023,Male: 75 to 79 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012024,Male: 80 to 84 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012025,Male: 85 years and over,tract,dec/sf1,2010,2010
-Demographics,Age,P012026,Female: Total,tract,dec/sf1,2010,2010
-Demographics,Age,P012027,Female: Under 5 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012029,Female: 10 to 14 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012028,Female: 5 to 9 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012030,Female: 15 to 17 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012031,Female: 18 and 19 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012032,Female: 20 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012033,Female: 21 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012034,Female: 22 to 24 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012035,Female: 25 to 29 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012038,Female: 40 to 44 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012037,Female: 35 to 39 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012039,Female: 45 to 49 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012041,Female: 55 to 59 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012040,Female: 50 to 54 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012042,Female: 60 and 61 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012043,Female: 62 to 64 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012044,Female: 65 and 66 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012045,Female: 67 to 69 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012048,Female: 80 to 84 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012049,Female: 85 years and over,tract,dec/sf1,2010,2010
-Demographics,Age,P012036,Female: 30 to 34 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012046,Female: 70 to 74 years,tract,dec/sf1,2010,2010
-Demographics,Age,P012047,Female: 75 to 79 years,tract,dec/sf1,2010,2010
-Demographics,Age,P12_002N,Male: Total,tract,dec/dhc,2020,2020
-Demographics,Age,P12_003N,Male: Under 5 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_004N,Male: 5 to 9 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_005N,Male: 10 to 14 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_006N,Male: 15 to 17 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_007N,Male: 18 and 19 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_008N,Male: 20 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_009N,Male: 21 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_010N,Male: 22 to 24 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_011N,Male: 25 to 29 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_013N,Male: 35 to 39 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_014N,Male: 40 to 44 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_015N,Male: 45 to 49 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_012N,Male: 30 to 34 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_016N,Male: 50 to 54 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_017N,Male: 55 to 59 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_018N,Male: 60 and 61 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_019N,Male: 62 to 64 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_020N,Male: 65 and 66 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_026N,Female: Total,tract,dec/dhc,2020,2020
-Demographics,Age,P12_027N,Female: Under 5 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_021N,Male: 67 to 69 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_022N,Male: 70 to 74 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_023N,Male: 75 to 79 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_024N,Male: 80 to 84 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_025N,Male: 85 years and over,tract,dec/dhc,2020,2020
-Demographics,Age,P12_029N,Female: 10 to 14 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_030N,Female: 15 to 17 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_031N,Female: 18 and 19 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_032N,Female: 20 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_033N,Female: 21 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_034N,Female: 22 to 24 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_043N,Female: 62 to 64 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_035N,Female: 25 to 29 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_036N,Female: 30 to 34 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_038N,Female: 40 to 44 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_039N,Female: 45 to 49 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_040N,Female: 50 to 54 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_041N,Female: 55 to 59 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_042N,Female: 60 and 61 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_028N,Female: 5 to 9 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_037N,Female: 35 to 39 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_044N,Female: 65 and 66 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_045N,Female: 67 to 69 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_046N,Female: 70 to 74 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_047N,Female: 75 to 79 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_048N,Female: 80 to 84 years,tract,dec/dhc,2020,2020
-Demographics,Age,P12_049N,Female: 85 years and over,tract,dec/dhc,2020,2020
-Demographics,Age,B01001_037E,Female: 35 to 39 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_038E,Female: 40 to 44 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_003E,Male: Under 5 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_002E,Male: Total,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_025E,Male: 85 years and over,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_024E,Male: 80 to 84 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_023E,Male: 75 to 79 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_022E,Male: 70 to 74 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_021E,Male: 67 to 69 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_020E,Male: 65 and 66 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_019E,Male: 62 to 64 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_018E,Male: 60 and 61 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_017E,Male: 55 to 59 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_016E,Male: 50 to 54 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_004E,Male: 5 to 9 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_015E,Male: 45 to 49 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_014E,Male: 40 to 44 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_013E,Male: 35 to 39 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_012E,Male: 30 to 34 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_011E,Male: 25 to 29 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_010E,Male: 22 to 24 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_009E,Male: 21 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_008E,Male: 20 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_007E,Male: 18 and 19 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_006E,Male: 15 to 17 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_005E,Male: 10 to 14 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_027E,Female: Under 5 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_026E,Female: Total,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_049E,Female: 85 years and over,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_048E,Female: 80 to 84 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_047E,Female: 75 to 79 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_046E,Female: 70 to 74 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_045E,Female: 67 to 69 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_044E,Female: 65 and 66 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_043E,Female: 62 to 64 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_042E,Female: 60 and 61 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_041E,Female: 55 to 59 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_040E,Female: 50 to 54 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_028E,Female: 5 to 9 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_039E,Female: 45 to 49 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_036E,Female: 30 to 34 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_035E,Female: 25 to 29 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_034E,Female: 22 to 24 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_033E,Female: 21 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_032E,Female: 20 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_031E,Female: 18 and 19 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_030E,Female: 15 to 17 years,tract,acs/acs5,2022,2020
-Demographics,Age,B01001_029E,Female: 10 to 14 years,tract,acs/acs5,2022,2020
-Demographics,Race and Ethnicity,B03002_002E,Total Population: Not Hispanic or Latino,tract,acs/acs5,2022,2020
+Category,Description,Census Variable,Variable Name,geography,dataset,year,census_geom_year,Denominator,"DOWNLOAD P12_002N, B01001_001E"
+Demographics,Age,P012002,Male: Total,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012003,Male: Under 5 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012004,Male: 5 to 9 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012005,Male: 10 to 14 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012006,Male: 15 to 17 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012007,Male: 18 and 19 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012008,Male: 20 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012009,Male: 21 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012010,Male: 22 to 24 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012011,Male: 25 to 29 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012012,Male: 30 to 34 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012013,Male: 35 to 39 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012014,Male: 40 to 44 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012015,Male: 45 to 49 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012016,Male: 50 to 54 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012017,Male: 55 to 59 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012018,Male: 60 and 61 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012019,Male: 62 to 64 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012020,Male: 65 and 66 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012021,Male: 67 to 69 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012022,Male: 70 to 74 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012023,Male: 75 to 79 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012024,Male: 80 to 84 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012025,Male: 85 years and over,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012026,Female: Total,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012027,Female: Under 5 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012028,Female: 5 to 9 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012029,Female: 10 to 14 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012030,Female: 15 to 17 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012031,Female: 18 and 19 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012032,Female: 20 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012033,Female: 21 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012034,Female: 22 to 24 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012035,Female: 25 to 29 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012036,Female: 30 to 34 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012037,Female: 35 to 39 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012038,Female: 40 to 44 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012039,Female: 45 to 49 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012040,Female: 50 to 54 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012041,Female: 55 to 59 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012042,Female: 60 and 61 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012043,Female: 62 to 64 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012044,Female: 65 and 66 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012045,Female: 67 to 69 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012046,Female: 70 to 74 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012047,Female: 75 to 79 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012048,Female: 80 to 84 years,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P012049,Female: 85 years and over,tract,dec/sf1,2010,2010,P001001,
+Demographics,Age,P12_002N,Male: Total,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_003N,Male: Under 5 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_004N,Male: 5 to 9 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_005N,Male: 10 to 14 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_006N,Male: 15 to 17 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_007N,Male: 18 and 19 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_008N,Male: 20 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_009N,Male: 21 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_010N,Male: 22 to 24 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_011N,Male: 25 to 29 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_012N,Male: 30 to 34 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_013N,Male: 35 to 39 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_014N,Male: 40 to 44 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_015N,Male: 45 to 49 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_016N,Male: 50 to 54 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_017N,Male: 55 to 59 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_018N,Male: 60 and 61 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_019N,Male: 62 to 64 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_020N,Male: 65 and 66 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_021N,Male: 67 to 69 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_022N,Male: 70 to 74 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_023N,Male: 75 to 79 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_024N,Male: 80 to 84 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_025N,Male: 85 years and over,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_026N,Female: Total,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_027N,Female: Under 5 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_028N,Female: 5 to 9 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_029N,Female: 10 to 14 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_030N,Female: 15 to 17 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_031N,Female: 18 and 19 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_032N,Female: 20 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_033N,Female: 21 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_034N,Female: 22 to 24 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_035N,Female: 25 to 29 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_036N,Female: 30 to 34 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_037N,Female: 35 to 39 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_038N,Female: 40 to 44 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_039N,Female: 45 to 49 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_040N,Female: 50 to 54 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_041N,Female: 55 to 59 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_042N,Female: 60 and 61 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_043N,Female: 62 to 64 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_044N,Female: 65 and 66 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_045N,Female: 67 to 69 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_046N,Female: 70 to 74 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_047N,Female: 75 to 79 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_048N,Female: 80 to 84 years,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,P12_049N,Female: 85 years and over,tract,dec/dhc,2020,2020,P12_001N,
+Demographics,Age,B01001_002E,Male: Total,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_003E,Male: Under 5 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_004E,Male: 5 to 9 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_005E,Male: 10 to 14 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_006E,Male: 15 to 17 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_007E,Male: 18 and 19 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_008E,Male: 20 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_009E,Male: 21 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_010E,Male: 22 to 24 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_011E,Male: 25 to 29 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_012E,Male: 30 to 34 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_013E,Male: 35 to 39 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_014E,Male: 40 to 44 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_015E,Male: 45 to 49 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_016E,Male: 50 to 54 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_017E,Male: 55 to 59 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_018E,Male: 60 and 61 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_019E,Male: 62 to 64 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_020E,Male: 65 and 66 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_021E,Male: 67 to 69 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_022E,Male: 70 to 74 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_023E,Male: 75 to 79 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_024E,Male: 80 to 84 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_025E,Male: 85 years and over,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_026E,Female: Total,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_027E,Female: Under 5 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_028E,Female: 5 to 9 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_029E,Female: 10 to 14 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_030E,Female: 15 to 17 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_031E,Female: 18 and 19 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_032E,Female: 20 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_033E,Female: 21 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_034E,Female: 22 to 24 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_035E,Female: 25 to 29 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_036E,Female: 30 to 34 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_037E,Female: 35 to 39 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_038E,Female: 40 to 44 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_039E,Female: 45 to 49 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_040E,Female: 50 to 54 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_041E,Female: 55 to 59 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_042E,Female: 60 and 61 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_043E,Female: 62 to 64 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_044E,Female: 65 and 66 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_045E,Female: 67 to 69 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_046E,Female: 70 to 74 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_047E,Female: 75 to 79 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_048E,Female: 80 to 84 years,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Age,B01001_049E,Female: 85 years and over,tract,acs/acs5,2022,2020,B01001_001E,
+Demographics,Educational Attainment,S1501_C01_001E,Educational Attainment: Population 18 to 24: Total,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_002E,Educational Attainment: Population 18 to 24 Less than high school graduate,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_003E,Educational Attainment: Population 18 to 24: High school graduate,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_007E,Educational Attainment: Population 25 years and over: Less than 9th grade,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_008E,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_009E,Educational Attainment: Population 25 years and over: High school graduate,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_010E,Educational Attainment: Population 25 years and over: Some college no degree,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_011E,Educational Attainment: Population 25 years and over: Associates degree,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_012E,Educational Attainment: Population 25 years and over: Bachelors degree,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_013E,Educational Attainment: Population 25 years and over: Graduate or professional degree,tract,acs/acs5/subject,2010,2010,Investigate,
+Demographics,Educational Attainment,S1501_C01_001E,Educational Attainment: Population 18 to 24: Total,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_002E,Educational Attainment: Population 18 to 24 Less than high school graduate,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_003E,Educational Attainment: Population 18 to 24: High school graduate,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_004E,Educational Attainment: Population 18 to 24: Some college or associates degree,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_005E,Educational Attainment: Population 18 to 24: Bachelor degree or higher ,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_006E,Educational Attainment: Population 25 years and over: Total,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_007E,Educational Attainment: Population 25 years and over: Less than 9th grade,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_008E,Educational Attainment: Population 25 years and over: 9th to 12th grade no diploma,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_009E,Educational Attainment: Population 25 years and over: High school graduate,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_010E,Educational Attainment: Population 25 years and over: Some college no degree,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_011E,Educational Attainment: Population 25 years and over: Associates degree,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_012E,Educational Attainment: Population 25 years and over: Bachelors degree,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Educational Attainment,S1501_C01_013E,Educational Attainment: Population 25 years and over: Graduate or professional degree,tract,acs/acs5/subject,2022,2020,Investigate,
+Demographics,Group Quarters Population,P029026,Group Quarters Population,block group,dec/sf1,2010,2010,NA,
+Demographics,Group Quarters Population,PC01_001N,Group Quarters Population,block group,dec/dhc,2020,2020,NA,
+Demographics,Group Quarters Population,B26001_001E,Group Quarters Population,tract,acs/acs5,2022,2020,NA,
+Demographics,Median age by Sex,P13_002N,Median Age Male,block group,dec/dhc,2020,2020,NA,
+Demographics,Median age by Sex,P13_003N,Median Age Female,block group,dec/dhc,2020,2020,NA,
+Demographics,Median age by Sex,B01002_002E,Median Age Male,block group,acs/acs5,2022,2020,NA,
+Demographics,Median age by Sex,B01002_003E,Median Age Female,block group,acs/acs5,2022,2020,NA,
+Demographics,Race and Ethnicity,P004002,Total population:  Not Hispanic or Latino,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P004003,Total population:  Hispanic or Latino,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P005003,Total population:  Not Hispanic or Latino; White alone,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P005004,Total population:  Not Hispanic or Latino; Black or African American alone,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P005005,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P005006,Total population:  Not Hispanic or Latino; Asian alone,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P005007,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P005008,Total population:  Not Hispanic or Latino; Some other race alone,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,P005009,Total population:  Not Hispanic or Latino; Two or more races,tract,dec/sf1,2010,2010,P001001,
+Demographics,Race and Ethnicity,DP1_0093C,Total population:  Hispanic or Latino,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0094C,Total population:  Not Hispanic or Latino,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0105C,Total population:  Not Hispanic or Latino; White alone,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0106C,Total population:  Not Hispanic or Latino; Black or African American alone,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0107C,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0108C,Total population:  Not Hispanic or Latino; Asian alone,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0109C,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0110C,Total population:  Not Hispanic or Latino; Some other race alone,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,DP1_0111C,Total population:  Not Hispanic or Latino; Two or more races,tract,dec/dp,2020,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_002E,Total Population: Not Hispanic or Latino,tract,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_003E,Total population:  Not Hispanic or Latino; White alone,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_004E,Total population:  Not Hispanic or Latino; Black or African American alone,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_005E,Total population:  Not Hispanic or Latino; American Indian and Alaska Native alone,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_006E,Total population:  Not Hispanic or Latino; Asian alone,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_007E,Total population:  Not Hispanic or Latino; Native Hawaiian and Other Pacific Islander alone,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_008E,Total population:  Not Hispanic or Latino; Some other race alone,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_009E,Total population:  Not Hispanic or Latino; Two or more races,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Race and Ethnicity,B03002_012E,Total population:  Hispanic or Latino,block group,acs/acs5,2022,2020,Investigate,
+Demographics,Total Resident Population,P001001,Total Population,tract,dec/sf1,2010,2010,NA,
+Demographics,Total Resident Population,P1_001N,Total Population,block,dec/dhc,2020,2020,NA,
+Demographics,Total Resident Population,B01003_001E,Total Population,tract,acs/acs5,2022,2020,NA,

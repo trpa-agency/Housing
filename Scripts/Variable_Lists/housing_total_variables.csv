@@ -1,0 +1,20 @@
+Variable,Code,Category,Datasource,Datasource Name,CodeNumber,Year,census_geom_year,GeometryLevel,
+Total: Total,B08137_001,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_001,2014,2010,tract,B08137_001E
+Householder lived in owner-occupied housing units Total,B08137_002,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_002,2014,2010,tract,B08137_002E
+"Car, truck, or van - drove alone: Total",B08137_004,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_004,2014,2010,tract,B08137_004E
+"Car, truck, or van - carpooled: Total",B08137_007,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_007,2014,2010,tract,B08137_007E
+Householder lived in renter-occupied housing units Total,B08137_003,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_003,2014,2010,tract,B08137_003E
+Walked: Total,B08137_013,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_013,2014,2010,tract,B08137_013E
+Public transportation (excluding taxicab): Total,B08137_010,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_010,2014,2010,tract,B08137_010E
+Public transportation (excluding taxicab): Householder lived in owner-occupied housing units,B08137_011,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_011,2014,2010,tract,B08137_011E
+Worked from home: Total,B08137_019,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_019,2014,2010,tract,B08137_019E
+Walked: Householder lived in owner-occupied housing units,B08137_014,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_014,2014,2010,tract,B08137_014E
+"Taxicab, motorcycle, bicycle, or other means: Total",B08137_016,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_016,2014,2010,tract,B08137_016E
+"Taxicab, motorcycle, bicycle, or other means: Householder lived in owner-occupied housing units",B08137_017,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_017,2014,2010,tract,B08137_017E
+Worked from home: Householder lived in owner-occupied housing units,B08137_020,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_020,2014,2010,tract,B08137_020E
+"Car, truck, or van - drove alone: Householder lived in renter-occupied housing units",B08137_006,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_006,2014,2010,tract,B08137_006E
+"Car, truck, or van - carpooled: Householder lived in renter-occupied housing units",B08137_009,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_009,2014,2010,tract,B08137_009E
+Public transportation (excluding taxicab): Householder lived in renter-occupied housing units,B08137_012,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_012,2014,2010,tract,B08137_012E
+Walked: Householder lived in renter-occupied housing units,B08137_015,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_015,2014,2010,tract,B08137_015E
+"Taxicab, motorcycle, bicycle, or other means: Householder lived in renter-occupied housing units",B08137_018,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_018,2014,2010,tract,B08137_018E
+Worked from home: Householder lived in renter-occupied housing units,B08137_021,Means of Transportation to Work by Tenure,American Community Survey,acs/acs5,B08137_021,2014,2010,tract,B08137_021E
