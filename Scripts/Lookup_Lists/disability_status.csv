@@ -1,0 +1,25 @@
+variable_code,variable_name,Disability
+B18101_017E,Male: 65 to 74 years: No disability,FALSE
+B18101_024E,Female: Under 5 years: No disability,FALSE
+B18101_027E,Female: 5 to 17 years: No disability,FALSE
+B18101_030E,Female: 18 to 34 years: No disability,FALSE
+B18101_033E,Female: 35 to 64 years: No disability,FALSE
+B18101_036E,Female: 65 to 74 years: No disability,FALSE
+B18101_039E,Female: 75 years and over: No disability,FALSE
+B18101_005E,Male: Under 5 years: No disability,FALSE
+B18101_008E,Male: 5 to 17 years: No disability,FALSE
+B18101_014E,Male: 35 to 64 years: No disability,FALSE
+B18101_011E,Male: 18 to 34 years: No disability,FALSE
+B18101_020E,Male: 75 years and over: No disability,FALSE
+B18101_016E,Male: 65 to 74 years: With a disability,TRUE
+B18101_019E,Male: 75 years and over: With a disability,TRUE
+B18101_026E,Female: 5 to 17 years: With a disability,TRUE
+B18101_029E,Female: 18 to 34 years: With a disability,TRUE
+B18101_032E,Female: 35 to 64 years: With a disability,TRUE
+B18101_035E,Female: 65 to 74 years: With a disability,TRUE
+B18101_038E,Female: 75 years and over: With a disability,TRUE
+B18101_010E,Male: 18 to 34 years: With a disability,TRUE
+B18101_004E,Male: Under 5 years: With a disability,TRUE
+B18101_007E,Male: 5 to 17 years: With a disability,TRUE
+B18101_013E,Male: 35 to 64 years: With a disability,TRUE
+B18101_023E,Female: Under 5 years: With a disability,TRUE
